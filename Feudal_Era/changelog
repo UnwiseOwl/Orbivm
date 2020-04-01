@@ -1,0 +1,36 @@
+Version (UO - DEV)
+* Fixed unit conflict with mainline for Mermaid lines
+* Added translations folder
+* Updated leadership,slow,poison to work with 1.15+
+* Updated old mainline special notes
+** Update custom specials to new format
+** Update IDs to not potentially break the game
+
+Version 0.0.6: (TK - August 5 2013)
+* Fixed missing movetypes
+* Updated old names
+
+Version 0.0.5: (UO - May 6 2013)
+* Fixed conflicting movetypes
+
+Version 0.0.4: (UO, April 15 2013)
+* Temuchin Khan made some kedari updates (nice work!)
+    * Swapped reversed desert ambusher and footman sprite
+    * Movetype changes
+    * Changes to faction cfgs
+
+Version 0.0.3: (UO, December 15 2012)
+* Update and new release for 1.11 (been a while)
+* Made various Kedari updates as suggested by Temuchin
+* Remerged new Arigwaithi with old FE Arigwaithi with some changes
+* Replaced Ceresian incidences of AMLA TOUGH with AMLA DEFAULT
+* Replaced Ceresian PHALANX ability with IE Dev FORMATION
+* 'Fixed' High Elf sound macro bugs
+* 'Fixed' Orcish sound macro bugs 
+
+Version 0.0.2: (Chefu)
+*Update and new release for 1.8 (been a while)
+*Re-merged Kedari split
+*Fixed Elvish Sorceress movement type and broken macros
+
+Version 0.0.1: Unstable

@@ -1,0 +1,33 @@
+Version 0.4+ (You? - Future plans)
+    ** Make multiplayer campaign ala LoW
+    ** Balance and difficulty level sanity checking
+    ** Make the maps smaller
+    ** Fix recruits so that Samnites and Gravites have different recruit lists
+    ** Find a way to get the Khampsa in there (maybe in the desert interaction somehow?)
+    ** Add 3a into the campaign generally, skipping it if Brotus lives is silly
+    ** Consider making the enemies in 3a Arendians, then the cavalry that chases in the desert into Arendians too?
+    ** Improve story and lore interactions
+    ** Think about removing the dragon from S6, we already have an Orcs/Dragon fight in the Wild Era
+    ** Make the guard interaction in S4 more interesting
+
+Version 0.7.0 (UO - 15 March 2020)
+    * Port to 1.14/1.15
+    * S1: Unlucky Draw
+        * Sparxus is now a Hoplomachus, opponents are a Samnis and Pugnator.
+        * Intro has fewer moving parts, so runs faster
+        * Added some noblemen to stop orcs using the castles as cover
+        * Fixed strange enemy AI behaviour
+    * S2: Hooboy did I change this scenario, but it might be irredemable.
+        * Map is slightly smaller, with 1/3 as many orcish villages
+        * Lavinians get a larger starting castle
+        * Late-arriving Lavinians get castles, more gold and some extra cavalry
+    * S4: End of the Paved Road
+        * Made it more obvious how to get Charcarydon on side
+    * S7: Freedom has a meaning
+        * Grarivus' recruits now work correctly.
+        
+Version 0.6.1 (UO)
+    * Port to 1.10
+    
+Version 0.6.0 (UO)
+    * Port to 1.8

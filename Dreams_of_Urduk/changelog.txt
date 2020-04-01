@@ -1,0 +1,13 @@
+Version 0.4 (UnwiseOwl - 10 March 2020)
+    * Ported to 1.14/1.15
+    * Fixed credits
+    * Got rid of bonus gold after last scenario
+    
+Version 0.3 (UO - ?)
+    Ported to 1.12
+    
+Version 0.2 (UO - Jul 2012)
+    *Ported to 1.10
+    
+Version 0.1 (turin)
+    *Initial release

@@ -1,0 +1,56 @@
+#ifdef THE_SUMMARY_OF_THE_CAMPAIGN
+1. Unlucky Draw
+The year is ~700YE. Sparxus is an orcish gladiator in the Lavinian Coliseum, as was his father, and his father, and so on for the last four hundred or so years - no orc knows exactly, or cares. Truth be told, the orcs are for the most part happy with their lot. They are given the opportunity to fight, the best fighters get to mate, and, at least in the orc districts of the big cities like Lavinium, life is run pretty much how it would naturally be for orcs on the outside.
+
+This balance, however, cannot last. The orcs are not really satisfied. Their conflicts are artificial, created by the Lavinians for their own pleasure, they are not allowed to fight on their own outside the Coliseum - that was damage valuable property - and the groups they are separated into for the fights are often not those they would have chosen themselves.
+
+This flaw in the gladiatorial system forces itself suddenly upon our hero Sparxus when, one day at the Coliseum, he is put on the Red Team with his arch-nemesis Grarivus, as well as the minuti Brotus and a few other gladiatores, against a Blue Team containing his buddy Proxius. He has no choice but to kill or be killed.
+
+
+
+2. The Slave Quarters
+After the 'victorious' day at the Coliseum, Sparxus and the other gladiatores are returned to the slave quarters. Sparxus - who is both more intelligent than the average orc and rather popular - makes a speech to the orcs about how they cannot continue living like this, and how they need to escape and return to their ancestral lands (or really any lands they can get that aren't in the grasp of the oppressive Lavinian Empire). There they can fight when they wish, not at predetermined times, and with whom they wish, not with randomly chosen opponents who they might not want to kill.
+
+Many of the orcs agree with Sparxus, including Grarivus, who commands a large following himself, and who makes a pact with Sparxus to not fight until they have finished their escape - at which point they will, presumably, duel to the death. That night they rush the city wall, kill the guards and head off into the darkness.
+
+
+
+3. What the Dawn Brought
+The Lavinians swiftly recover, and, unwilling to lose so many valuable slaves or set a precedent of letting escapees go their way unhindered, they send out Nemidian scouts to hunt Sparxus down. There is a group of forested hills to the northwest of Lavinium, which Sparxus and Grarivus decide to head towards, hoping to get the Nemidians on unfriendly terrain and then ambush them.
+
+[if Brotus is alive]
+Sparxus consults the minuti Brotus, who is quite knowledgeable about geography and knows that they should head west-north-west to get to a mountain pass that will help them escape from the Lavinian Empire - though this makes little sense to the other orcs.
+
+
+
+[if Brotus is dead]
+3.5. A Detour
+Unsure of where to go, Sparxus follows the Lavinian Highway heading north-north-west until he reaches a small town which he and the other orcs attack in hopes of finding a map or some sort of directions to the orcish lands. After capturing the town they ends up finding a map, which the Lavinians make many of, in the office of the local magistrate, and they  are on their way again, taking the road that goes due west.
+
+
+
+4. End of the Paved Road
+The Lavinian Highway has no terminus, for it is a great loop. Where the west-north-west and west roads meet, they do not cross and continue in those directions, but connect, and one blindly following the road would eventually return to Lavinium from whence he came, for all roads lead to there.
+
+At the meeting of these two roads, however, is a town, and this town, according to the directions Sparxus has received, marks the edge of the Lavinian empire and the point from which they should set off across the desert towards the mountains and their homeland. Upon seeing the town, Sparxus decides not to leave without breaking into the slave quarters there and freeing those orcs as well.
+
+
+
+5. Crossing the Desert
+Sparxus sets off across the desert towards the mountains, but the Lavinians, enraged again by his taking of the border town, have come out in force against him, and a patrol of Arendian cavalry has been coming across the plains to intersect his flight for some days now. Both of these forces meet Sparxus a few leagues outside the town and engage him. Their objective now is not to capture him, but to kill him. Sparxus, unable to stand and fight them, heads out across the desert heading for the mountains.
+
+
+
+6. The Last Stage
+Having escaped from the Lavinians and Arendians, Sparxus has only to cross the mountains to re-enter the ancient homes of the orcs and stop his flight from Lavinium. The only hazards in the mountains are dragons, eagles, and, of course, dwarves who, as trading partners of the Lavinians, are more than willing to offer their services (for a price) in the destruction of a group escaped gladiators that the Lavinians themselves were unable to control.
+
+After Sparxus proves to the dwarves that any such attempt will be costly, and that the orcs pose no threat to the dwarves (and indeed desire the same thing, freedom - though that has a different meaning to the dwarves, to be sure), the dwarves relent in their attack. The dragon cannot be killed, but it can be driven back into the highest mountains and fled from. The orcs head north-north-east, where they find a ruined orc village in the western slopes of the mountains. They settle there.  
+
+
+
+7. Freedom Has a Meaning
+Sparxus and Grarivus has successfully brought their people out of the Lavinian slave pens are to the home of their ancestors. Now they will fulfil their pact. They are set to duel a month after arriving in the western slopes of the mountains, and, in true gladiatorial style, they will not go one versus one, but will take have groups of several warriors on each side. A makeshift coliseum is made in a steep valley, and the duel commences. The winner will be undisputed lord of the Chainbreaker clan - in the half-remembered words of the old language, their Khan.
+
+This is, after all, what the orcs wanted when they began their escape - not freedom from fighting, but the freedom to fight who and how they wanted.
+
+#endif

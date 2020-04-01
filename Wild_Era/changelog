@@ -1,0 +1,24 @@
+Version 0.1.1 (Sep 10 2008, turin):
+    * Primeval Menn faction added
+    * Monsters faction added
+
+Version 0.1.2: (Jul 12 2012, UnwiseOwl):
+    * Ported to Wesnoth 1.10
+
+Version 0.1.3: (Jul 15 2012, UnwiseOwl):
+    -Balancing changes
+        * WE_Gobblers XP +12 to 28
+        * WE_Wyvern -1 movement to 8
+    -Assorted fixes
+        * Monsters now become leaders upon stepping on keeps
+        * Change to WE heroes so that monsters can recruit all level twos and have level two initial leader.
+        * Added mannish id to various.cfg so that Menn get names and races displayed correctly and can have traits
+        * Removed translation marker on blank monster descriptions.
+
+Version 0.1.4: (1pril 14 2017, UnwiseOwl):
+		* Port to Wesnoth 1.12,1.14
+		* Added translations folder
+			
+FUTURE VERSIONS:
+        *** Added negative traits for Menn. Seemed a nice way to indicate their primitive nature.
+		
