@@ -1,0 +1,26 @@
+border_size=1
+usage=map
+
+       Ww,       Ww,       Ww,       Gg,       Ww,       Gg,       Ww,       Gg,       Ww,       Gg,   Ww^Bw|,       Gg,       Ww,       Gg,       Ww,       Gg,       Gg,       Gg,       Ww,       Gg,       Gg,       Gg
+       Ww,       Ww,       Ww,       Gg,       Ww,       Gg,       Ww,       Gg,       Ww,       Gg,   Ww^Bw|,       Gg,       Ww,       Gg,       Ww,       Gg,       Gg,       Gg,       Ww,       Gg,       Gg,       Gg
+       Wo,       Wo,       Wo,       Ww,       Wo,       Ww,       Wo,       Ww,       Wo,       Ww,   Ww^Bw|,       Ww,       Wo,       Ww,       Wo,       Ww,       Ww,       Ww,       Ww,       Gg,       Ww,       Ww
+       Wo,       Wo,       Ww,       Wo,       Ww,       Wo,       Ww,       Wo,       Ww,       Ww,   Ww^Bw|,       Ww,       Ww,       Wo,       Ww,       Wo,       Wo,       Wo,       Wo,       Ww,       Wo,       Wo
+       Ww,       Ww,       Ww,       Ww,       Gg,       Ww,       Gg,       Gg,       Gg,       Gg,       Rr,       Gg,       Gg,       Ww,       Ww,       Ww,       Ww,       Wo,       Ww,       Wo,       Wo,       Wo
+       Ww,       Ww,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Ch,       Ch,       Rr,       Ch,       Ch,       Gg,       Gg,       Ww,       Gg,       Ww,       Ww,       Ww,       Ww,       Ww
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Ch,       Ch,       Rr,       Rr,       Rr,       Rr,       Rr,       Ch,       Ch,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Ch,       Ch,       Rr,       Rr,    Gg^Vh,    Gg^Vh,       Rr,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Ch,       Ch,       Gg,       Gg,       Gg,       Rr,       Rr
+       Rr,       Rr,       Rr,       Ch,       Rr,       Rr,    Gg^Vh,    Gg^Vh,       Ww,    Gg^Vh,       Rr,    Gg^Vh,       Ww,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Ch,       Rr,       Rr,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,       Rr,    Gg^Vh,    Gg^Vh,       Ww,    Gg^Vh,    Gg^Vh,       Rr,    Gg^Vh,    Gg^Vh,       Ww,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,    Gg^Vh,       Rr,       Rr,    Gg^Vh,       Rr,       Rr,       Kh,       Rr,       Rr,    Gg^Vh,       Rr,       Rr,    Gg^Vh,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,    Gg^Vh,    Gg^Vh,    Gg^Vh,       Rr,       Kh,    Gg^Vh,       Ch,    Gg^Vh,       Kh,       Rr,    Gg^Vh,    Gg^Vh,    Gg^Vh,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,    Gg^Vh,       Ww,    Gg^Vh,       Rr,    Gg^Vh,       Ch,     1 Kh,       Ch,    Gg^Vh,       Rr,    Gg^Vh,       Ww,    Gg^Vh,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,    Gg^Vh,       Ww,    Gg^Vh,       Rr,       Kh,       Ch,       Ch,       Ch,       Kh,       Rr,    Gg^Vh,       Ww,    Gg^Vh,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Rr,    Gg^Vh,       Kh,    Gg^Vh,       Rr,       Rr,       Rr,    Gg^Vh,    Gg^Vh,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Ch,       Rr,       Rr,       Rr,    Gg^Vh,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Rr,    Gg^Vh,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Rr,       Ch,       Gg,       Gg,       Gg
+       Gg,       Gg,       Rr,       Rr,       Rr,    Gg^Vh,    Gg^Vh,       Ww,       Ww,    Gg^Vh,       Rr,    Gg^Vh,       Ww,       Ww,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Rr,       Gg,       Gg,       Gg
+       Rr,       Rr,       Gg,       Ch,       Ch,       Rr,       Rr,    Gg^Vh,    Gg^Vh,    Gg^Vh,       Rr,    Gg^Vh,    Gg^Vh,    Gg^Vh,       Rr,       Rr,       Ch,       Ch,       Gg,       Rr,       Rr,       Rr
+       Gg,       Gg,       Gg,       Gg,       Gg,       Ch,       Ch,       Rr,       Rr,    Gg^Vh,       Rr,    Gg^Vh,       Rr,       Rr,       Ch,       Ch,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Ch,       Ch,       Rr,       Rr,       Rr,       Ch,       Ch,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Ch,       Rr,       Ch,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Rr,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Rr,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg

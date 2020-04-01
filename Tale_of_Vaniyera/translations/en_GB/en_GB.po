@@ -1,0 +1,1455 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: wespo 2.2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+
+#. [scenario]: id = 0_Camp_of_Lavinium;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:5
+msgid "Camp of Lavinium"
+msgstr "Camp of Lavinium"
+
+#. [story]: [part]
+#: ../scenarios/0_Camp_of_Lavinium.cfg:98
+msgid ""
+"I am Vaniyera, one-time disciple of Faolan, a Thunderblade on our great "
+"Council. I do not purpose to tell the tale of the Thunderblades, though it "
+"is a great and long one and surely none know it better than I. Instead, let "
+"me speak of the first time that I met with the cursed men from the south, "
+"the Lavinians, and their invasion of our lands."
+msgstr ""
+"I am Vaniyera, one-time disciple of Faolan, a Thunderblade on our great "
+"Council. I do not purpose to tell the tale of the Thunderblades, though it "
+"is a great and long one and surely none know it better than I. Instead, let "
+"me speak of the first time that I met with the cursed men from the south, "
+"the Lavinians, and their invasion of our lands."
+
+#. [story]: [part]
+#: ../scenarios/0_Camp_of_Lavinium.cfg:101
+msgid ""
+"It had been over a hundred years since we arrived on this continent of "
+"promise. From the moment of our arrival chaos reigned, for from that time up "
+"until to this very day the Marauders, a savage and violent people, have "
+"battled with us to the death."
+msgstr ""
+"It had been over a hundred years since we arrived on this continent of "
+"promise. From the moment of our arrival chaos reigned, for from that time up "
+"until to this very day the Marauders, a savage and violent people, have "
+"battled with us to the death."
+
+#. [story]: [part]
+#: ../scenarios/0_Camp_of_Lavinium.cfg:105
+msgid ""
+"You have heard, of course, of how our king Vanimaro, Lord of the Thunder, "
+"died securing the new home of the Sidhe. He led us from the lost lands where "
+"we once lived to this great forest and the splendor of Mount Stormkeep."
+msgstr ""
+"You have heard, of course, of how our king Vanimaro, Lord of the Thunder, "
+"died securing the new home of the Sidhe. He led us from the lost lands where "
+"we once lived to this great forest and the splendor of Mount Stormkeep."
+
+#. [story]: [part]
+#: ../scenarios/0_Camp_of_Lavinium.cfg:108
+msgid ""
+"After his death, our brethren, who we now call the Issaelfr, abandoned us "
+"and allied with the Marauder rabble. We were left, war-weary and alone in "
+"our struggle to survive on this continent. And the Marauders were not the "
+"only threat to our race."
+msgstr ""
+"After his death, our brethren, who we now call the Issaelfr, abandoned us "
+"and allied with the Marauder rabble. We were left, war-weary and alone in "
+"our struggle to survive on this continent. And the Marauders were not the "
+"only threat to our race."
+
+#. [story]: [part]
+#: ../scenarios/0_Camp_of_Lavinium.cfg:112
+msgid ""
+"We had heard rumors of a host of men approaching, and Faolan and I went to "
+"investigate. We travelled quickly to the southern edges of our Western March "
+"to see if these rumors were true and indeed, we saw them, the Lavinians, "
+"encamped just beyond the tree-line."
+msgstr ""
+"We had heard rumours of a host of men approaching, and Faolan and I went to "
+"investigate. We travelled quickly to the southern edges of our Western March "
+"to see if these rumours were true and indeed, we saw them, the Lavinians, "
+"encamped just beyond the tree-line."
+
+#. [story]: [part]
+#: ../scenarios/0_Camp_of_Lavinium.cfg:115
+msgid ""
+"We decided to move closer in the hopes of hearing their plans. The Lavinian "
+"campfire was bright in the distance, but we were then, as we are now, the "
+"masters of this forest, and we were cautious and careful to not be seen..."
+msgstr ""
+"We decided to move closer in the hopes of hearing their plans. The Lavinian "
+"campfire was bright in the distance, but we were then, as we are now, the "
+"masters of this forest, and we were cautious and careful to not be seen..."
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:132
+msgid ""
+"Now, men, we stand here, but a stone's throw from the land of the elves, a "
+"land that we must seize, for the glory and security of our Empire. Any "
+"further, and we will be in their territory, why, they may be listening, even "
+"now."
+msgstr ""
+"Now, men, we stand here, but a stone's throw from the land of the elves, a "
+"land that we must seize, for the glory and security of our Empire. Any "
+"further, and we will be in their territory, why, they may be listening, even "
+"now."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:136
+msgid ""
+"What matter? They cannot challenge the might of Lavinia! We crushed the "
+"Airiya, and we shall crush them!"
+msgstr ""
+"What matter? They cannot challenge the might of Lavinia! We crushed the "
+"Airiya, and we shall crush them!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:140
+msgid ""
+"Silence! These elves are not to be underestimated. We have never before "
+"faced their kind - they are newcomers to the land - but if the rumors are "
+"true, they are centuries old and carry with them the experience of many "
+"battles."
+msgstr ""
+"Silence! These elves are not to be underestimated. We have never before "
+"faced their kind - they are newcomers to the land - but if the rumours are "
+"true, they are centuries old and carry with them the experience of many "
+"battles."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:144
+msgid "Nevertheless, they shall fall before our blades!"
+msgstr "Nevertheless, they shall fall before our blades!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:148
+msgid ""
+"Do not be arrogant, Centurion! You know what befell the prideful Dardan "
+"heroes of old. Now listen. Our plan is simple. Since we must fight in "
+"forest, we cannot afford a draw-out battle. We must march swiftly, pushing "
+"forwards until we reach the foothills of the fey mountain itself, where our "
+"armies will be in the open and able to defeat the elves."
+msgstr ""
+"Do not be arrogant, Centurion! You know what befell the prideful Dardan "
+"heroes of old. Now listen. Our plan is simple. Since we must fight in "
+"forest, we cannot afford a draw-out battle. We must march swiftly, pushing "
+"forwards until we reach the foothills of the fey mountain itself, where our "
+"armies will be in the open and able to defeat the elves."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:152
+msgid "And we surely shall... soon the forests of the elves will be ours!"
+msgstr "And we surely shall... soon the forests of the elves will be ours!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:156
+msgid "Not before your life is mine!"
+msgstr "Not before your life is mine!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:160
+msgid "Now, men, rest yourselves and your troops in preparation for battle."
+msgstr "Now, men, rest yourselves and your troops in preparation for battle."
+
+#. [message]: speaker = Silvius L;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:164
+msgid "Aye!"
+msgstr "Aye!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:168
+msgid "Good! Rest tonight. Tomorrow we shall strike."
+msgstr "Good! Rest tonight. Tomorrow we shall strike."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:173
+msgid ""
+"Tomorrow? We have barely any time left, Vaniyera! These men are here to "
+"destroy us, and we must act quickly if we are to stop them. I will head back "
+"and prepare the citadel as a first line of defense. You remain here until "
+"they move out, watch them, and then meet me there. Once you return we must "
+"attempt to reach Mount Stormkeep and warn the council..."
+msgstr ""
+"Tomorrow? We have barely any time left, Vaniyera! These men are here to "
+"destroy us, and we must act quickly if we are to stop them. I will head back "
+"and prepare the citadel as a first line of defense. You remain here until "
+"they move out, watch them, and then meet me there. Once you return we must "
+"attempt to reach Mount Stormkeep and warn the council..."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/0_Camp_of_Lavinium.cfg:177
+msgid "Yes, Master. A safe journey to you."
+msgstr "Yes, Master. A safe journey to you."
+
+#. [scenario]: id = 1_Ambush;
+#: ../scenarios/1_Ambush.cfg:6
+msgid "Ambush"
+msgstr "Ambush"
+
+#. [story]: [part]
+#: ../scenarios/1_Ambush.cfg:49
+msgid ""
+"Once Faolan left, I took the chance to observe these men before us, men so "
+"different from the Marauders. Whereas the Marauders are almost as at home as "
+"any elf amongst the trees, these Lavinians were out of place here in forests "
+"of the north, so different to the plains of their homelands in the far south."
+msgstr ""
+"Once Faolan left, I took the chance to observe these men before us, men so "
+"different from the Marauders. Whereas the Marauders are almost as at home as "
+"any elf amongst the trees, these Lavinians were out of place here in forests "
+"of the north, so different to the plains of their homelands in the far south."
+
+#. [story]: [part]
+#: ../scenarios/1_Ambush.cfg:52
+msgid ""
+"The humans, though strange to me, proved to be quite interesting. At first, "
+"I admired their courage, spending a part of their brief lives travelling so "
+"far from their homeland seeking fame and glory. But they were here seeking "
+"the destruction of the Sidhe, so I knew that I must use my new knowledge to "
+"fight and destroy them in turn."
+msgstr ""
+"The humans, though strange to me, proved to be quite interesting. At first, "
+"I admired their courage, spending a part of their brief lives travelling so "
+"far from their homeland seeking fame and glory. But they were here seeking "
+"the destruction of the Sidhe, so I knew that I must use my new knowledge to "
+"fight and destroy them in turn."
+
+#. [story]: [part]
+#: ../scenarios/1_Ambush.cfg:55
+msgid ""
+"When the sun rose, the Lavinian camp filled with life, and the Emperor and "
+"his legions headed off with great efficiency to their fated meeting with "
+"Faolan. They marched fast, but I knew we could move faster through the "
+"forest. Then a Marauder raiding party blocked my path..."
+msgstr ""
+"When the sun rose, the Lavinian camp filled with life, and the Emperor and "
+"his legions headed off with great efficiency to their fated meeting with "
+"Faolan. They marched fast, but I knew we could move faster through the "
+"forest. Then a Marauder raiding party blocked my path..."
+
+#. [objective]: condition = win;
+#: ../scenarios/1_Ambush.cfg:84
+msgid "Bring Vaniyera to the end of the road"
+msgstr "Bring Vaniyera to the end of the road"
+
+#. [objective]: condition = win;
+#: ../scenarios/1_Ambush.cfg:88
+msgid "Defeat the Marauder leader (bonus)"
+msgstr "Defeat the Marauder leader (bonus)"
+
+#. [objective]: condition = lose;
+#: ../scenarios/1_Ambush.cfg:92 ../scenarios/2_Too_Late.cfg:110
+msgid "Death of Vaniyera"
+msgstr "Death of Vaniyera"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/1_Ambush.cfg:103
+msgid "Fools! Out of my way!"
+msgstr "Fools! Out of my way!"
+
+#. [message]: speaker = Sovjurn;
+#: ../scenarios/1_Ambush.cfg:107
+msgid "Never! You Sidhe will pay for your theft of our ancient lands!"
+msgstr "Never! You Sidhe will pay for your theft of our ancient lands!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/1_Ambush.cfg:111
+msgid ""
+"Imbeciles! Perhaps I can skirt around these men and not waste time engaging "
+"them in combat..."
+msgstr ""
+"Imbeciles! Perhaps I can skirt around these men and not waste time engaging "
+"them in combat..."
+
+#. [message]: speaker = Sovjurn;
+#: ../scenarios/1_Ambush.cfg:115
+msgid "To battle!"
+msgstr "To battle!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/1_Ambush.cfg:119
+msgid ""
+"Sigh... Well, menn, you've all fought the marauders before. Keep to the "
+"forests, stick together, and we should be able to fight out way through."
+msgstr ""
+"Sigh... Well, menn, you've all fought the marauders before. Keep to the "
+"forests, stick together, and we should be able to fight out way through."
+
+#. [message]: speaker = Braman;
+#: ../scenarios/1_Ambush.cfg:123
+msgid ""
+"This will be an excellent opportunity to blood our raindancers, Vaniyera. "
+"Their command of the lightning will be invaluable against the armour of the "
+"marauder warriors."
+msgstr ""
+"This will be an excellent opportunity to blood our raindancers, Vaniyera. "
+"Their command of the lightning will be invaluable against the armour of the "
+"marauder warriors."
+
+#. [message]: speaker = Sovjurn;
+#: ../scenarios/1_Ambush.cfg:135
+msgid "Aaargh! You Sidhe think that... ugh."
+msgstr "Aaargh! You Sidhe think that... ugh."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/1_Ambush.cfg:146
+msgid "It is done. On through the forests to Faolan."
+msgstr "It is done. On through the forests to Faolan."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/1_Ambush.cfg:166
+msgid ""
+"That's enough, these men will wait, we have other concerns. On through the "
+"forests to Faolan"
+msgstr ""
+"That's enough, these men will wait, we have other concerns. On through the "
+"forests to Faolan."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/1_Ambush.cfg:182 ../scenarios/2_Too_Late.cfg:249
+msgid ""
+"Damn! The Lavinians have surely outnumbered and defeated Faolan already. I "
+"have failed."
+msgstr ""
+"Damn! The Lavinians have surely outnumbered and defeated Faolan already. I "
+"have failed."
+
+#. [scenario]: id = 2_Too_Late;
+#: ../scenarios/2_Too_Late.cfg:5
+msgid "Too Late"
+msgstr "Too Late"
+
+#. [story]: [part]
+#: ../scenarios/2_Too_Late.cfg:61
+msgid ""
+"After dispersing the marauders, we continued on to our lands, hoping we had "
+"not lost too much time. As we approached the nearest outpost, a place that I "
+"had made my home in this new land, we were greeted only by the stench of "
+"smoke and blood."
+msgstr ""
+"After dispersing the marauders, we continued on to our lands, hoping we had "
+"not lost too much time. As we approached the nearest outpost, a place that I "
+"had made my home in this new land, we were greeted only by the stench of "
+"smoke and blood."
+
+#. [objective]: condition = win;
+#: ../scenarios/2_Too_Late.cfg:106 ../scenarios/3_Just_in_Time.cfg:248
+msgid "Defeat the Lavinian Centurion"
+msgstr "Defeat the Lavinian Centurion"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:120
+msgid ""
+"My outpost... destroyed! I fear that the Lavinians have already reached "
+"Faolan's fortress... I hope he can withstand them."
+msgstr ""
+"My outpost... destroyed! I fear that the Lavinians have already reached "
+"Faolan's fortress... I hope he can withstand them."
+
+#. [message]: speaker = Braman;
+#: ../scenarios/2_Too_Late.cfg:124
+msgid "Faolan will not be beaten easily, lord."
+msgstr "Faolan will not be beaten easily, lord."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:128
+msgid ""
+"He has never backed down against any odds. Still, this will be his greatest "
+"challenge, and I would be at his side for it."
+msgstr ""
+"He has never backed down against any odds. Still, this will be his greatest "
+"challenge, and I would be at his side for it."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:132
+msgid "Who goes there, friend or foe?"
+msgstr "Who goes there, friend or foe?"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:136
+msgid "Foe!"
+msgstr "Foe!"
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:140
+msgid "Ah, a challenge!"
+msgstr "Ah, a challenge!"
+
+#. [message]: speaker = Marcellus;
+#: ../scenarios/2_Too_Late.cfg:144
+msgid "Venius - let me take him. I can defeat him alone."
+msgstr "Venius - let me take him. I can defeat him alone."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:148
+msgid ""
+"Oh, really? Very well, let it be so. Show us all what your people are "
+"capable of! (Perhaps I can finally be rid of you.)"
+msgstr ""
+"Oh, really? Very well, let it be so. Show us all what your people are "
+"capable of! (Perhaps I can finally be rid of you.)"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:152
+msgid ""
+"You insult me, sending such a weakling as this. No matter, he will perish "
+"with you."
+msgstr ""
+"You insult me, sending such a weakling as this. No matter, he will perish "
+"with you."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:156
+msgid ""
+"Feisty, are we? You elves cannot stand against the might of Lavinia. You "
+"will die like the rest."
+msgstr ""
+"Feisty, are we? You elves cannot stand against the might of Lavinia. You "
+"will die like the rest."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:160
+msgid "We shall see."
+msgstr "We shall see."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:164
+msgid ""
+"We cannot match the Lavinians when they are full of courage in the full "
+"light of day. We should keep to the forests and wait until the night to "
+"strike with our full force. Still, do not hesitate for too long, we must "
+"move quickly to reach Faolan before the Lavinians."
+msgstr ""
+"We cannot match the Lavinians when they are full of courage in the full "
+"light of day. We should keep to the forests and wait until the night to "
+"strike with our full force. Still, do not hesitate for too long, we must "
+"move quickly to reach Faolan before the Lavinians."
+
+#. [message]: speaker = Braman;
+#: ../scenarios/2_Too_Late.cfg:168
+msgid ""
+"If we can remove these support troops quickly we should be able to take the "
+"fight to the Lavinians. Speed will be the key here."
+msgstr ""
+"If we can remove these support troops quickly we should be able to take the "
+"fight to the Lavinians. Speed will be the key here."
+
+#. [message]: speaker = Marcellus;
+#: ../scenarios/2_Too_Late.cfg:179
+msgid "No... Avenge me!... urgh."
+msgstr "No... Avenge me!... urgh."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:183
+msgid ""
+"Avenge you? Ha! You are not even a Lavinian. Why would I care for the likes "
+"of you?"
+msgstr ""
+"Avenge you? Ha! You are not even a Lavinian. Why would I care for the likes "
+"of you?"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:194
+msgid "Now that the weakling is gone the true battle can begin."
+msgstr "Now that the weakling is gone the true battle can begin."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:198
+msgid "Indeed."
+msgstr "Indeed."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:209
+msgid "What? How could an elf like you... I am a Lavinian!"
+msgstr "What? How could an elf like you... I am a Lavinian!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:213
+msgid ""
+"You were unwise to challenge the Sidhe, and have payed the price. As will "
+"your emperor."
+msgstr ""
+"You were unwise to challenge the Sidhe, and have payed the price. As will "
+"your emperor."
+
+#. [message]: speaker = Venius R;
+#: ../scenarios/2_Too_Late.cfg:217
+msgid "Urgh..."
+msgstr "Urgh..."
+
+#. [message]: speaker = Marcellus;
+#: ../scenarios/2_Too_Late.cfg:228
+msgid "This is turning sour. Let us pull back..."
+msgstr "This is turning sour. Let us pull back..."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/2_Too_Late.cfg:232
+msgid ""
+"I hope that Faolan is still alive. I can see the borders of his fortress in "
+"the forests ahead."
+msgstr ""
+"I hope that Faolan is still alive. I can see the borders of his fortress in "
+"the forests ahead."
+
+#. [scenario]: id = 3_Just_in_Time;
+#: ../scenarios/3_Just_in_Time.cfg:5
+msgid "Just in Time"
+msgstr "Just in Time"
+
+#. [story]: [part]
+#: ../scenarios/3_Just_in_Time.cfg:111
+msgid ""
+"There was no time to waste. That the outpost had been destroyed was proof - "
+"if proof was needed - that the danger was real, and that the Lavinians were "
+"advancing."
+msgstr ""
+"There was no time to waste. That the outpost had been destroyed was proof - "
+"if proof was needed - that the danger was real, and that the Lavinians were "
+"advancing."
+
+#. [story]: [part]
+#: ../scenarios/3_Just_in_Time.cfg:114
+msgid ""
+"As we approached Faolan's stronghold, we saw smoke once again rising from "
+"the forest. We feared that we would find this fortress destroyed, as the "
+"outpost had been, but the battle had barely begun."
+msgstr ""
+"As we approached Faolan's stronghold, we saw smoke once again rising from "
+"the forest. We feared that we would find this fortress destroyed, as the "
+"outpost had been, but the battle had barely begun."
+
+#. [objective]: condition = lose;
+#: ../scenarios/3_Just_in_Time.cfg:252
+#: ../scenarios/4_Remnants_of_the_Past.cfg:89
+#: ../scenarios/5_Retribution.cfg:112
+msgid "Death of Vaniyera or Faolan"
+msgstr "Death of Vaniyera or Faolan"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/3_Just_in_Time.cfg:262
+msgid "Master Faolan! I have brought help."
+msgstr "Master Faolan! I have brought help."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/3_Just_in_Time.cfg:266
+msgid ""
+"I knew you would not fail me, Vaniyera. Into the fray, quickly, there is no "
+"time to lose!"
+msgstr ""
+"I knew you would not fail me, Vaniyera. Into the fray, quickly, there is no "
+"time to lose!"
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:270
+msgid ""
+"The elves have received reinforcements. We'll need to defend our backs, men. "
+"Quantis, give us some cavalry support. Athus, hold the forests."
+msgstr ""
+"The elves have received reinforcements. We'll need to defend our backs, men. "
+"Quantis, give us some cavalry support. Athus, hold the forests."
+
+#. [message]: speaker = Quantis;
+#: ../scenarios/3_Just_in_Time.cfg:274
+msgid "Yes  sir!"
+msgstr "Yes  sir!"
+
+#. [message]: speaker = Athus;
+#: ../scenarios/3_Just_in_Time.cfg:278
+msgid "If you insist."
+msgstr "If you insist."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:282
+msgid "What was that, Athus?"
+msgstr "What was that, Athus?"
+
+#. [message]: speaker = Athus;
+#: ../scenarios/3_Just_in_Time.cfg:286
+msgid "I mean...Yes, sir!"
+msgstr "I mean...Yes, sir!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/3_Just_in_Time.cfg:290
+msgid ""
+"Remember the outposts! If they could, they would turn the entire forest to "
+"ash. They have no pity for us, have none for them."
+msgstr ""
+"Remember the outposts! If they could, they would turn the entire forest to "
+"ash. They have no pity for us, have none for them."
+
+#. [message]: speaker = Athus;
+#: ../scenarios/3_Just_in_Time.cfg:302
+msgid "Mercy!"
+msgstr "Mercy!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/3_Just_in_Time.cfg:306
+msgid "Remember those whom you gave no mercy to, Lavinian dog!"
+msgstr "Remember those to whom you gave no mercy, Lavinian dog!"
+
+#. [message]: speaker = Athus;
+#: ../scenarios/3_Just_in_Time.cfg:310
+msgid "Aaagh!..."
+msgstr "Aaagh!..."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/3_Just_in_Time.cfg:322
+msgid "There, the chieftain is slain. But... why do they not retreat?"
+msgstr "There, the chieftain is slain. But... why do they not retreat?"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/3_Just_in_Time.cfg:326
+msgid ""
+"That man was merely an underling of their leader, not even a Lavinian. The "
+"real enemy still stands."
+msgstr ""
+"That man was merely an underling of their leader, not even a Lavinian. The "
+"real enemy still stands."
+
+#. [message]: speaker = Quantis;
+#: ../scenarios/3_Just_in_Time.cfg:337
+msgid "Aaiyy..."
+msgstr "Aaiyy..."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:348
+msgid ""
+"It is a shame Quantis is dead. Avenge him, men, and we shall mourn him when "
+"this day is done!"
+msgstr ""
+"It is a shame Quantis is dead. Avenge him, men, and we shall mourn him when "
+"this day is done!"
+
+#. [message]: speaker = Athus;
+#: ../scenarios/3_Just_in_Time.cfg:352
+msgid ""
+"You wouldn't be found mourning me, Marsis. You Lavinians are all the same, "
+"you care only for your own kind."
+msgstr ""
+"You wouldn't be found mourning me, Marsis. You Lavinians are all the same, "
+"you care only for your own kind."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:362
+msgid "Be silent and do your job, Athus."
+msgstr "Be silent and do your job, Athus."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:381
+msgid "You traitor, Athus. You and your people will pay for this."
+msgstr "You traitor, Athus. You and your people will pay for this."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:393
+msgid "I am... Aaargh!..."
+msgstr "I am... Aaargh!..."
+
+#. [message]: speaker = Quantis;
+#: ../scenarios/3_Just_in_Time.cfg:404
+msgid "Pull back, men! I shan't die here."
+msgstr "Pull back, men! I shan't die here."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/3_Just_in_Time.cfg:415
+msgid ""
+"The stronghold is safe for a while. Hold it until I return - I head for "
+"Mount Stormkeep."
+msgstr ""
+"The stronghold is safe for a while. Hold it until I return - I head for "
+"Mount Stormkeep."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/3_Just_in_Time.cfg:419
+msgid ""
+"Wait! I do not think that is good strategy. We will lose too much time. We "
+"must take this fight back to their camp before it is too late and they are "
+"reinforced."
+msgstr ""
+"Wait! I do not think that is good strategy. We will lose too much time. We "
+"must take this fight back to their camp before it is too late and they are "
+"reinforced."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/3_Just_in_Time.cfg:423
+msgid ""
+"There is some wisdom in what you say, Mt. Stormkeep is too far... I fear the "
+"consequences, but we shall strike back at these Lavinians and bring our case "
+"before with the council later. Come, follow me - if we are to do this, a "
+"small detour is required."
+msgstr ""
+"There is some wisdom in what you say, Mt. Stormkeep is too far... I fear the "
+"consequences, but we shall strike back at these Lavinians and bring our case "
+"before with the council later. Come, follow me - if we are to do this, a "
+"small detour is required."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/3_Just_in_Time.cfg:443
+msgid "I hear the drums of Lavinia from afar."
+msgstr "I hear the drums of Lavinia from afar."
+
+#. [message]: speaker = Marsis V;
+#: ../scenarios/3_Just_in_Time.cfg:447
+msgid "Reinforcements! At last."
+msgstr "Reinforcements! At last."
+
+#. [scenario]: id = 4_Remnants_of_the_Past;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:5
+msgid "Remnants of the Past"
+msgstr "Remnants of the Past"
+
+#. [story]: [part]
+#: ../scenarios/4_Remnants_of_the_Past.cfg:51
+msgid ""
+"Faolan led us into a marshy wood to the west. He refused to tell me why. He "
+"pressed onward, ever faster, saying we had to reach a certain place before "
+"the night began."
+msgstr ""
+"Faolan led us into a marshy wood to the west. He refused to tell me why. He "
+"pressed onward, ever faster, saying we had to reach a certain place before "
+"the night began."
+
+#. [story]: [part]
+#: ../scenarios/4_Remnants_of_the_Past.cfg:54
+msgid ""
+"When we reached our destination, Faolan pulled me aside. 'This,' he said, "
+"'is the field upon which one of the greatest battles against the Marauders "
+"was fought.'"
+msgstr ""
+"When we reached our destination, Faolan pulled me aside. 'This,' he said, "
+"'is the field upon which one of the greatest battles against the Marauders "
+"was fought.'"
+
+#. [story]: [part]
+#: ../scenarios/4_Remnants_of_the_Past.cfg:57
+msgid ""
+"'At night, it is said that the spirits of the fallen men return to this "
+"place and do battle once again with the shades of elven warriors.'"
+msgstr ""
+"'At night, it is said that the spirits of the fallen men return to this "
+"place and do battle once again with the shades of elven warriors.'"
+
+#. [story]: [part]
+#: ../scenarios/4_Remnants_of_the_Past.cfg:60
+msgid ""
+"'It is also the burial-place of one of Vanimaro's greatest disciples. If "
+"this hero of old will fight at our side against the Lavinians, we may stand "
+"a chance of defeating them.'"
+msgstr ""
+"'It is also the burial-place of one of Vanimaro's greatest disciples. If "
+"this hero of old will fight at our side against the Lavinians, we may stand "
+"a chance of defeating them.'"
+
+#. [objective]: condition = win;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:85
+msgid "Move Faolan to the Tomb"
+msgstr "Move Faolan to the Tomb"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:103
+msgid ""
+"Now, the body of the great hero who fell in battle here lies nearby, and we "
+"must seek his aid. I do not know exactly where his tomb is, for it is "
+"unmarked and unhonored, but I believe it to be somewhere south of here."
+msgstr ""
+"Now, the body of the great hero who fell in battle here lies nearby, and we "
+"must seek his aid. I do not know exactly where his tomb is, for it is "
+"unmarked and unhonored, but I believe it to be somewhere south of here."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:107
+msgid ""
+"Hold off any hostile spirits until I discover the tomb. Then I must approach "
+"it alone and converse with him."
+msgstr ""
+"Hold off any hostile spirits until I discover the tomb. Then I must approach "
+"it alone and converse with him."
+
+#. [unit]: type = IE_Tortured_Soul;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:128
+#: ../scenarios/4_Remnants_of_the_Past.cfg:134
+#: ../scenarios/4_Remnants_of_the_Past.cfg:140
+#: ../scenarios/4_Remnants_of_the_Past.cfg:147
+#: ../scenarios/4_Remnants_of_the_Past.cfg:176
+#: ../scenarios/4_Remnants_of_the_Past.cfg:190
+#: ../scenarios/4_Remnants_of_the_Past.cfg:204
+msgid "Fallen Shade"
+msgstr "Fallen Shade"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:220
+msgid "This is where the old hero perished... he awakens."
+msgstr "This is where the old hero perished... he awakens."
+
+#. [unit]: id = Hero_of_Old; type = IE_Sidhe_Ancient;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:225
+msgid "Hero of Old"
+msgstr "Hero of Old"
+
+#. [message]: speaker = Hero_of_Old;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:235
+msgid "Faolan. Why do you call me from my sleep?"
+msgstr "Faolan. Why do you call me from my sleep?"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:239
+msgid ""
+"To ask for your aid and wisdom. Men from the south pour into our forests, "
+"torching them and destroying our people."
+msgstr ""
+"To ask for your aid and wisdom. Men from the south pour into our forests, "
+"torching them and destroying our people."
+
+#. [message]: speaker = Hero_of_Old;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:243
+msgid ""
+"This is beyond words. If the land our father Vanimaro found for us is in "
+"peril, then I must arise and fight to defend it. So say all us warriors who "
+"have perished in ages past."
+msgstr ""
+"This is beyond words. If the land our father Vanimaro found for us is in "
+"peril, then I must arise and fight to defend it. So say all us warriors who "
+"have perished in ages past."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:247
+msgid ""
+"I know that you will serve the people of Vanimaro faithfully in death as you "
+"did in life, old friend."
+msgstr ""
+"I know that you will serve the people of Vanimaro faithfully in death as you "
+"did in life, old friend."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/4_Remnants_of_the_Past.cfg:276
+msgid ""
+"The sun rises already... alas, the dead will not linger under its light, and "
+"we do not have another day to spend here. We must return to the battle, and "
+"do without the aid of the spirits."
+msgstr ""
+"The sun rises already... alas, the dead will not linger under its light, and "
+"we do not have another day to spend here. We must return to the battle, and "
+"do without the aid of the spirits."
+
+#. [scenario]: id = 5_Retribution;
+#: ../scenarios/5_Retribution.cfg:5
+msgid "Retribution"
+msgstr "Retribution"
+
+#. [story]: [part]
+#: ../scenarios/5_Retribution.cfg:89
+msgid ""
+"We soon left the woods of the dead, and sped south to the Lavinian camp to "
+"strike a blow against the heart of the Lavinian forces. Faolan urged us to "
+"send messengers to Mount Stormkeep, but he would not leave us himself, and "
+"no others were willing to leave the rest of us behind and flee from the "
+"coming battle to seek aid that would come too late."
+msgstr ""
+"We soon left the woods of the dead, and sped south to the Lavinian camp to "
+"strike a blow against the heart of the Lavinian forces. Faolan urged us to "
+"send messengers to Mount Stormkeep, but he would not leave us himself, and "
+"no others were willing to leave the rest of us behind and flee from the "
+"coming battle to seek aid that would come too late."
+
+#. [story]: [part]
+#: ../scenarios/5_Retribution.cfg:92
+msgid ""
+"The Lavinian Legion may be lauded as the greatest fighting force in the "
+"world, but it proved to be a giant with feet of clay. As we approached, we "
+"saw their camp was nearly empty, and open to attack. The battle had taken "
+"its toll on the Lavinians."
+msgstr ""
+"The Lavinian Legion may be lauded as the greatest fighting force in the "
+"world, but it proved to be a giant with feet of clay. As we approached, we "
+"saw their camp was nearly empty, and open to attack. The battle had taken "
+"its toll on the Lavinians."
+
+#. [objective]: condition = win;
+#: ../scenarios/5_Retribution.cfg:108
+msgid "Defeat Primus Maximus"
+msgstr "Defeat Primus Maximus"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/5_Retribution.cfg:125
+msgid ""
+"Lavinian scum! You will pay for your defiling of our home and your arrogance "
+"in challenging the Sidhe! Surrender or perish!"
+msgstr ""
+"Lavinian scum! You will pay for your defiling of our home and your arrogance "
+"in challenging the Sidhe! Surrender or perish!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:129
+msgid ""
+"You have insulted us for the last time. You elves may have defeated some of "
+"my lesser soldiers, but I am the Imperator. These are my personal legions, "
+"the elite of the elite, warriors among warriors. We shall never surrender to "
+"one such as you."
+msgstr ""
+"You have insulted us for the last time. You elves may have defeated some of "
+"my lesser soldiers, but I am the Imperator. These are my personal legions, "
+"the elite of the elite, warriors among warriors. We shall never surrender to "
+"one such as you."
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:133
+msgid ""
+"Our forces have been spread thin, this I know, but Claudius, Silvius, we "
+"will destroy these troublesome elves and then continue our assault on their "
+"capital when the fourth legion arrives."
+msgstr ""
+"Our forces have been spread thin, this I know, but Claudius, Silvius, we "
+"will destroy these troublesome elves and then continue our assault on their "
+"capital when the fourth legion arrives."
+
+#. [message]: speaker = Claudius S;
+#: ../scenarios/5_Retribution.cfg:137
+msgid "Yes Lord!"
+msgstr "Yes Lord!"
+
+#. [message]: speaker = Silvius L;
+#: ../scenarios/5_Retribution.cfg:141
+msgid "It shall be done! But our forces will not hold for long."
+msgstr "It shall be done! But our forces will not hold for long."
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:145
+msgid ""
+"Worry not, our reinforcements will soon arrive. Hold out until then, once "
+"they arrive we will surely crush this ragged band of elves and misfits by "
+"sheer weight of numbers."
+msgstr ""
+"Worry not, our reinforcements will soon arrive. Hold out until then, once "
+"they arrive we will surely crush this ragged band of elves and misfits by "
+"sheer weight of numbers."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/5_Retribution.cfg:149
+msgid ""
+"Vaniyera, take care! These reinforcements could arrive at any moment. We "
+"ought to refrain from battle until we know the extent of the enemy's army."
+msgstr ""
+"Vaniyera, take care! These reinforcements could arrive at any moment. We "
+"ought to refrain from battle until we know the extent of the enemy's army."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/5_Retribution.cfg:153
+msgid ""
+"We could wait, yes - or we could defeat these men quickly so that the "
+"reinforcements have nothing to reinforce. I choose the latter."
+msgstr ""
+"We could wait, yes - or we could defeat these men quickly so that the "
+"reinforcements have nothing to reinforce. I choose the latter."
+
+#. [message]: speaker = Hero_of_Old;
+#: ../scenarios/5_Retribution.cfg:157
+msgid ""
+"In ages long past I believed that watching and waiting and talking were the "
+"way to better our people, but in death the simplest path seems best. Let us "
+"teach them the fear of the children of Vanimaro."
+msgstr ""
+"In ages long past I believed that watching and waiting and talking were the "
+"way to better our people, but in death the simplest path seems best. Let us "
+"teach them the fear of the children of Vanimaro."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/5_Retribution.cfg:161
+msgid ""
+"Very well, my friend. Though I doubt the wisdom, I shall follow this path to "
+"its end. This is the duty of a Thunderblade."
+msgstr ""
+"Very well, my friend. Though I doubt the wisdom, I shall follow this path to "
+"its end. This is the duty of a Thunderblade."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/5_Retribution.cfg:165
+msgid ""
+"Heed my words, Lavinian! It grieves me, but my apprentice and I shall bring "
+"this folly to an end here and now. Your people will know the grief of losing "
+"their beloved Imperator. Then perhaps Lavinia will understand the Sidhe a "
+"little better."
+msgstr ""
+"Heed my words, Lavinian! It grieves me, but my apprentice and I shall bring "
+"this folly to an end here and now. Your people will know the grief of losing "
+"their beloved Imperator. Then perhaps Lavinia will understand the Sidhe a "
+"little better."
+
+#. [message]: speaker = Silvius L;
+#. [message]: speaker = Claudius S;
+#: ../scenarios/5_Retribution.cfg:176 ../scenarios/5_Retribution.cfg:216
+msgid "Aargh!"
+msgstr "Aargh!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:180
+msgid "Silvius has fallen! Who will hold the line now?"
+msgstr "Silvius has fallen! Who will hold the line now?"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:193
+msgid "This is looking dire. Hold fast, legionnaires"
+msgstr "This is looking dire. Hold fast, legionnaires,"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:199 ../scenarios/5_Retribution.cfg:239
+msgid "The defenses are breached. Reserves, forward!"
+msgstr "The defenses are breached. Reserves, forward!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/5_Retribution.cfg:203 ../scenarios/5_Retribution.cfg:243
+msgid "There cannot be many of them left. Kill them!"
+msgstr "There cannot be many of them left. Kill them!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:220
+msgid "Claudius, you fought well and bravely. Farewell!"
+msgstr "Claudius, you fought well and bravely. Farewell!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:233
+msgid "This is looking dire. Hold the line, legionnaires"
+msgstr "This is looking dire. Hold the line, legionnaires."
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:258
+msgid "These elves have almost reached me? Guard! Help!"
+msgstr "These elves have almost reached me? Guard! Help!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/5_Retribution.cfg:287
+msgid "Now you die, Lavinian!"
+msgstr "Now you die, Lavinian!"
+
+#. [message]: speaker = Ayarus I;
+#: ../scenarios/5_Retribution.cfg:359
+msgid "Lord Imperator, we have arrived!"
+msgstr "Lord Imperator, we have arrived!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:363
+msgid "Excellent timing! Hold the river!"
+msgstr "Excellent timing! Hold the river!"
+
+#. [message]: speaker = Primus M;
+#: ../scenarios/5_Retribution.cfg:374
+msgid "I cannot die...I must..."
+msgstr "I cannot die...I must..."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/5_Retribution.cfg:378
+msgid "Finally, we have slain this cursed man!"
+msgstr "Finally, we have slain this cursed man!"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/5_Retribution.cfg:382
+msgid ""
+"That man was the Imperator of the Lavinian Empire. Do not rejoice overmuch "
+"for what we have done this day."
+msgstr ""
+"That man was the Imperator of the Lavinian Empire. Do not rejoice overmuch "
+"for what we have done this day."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/5_Retribution.cfg:397
+msgid "I hear battle drums from afar."
+msgstr "I hear battle drums from afar."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/5_Retribution.cfg:401
+msgid "Their reinforcements have arrived. Sound the retreat."
+msgstr "Their reinforcements have arrived. Sound the retreat."
+
+#. [scenario]: id = Epilogue;
+#: ../scenarios/Epilogue.cfg:21
+msgid "Epilogue"
+msgstr "Epilogue"
+
+#. [story]: [part]
+#: ../scenarios/Epilogue.cfg:165
+msgid ""
+"We returned victorious to the forests of the Western March, and from there "
+"travelled to Mount Stormkeep. A session of the Council had been summoned, "
+"belatedly, given our recent exploits, to respond to the Lavinian threat."
+msgstr ""
+"We returned victorious to the forests of the Western March, and from there "
+"travelled to Mount Stormkeep. A session of the Council had been summoned, "
+"belatedly, given our recent exploits, to respond to the Lavinian threat."
+
+#. [message]: speaker = Saoir;
+#: ../scenarios/Epilogue.cfg:196
+msgid "Welcome, Faolan. Let the council of war commence."
+msgstr "Welcome, Faolan. Let the council of war commence."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/Epilogue.cfg:200
+msgid "Council of war, my lord?"
+msgstr "Council of war, my lord?"
+
+#. [message]: speaker = Samhna;
+#: ../scenarios/Epilogue.cfg:204
+msgid "We have heard that the Lavinians have invaded the Western  March."
+msgstr "We have heard that the Lavinians have invaded the Western  March."
+
+#. [message]: speaker = Onnachadh;
+#: ../scenarios/Epilogue.cfg:208
+msgid ""
+"Indeed, for that reason we have summoned the Thunderblades to this meeting. "
+"Did the messenger we sent not reach you? Yet you came none the less - "
+"perhaps to bring us news yourself of the invasion."
+msgstr ""
+"Indeed, for that reason we have summoned the Thunderblades to this meeting. "
+"Did the messenger we sent not reach you? Yet you came none the less - "
+"perhaps to bring us news yourself of the invasion."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/Epilogue.cfg:212
+msgid ""
+"Yes, lords, I come with news from the battlefield. This council is called "
+"too late; the Lavinians have already fled."
+msgstr ""
+"Yes, lords, I come with news from the battlefield. This council is called "
+"too late; the Lavinians have already fled."
+
+#. [message]: speaker = Suileabin;
+#: ../scenarios/Epilogue.cfg:216
+msgid "Impossible!"
+msgstr "Impossible!"
+
+#. [message]: speaker = Dayire;
+#: ../scenarios/Epilogue.cfg:220
+msgid ""
+"Hold your peace, thunderblade! Faolan, you say the Lavinians have fled - how "
+"do you know they will not return?"
+msgstr ""
+"Hold your peace, Thunderblade! Faolan, you say the Lavinians have fled - how "
+"do you know they will not return?"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/Epilogue.cfg:224
+msgid ""
+"They are in disarray and shall be for some time. The Imperator has fallen, "
+"Lord Dayire."
+msgstr ""
+"They are in disarray and shall be for some time. The Imperator has fallen, "
+"Lord Dayire."
+
+#. [message]: speaker = Longsygh;
+#: ../scenarios/Epilogue.cfg:228
+msgid "What? You slew the Imperator? That seems... unwise."
+msgstr "What? You slew the Imperator? That seems... unwise."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/Epilogue.cfg:232
+msgid "Perhaps it was. Nevertheless, it is done, and the war is over."
+msgstr "Perhaps it was. Nevertheless, it is done, and the war is over."
+
+#. [message]: speaker = Onnachadh;
+#: ../scenarios/Epilogue.cfg:236
+msgid ""
+"Well. It seems the forests are threatened no longer. Council, you are "
+"dismissed!"
+msgstr ""
+"Well. It seems the forests are threatened no longer. Council, you are "
+"dismissed, return to your marches and your duties as protectors of the Sidhe."
+
+#. [message]: speaker = Onnachadh;
+#: ../scenarios/Epilogue.cfg:248
+msgid ""
+"But, Faolan... you still must answer for your deeds. It was reckless to "
+"assault the might of the Lavinians with only one twelfth of the power of the "
+"Sidhe, and even more reckless to slay their lord, inviting retaliation. Why "
+"did you do it?"
+msgstr ""
+"But, Faolan... you still must answer for your deeds. It was reckless to "
+"assault the might of the Lavinians with only one twelfth of the power of the "
+"Sidhe, and even more reckless to slay their lord, inviting retaliation. Why "
+"did you do it?"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/Epilogue.cfg:252
+msgid ""
+"It was not my doing, but that of my disciple Vaniyera. He can speak for his "
+"own reasons."
+msgstr ""
+"It was not my doing, but that of my disciple Vaniyera. He can speak for his "
+"own reasons."
+
+#. [message]: speaker = Maol;
+#: ../scenarios/Epilogue.cfg:256
+msgid "So, Vaniyera, what say you to this charge of recklessness?"
+msgstr "So, Vaniyera, what say you to this charge of recklessness?"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/Epilogue.cfg:260
+msgid ""
+"I saw the opportuniy and I struck. If I had not decisively defeated the "
+"Lavinians, they may well have returned in even greater number and "
+"slaughtered our people. The only way to truly kill the beast it was cut off "
+"the head."
+msgstr ""
+"I saw the opportunity and I struck. If I had not decisively defeated the "
+"Lavinians, they may well have returned in even greater number and "
+"slaughtered our people. The only way to truly kill the beast it was cut off "
+"the head."
+
+#. [message]: speaker = Saoir;
+#: ../scenarios/Epilogue.cfg:264
+msgid ""
+"But however wounded it might be, the Lavinian beast is not dead. You ought "
+"to have waited for the Council to assemble. We would have shown our might to "
+"those men and made them fear the name of Sidhe. Instead, you have slain "
+"their lord, incurring a blood-vengeance and earning our people a powerful "
+"enemy."
+msgstr ""
+"But however wounded it might be, the Lavinian beast is not dead. You ought "
+"to have waited for the Council to assemble. We would have shown our might to "
+"those men and made them fear the name of Sidhe. Instead, you have slain "
+"their lord, incurring a blood-vengeance and earning our people a powerful "
+"enemy."
+
+#. [message]: speaker = Onnachadh;
+#: ../scenarios/Epilogue.cfg:268
+msgid ""
+"We can but hope that they will take this defeat as a warning and not as a "
+"challenge to come at us with still greater strength."
+msgstr ""
+"We can but hope that they will take this defeat as a warning and not as a "
+"challenge to come at us with still greater strength."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/Epilogue.cfg:272
+msgid ""
+"They would have slaughtered our people and burned our forests before this "
+"Council acted!"
+msgstr ""
+"They would have slaughtered our people and burned our forests before this "
+"Council acted!"
+
+#. [message]: speaker = Dayire;
+#: ../scenarios/Epilogue.cfg:276
+msgid ""
+"But now it is likely that the Lavinians will retaliate for the death of this "
+"Primus Maximus and return to burn more forest and kill many more of our "
+"people than would have otherwise died. You still have much to learn, young "
+"Vaniyera."
+msgstr ""
+"But now it is likely that the Lavinians will retaliate for the death of this "
+"Primus Maximus and return to burn more forest and kill many more of our "
+"people than would have otherwise died. You still have much to learn, young "
+"Vaniyera."
+
+#. [message]: speaker = Longsygh;
+#: ../scenarios/Epilogue.cfg:280
+msgid ""
+"Indeed he does. But I wonder - perhaps Faolan is not the teacher he needs."
+msgstr ""
+"Indeed he does. But I wonder - perhaps Faolan is not the teacher he needs."
+
+#. [message]: speaker = Maol;
+#: ../scenarios/Epilogue.cfg:284
+msgid ""
+"And even if he is, ought he to remain where he is? If there are no "
+"consequences for acting reckless, he will not teach himself to act otherwise."
+msgstr ""
+"And even if he is, ought he to remain where he is? If there are no "
+"consequences for acting reckless, he will not teach himself to act otherwise."
+
+#. [message]: speaker = Saoir;
+#: ../scenarios/Epilogue.cfg:288
+msgid ""
+"I concur. Well then, Vaniyera - we must pass sentence upon you. You are no "
+"longer the disciple of Faolan. I am sorry."
+msgstr ""
+"I concur. Well then, Vaniyera - we must pass sentence upon you. You are no "
+"longer the disciple of Faolan. I am sorry."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/Epilogue.cfg:292
+msgid "But, Faolan's house is the only home that I have ever known..."
+msgstr "But, Faolan's house is the only home that I have ever known..."
+
+#. [message]: speaker = Onnachadh;
+#: ../scenarios/Epilogue.cfg:296
+msgid ""
+"Do not think us cruel...I see great things in your future. We will move you "
+"to the household of another Thunderblade. Leithan will teach you restraint, "
+"I hope..."
+msgstr ""
+"Do not think us cruel...I see great things in your future. We will move you "
+"to the household of another Thunderblade. Leithan will teach you restraint, "
+"I hope..."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/Epilogue.cfg:300
+msgid "Leithan? That old stick in the mud? This is all Lavinia's fault!"
+msgstr "Leithan? That old stick in the mud? This is all Lavinia's fault!"
+
+#. [message]: speaker = Vaniyera;
+#. [message]: speaker = Faolan;
+#. [message]: speaker = Athus;
+#: ../scenarios/utils/utils.cfg:105 ../scenarios/utils/utils.cfg:118
+#: ../scenarios/utils/utils.cfg:154
+msgid "Aaagh!"
+msgstr "Aaagh!"
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/utils/utils.cfg:122
+msgid "Master! Without your guidance, we shall never win this war..."
+msgstr "Master! Without your guidance, we shall never win this war..."
+
+#. [message]: speaker = Hero_of_Old;
+#: ../scenarios/utils/utils.cfg:135
+msgid "The grave, it beckons again..."
+msgstr "The grave, it beckons again..."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/utils/utils.cfg:139
+msgid ""
+"With the old hero back into his slumber, who will call the spirits to fight "
+"for us?"
+msgstr ""
+"With the old hero back into his slumber, who will call the spirits to fight "
+"for us?"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/utils/utils.cfg:158
+msgid "The tribesmen will not join us without Athus to rally them."
+msgstr "The tribesmen will not join us without Athus to rally them."
+
+#. [message]: speaker = Athus;
+#: ../scenarios/utils/utils.cfg:171
+msgid ""
+"Mercy! We are mere tribesmen held hostage by the Lavinians and forced to "
+"fight for them. We hold you no grudge!"
+msgstr ""
+"Mercy! We are mere tribesmen held hostage by the Lavinians and forced to "
+"fight for them. We hold you no grudge!"
+
+#. [message]: speaker = Cardrew;
+#: ../scenarios/utils/utils.cfg:175
+msgid ""
+"Then you have nothing to fear from death! I shall make it quick and painless."
+msgstr ""
+"Then you have nothing to fear from death! I shall make it quick and painless."
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/utils/utils.cfg:179
+msgid "Calm yourself! You, man, what offer you us in exchange for your life?"
+msgstr "Calm yourself! You, man, what offer you us in exchange for your life?"
+
+#. [message]: speaker = Athus;
+#: ../scenarios/utils/utils.cfg:183
+msgid "My men and I will fight by your side against the Lavinians."
+msgstr "My men and I will fight by your side against the Lavinians."
+
+#. [message]: speaker = Vaniyera;
+#: ../scenarios/utils/utils.cfg:187
+msgid "Can we trust him?"
+msgstr "Can we trust him?"
+
+#. [message]: speaker = Faolan;
+#: ../scenarios/utils/utils.cfg:191
+msgid ""
+"Maybe, maybe not. Let us be careful... Athus, we have one condition - you "
+"will not fight by our side, you will fight for us, not as a commander, as a "
+"common fighter. Do you accept?"
+msgstr ""
+"Maybe, maybe not. Let us be careful... Athus, we have one condition - you "
+"will not fight by our side, you will fight for us, not as a commander, as a "
+"common fighter. Do you accept?"
+
+#. [message]: speaker = Athus;
+#: ../scenarios/utils/utils.cfg:195
+msgid "The choice is between this and death! Yes, I accept!"
+msgstr "The choice is between this and death! Yes, I accept!"
+
+#. [campaign]: id = Epic_of_Vaniyera;
+#: ../_main.cfg:10
+msgid "The Tale of Vaniyera"
+msgstr "The Tale of Vaniyera"
+
+#. {MENU_IMG_TXT2 ...}:
+#: ../_main.cfg:16
+msgid "Veiledblade"
+msgstr "Veiledblade"
+
+#. {MENU_IMG_TXT2 ...}:
+#: ../_main.cfg:16
+msgid "(normal)"
+msgstr "(normal)"
+
+#. {MENU_IMG_TXT2 ...}:
+#: ../_main.cfg:16
+msgid "(hardest)"
+msgstr "(hardest)"
+
+#. {MENU_IMG_TXT2 ...}:
+#: ../_main.cfg:16
+msgid "Shadowdancer"
+msgstr "Shadowdancer"
+
+#. {MENU_IMG_TXT2 ...}:
+#: ../_main.cfg:16
+msgid "(easiest)"
+msgstr "(easiest)"
+
+#. {MENU_IMG_TXT2 ...}:
+#: ../_main.cfg:16
+msgid "Warrior"
+msgstr "Warrior"
+
+#. [campaign]: id = Epic_of_Vaniyera;
+#: ../_main.cfg:18
+msgid ""
+"115-116 SI\n"
+"\n"
+"The expansionist Lavinian Legion, led by the Imperator himself, has invaded "
+"the northern forests of the Sidhe. It is up to the young Vaniyera to push "
+"its armies back from the border...\n"
+"\n"
+"(Easy level appropriate for Imperial Era beginners; Hard is a challenge for "
+"many veterans. 5 scenarios.)\n"
+"\n"
+"(Version 0.10.10, April 2017)"
+msgstr ""
+"115-116 SI\n"
+"\n"
+"The expansionist Lavinian Legion, led by the Imperator himself, has invaded "
+"the northern forests of the Sidhe. It is up to the young Vaniyera to push "
+"its armies back from the border...\n"
+"\n"
+"(Easy level appropriate for Imperial Era beginners; Hard is a challenge for "
+"many veterans. 5 scenarios.)\n"
+"\n"
+"(Version 0.10.10, April 2017)"
+
+#. [about]:
+#: ../_main.cfg:29
+msgid "Campaign Originator"
+msgstr "Campaign Originator"
+
+#. [about]:
+#: ../_main.cfg:33
+msgid "Campaign Designer"
+msgstr "Campaign Designer"
+
+#. [about]:
+#: ../_main.cfg:37
+msgid "Campaign Maintenance"
+msgstr "Campaign Maintenance"
+
+#. [about]:
+#: ../_main.cfg:41
+msgid "WML Workshop Heroes"
+msgstr "WML Workshop Heroes"

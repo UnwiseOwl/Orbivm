@@ -1,0 +1,145 @@
+(Goals to meet for 1.0 version, any and all help appreciated)
+	** Source/create portraits for Veiledblade and Imperator
+	** Source/create storyline art, particularly for intro and epilogue
+		**Lavinian camp from trees
+		**Burning Elvish fort
+		**Beseiged Elvish fort
+	** Source/create extra terrain art
+		**Lavinian/Roman castle/camp hexes
+	** Customise music playlist
+	
+Version 0.11.6 (UnwiseOwl - 28 Feb 2020)
+	* Fixed credits so that they actually display correctly
+	* Added ruined Elvish keep to scen 2
+
+Version 0.11.5 (UnwiseOwl - 28 Feb 2020)
+	* Fixed sound for tortured soul
+	* Fixed credits so that they display correctly 
+
+Version 0.11.4 (UnwiseOwl - 11 Feb 2020)
+	* Added public domain portrait images for the Lavinians
+	* Linked to core file portraits for other units
+	* Made Faolan's portrait the campaign image
+
+Version 0.11.3 (UnwiseOwl - 10 Feb 2020)
+	* Fixed bug in Scen 1 marauder LIMIT_UNIT macro 
+
+Version 0.11.2 (UnwiseOwl - May 2019)
+	* Updated the difficulty settings to use the 'new' syntax
+	
+Version 0.11.1 (UnwiseOwl)
+	* Fixed bug in epilogue caused by outdated {move_unit_fake} macro
+	
+Version 0.11.0 (UnwiseOwl - 28 April 2017)
+	* Fixed bug in Scen 4 stopping recruit of new Raindancers
+	* Changed hippos to now appear when player reaches the water or a Lavinian castle.
+	* Revised Epilogue dialogue
+	* Fixed various typos throughout the campaign and tightened a little dialogue
+	* Prepared for translation! OMG!
+	* Added GB_EN translation
+	
+Version 0.10.9 (UnwiseOwl - 10 April 2017)
+	* 1.12 back-port
+	* Fixed issue in Scen 3 with the Siege Archer.
+	
+Version 0.10.8 (UnwiseOwl - 4 April 2017)
+	* Rationalising hippos again.
+	
+version 0.10.7 (UnwiseOwl - 4 April 2017)
+	* Fixed some unit bugs in the first scenario (how did this happen?)
+	
+version 0.10.6 (UnwiseOwl - 15 Jan 2017)
+	* Ported to Wesnoth 1.13
+	* Athus' villages become yours on his conversion
+	* Fixed Faolan's AI aggression values in Just In Time
+	* Minor dialogue tweaks
+	
+version 0.10.5 (UnwiseOwl 27 July 2015)	
+	* Made candidate campaign for translation
+	
+version 0.10.4 (UnwiseOwl - 25 August 2014)
+	* Fixed Emperor’s guard event in Retribution
+
+version 0.10.3 (UnwiseOwl - 23 August 2014)
+	* Ported to Wesnoth 1.12
+	* Fixed Nemidian Cavalry recruitment bug
+
+version 0.10.2 (UnwiseOwl - 02 August 2014)
+	* Updated to work with Imperial Era 0.22.0
+	* Renamed to 'Tale of Vaniyera': with five scenarios, it just wasn't very epic
+	* Slight dialogue changes in 0_Camp_of_Lavinium
+	* If Athus dies on 3_Just_in_Time after converting, only the correct event fires
+	* Removed enemy units on scenario victories
+
+version 0.10.1 (UnwiseOwl - 21 January 2013)
+    * Cut out scenario 6: 5_Retribution now final scenario
+    * Imperator now gets some gold when his minions die
+    * Imperator is now killable in 5_Retribution
+    * Mass dialogue changes
+
+version 0.10.0 (UnwiseOwl - 5 January 2013 (Fifth Birthday Edition))
+    * Port to Wesnoth 1.11
+    * Changed the numbers of the scenarios
+    * Updated references to work with new "Imperial Era"
+    * Changed references of "wild elves" to "Sidhe" 
+    * Removed translations for names
+
+    * O_Camp_of_Lavinium
+        * Removed the titles declaring this as part one
+        * Various dialogue changes
+        * Removed time limit
+
+    * 1_Ambush
+        * Updated to gold "carryover add" format
+        * Updated objectives
+        * Wanderers recruitable
+        * AI now recruits units other than Warriors (but not too many)
+        * Easy: gets Braman a scenario early (is loyal and auto-recruits)
+        * Normal: 20 Turns maximum
+        * Hard: AI gets 10 more gold, 16 turns maximum
+        * Slight dialogue changes
+
+    * 2_Too_Late
+        * Updated to gold "carryover add" format
+        * Updated objectives
+        * Added minimum gold (250,210,180)
+        * Marcellus gold increased (80,100,120)
+        * Easy: new keep in the first castle to enable faster recruiting
+        * Normal: Braman is now loyal, 20 turns maximum
+        * Hard: 16 turns maximum
+        * Various dialogue changes
+
+    * 3_Just_in_Time
+        * Updated to gold "carryover add" format
+        * Updated objectives
+        * Added minimum gold (300,240,200)       
+        * Side 2 Aggression/Caution increased substantially
+        * Easy: Additional keeps at 7,14 12,12 and 12,8
+        * Normal: Additional keep at 12,12, 20 turns maximum
+        * Hard: 16 turns maximum
+        * Athus will also join you if he is attacked and Quantis is dead
+        * Athus' men join you if he does
+        * All Faolan's menn join you on end of level
+        * Various dialogue changes
+
+    * 4_Remnants_of_the_Past
+        * Updated objectives
+        * Changed gold conditions for scenario
+        * Best three units of the Raindancer line are auto-recalled
+        * Removed the keep and encampment
+        * Reduced damage of Tortured Souls
+        * Made tortured souls level 2
+        * Slight dialogue changes
+
+    * 5_Retribution
+        * Updated to gold "carryover add" format
+        * Updated objectives
+        * Easy: Emperors guards are lower levels
+        * Added variable turns (48,42,36)
+        * Slight dialogue changes
+        * We actually use the hippos
+
+    * 6_Arendian Border
+        * Updated objectives
+		
+Earlier changelogs have been lost to the passing of time/never existed. One day I will go through the forums and see what I can dredge together, but it's not a priority.

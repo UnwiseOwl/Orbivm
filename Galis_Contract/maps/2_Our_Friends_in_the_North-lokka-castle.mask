@@ -1,0 +1,5 @@
+usage=mask
+
+Cud         , Cud         , Cud         , Cud
+Cud         , Cud         , Kud         , Cud
+Cud         , Cud         , Cud         , Cud

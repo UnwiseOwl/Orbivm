@@ -1,0 +1,166 @@
+#ifdef THE_SUMMARY_OF_THE_CAMPAIGN
+1. Return from Lavinium
+
+You are returning from a visit to Lavinium (the Imperial Capital), where you were giving your five
+year report. Soon after you crossed the mountains of Arendia, you are ambushed by marauders. You
+must hurry along the road to reach Silvium, which you fear may be in danger.
+
+Your hero starts out level 2. Starting units; probably one or two Arendian guides, and two or three
+Lavinian units, all level 2 or 3. You begin traveling along the path, but when you get to a certain
+point (or on a certain turn, dunno which) Marauders come out of the forests and attack you. There
+is an abandoned guardpost marking the old border between Arendia and Marauder lands. You can
+recruit in it. You have to either flee, and reach the signpost in time, or defeat a certain number
+of enemies. You can't kill the enemy Marauder leader, or else you will lose, because he is a
+nobleman and it will result in war.
+
+
+
+2. The Raid
+
+You were right - Silvium was under attack by Marauders. You must defeat them. You do, but
+accidentally kill their leader, a Marauder noble. (You were supposed to merely capture him.) Now
+the marauders want vengeance.
+
+If you forced the Marauder lord to retreat in the previous scenario, you start out in the keep and
+the marauders are just arriving. If you ran away, the scenario begins with the battle having
+already commenced, and with your ally near defeat. The victory condition is to force the enemy to
+retreat by killing a certain number of enemies; however, when you kill this many, the Marauder
+leader does not retreat. You are not told what to do, there is just some dialogue hinting you need
+to continue fighting. (The Marauder leader says he will not surrender until he is an inch from
+death). You are forced to kill the enemy leader (perhaps with some scripted events near the end),
+which forces you to start a war. The Marauder leader should get gold every few turns. This results
+in you having to just sit around and let the Marauder get more gold to attack you with if you don't
+kill him. We'll need some way to stop you from experience milking - probably have the gold be a
+significant amount, say, 500. 
+
+
+
+3. Down the Silvia River
+
+After you realize that, since you killed a Marauder prince, they will keep attacking you until you
+die, you decide to leave the province, bringing with you all people of Lavinian descent, a small
+group. (Those native to the region will not be enslaved by the marauders; besides, you don't really
+care about them anyway.) There is one other major city in the region, ____. You have to go down the
+river, to this port city.
+
+As you travel, a Marauder warband appears on the other side of the river, which you have been
+traveling next to. You have to shepherd your charges down the road, and then stall the Marauders
+before making your retreat. You should have a few slow-moving Caravan units, which need to be
+brought to a signpost. Once this is done, you have to survive for, say, 5 turns. Then you win.
+You can also win by killing the Marauder leader, but that should be rather hard.
+
+
+
+4. The Port City
+
+Once you get there, you try to convince the Tribune of this other city that you have to flee,
+either to the lands of the Sidhe or by ship to Dardania. Unfortunately, the Tribune not agree with
+you - he wants to turn you over to the Marauders, since, he reasons, it is only you that they want.
+You must attack him and take over the city.
+
+However, before you defeat him, Marauder raiders appear from the forest. You are forced to fight
+both this Tribune and the Marauders; since you cannot defeat the Marauders thus divided, your only
+hope is to either evacuate the city by boat, or make a mad dash for the Sidhe border. The
+Marauders, you think, will not dare follow you into Sidhe lands.
+
+Once you kill this other Tribune, the remnants of his army join you; their only other choice is to
+continue fighting both you and the Marauders, which is suicide. At that point, the Marauders get
+reinforcements; you still cannot defeat them. You have to put the civilians into ships, and
+evacuate them. You yourself have to leave the city by foot, so that the Marauders will chase you
+instead of getting in their longboats and destroying the helpless transport ships. Of course,
+defeating the marauder leader will have the same effect as winning the scenario the other way.
+
+As you leave the city, you burn it to slow down the Marauders.
+
+
+
+5. Iceswept Bay
+
+This scenario focuses not on Caius Rigilius, but on the other main character, ____. He has to lead
+the ships (probably around four of them) across the Iceswept Bay and take them around to Dardania.
+Eventually, of course, the Marauders realize that the civilians have left in boats, and they launch
+ships to chase them - but only half-heartedly, for Caius is their main target. I have no idea how
+this scenario will actually work.
+
+
+
+6. The Other Forest
+
+This scenario returns to the story of Caius. You have broken the seige of ____, but you are not
+home free. Although the fire slowed them down, the Marauders are chasing you. You only have a day
+and a half lead on them. You are trying to get to Sidhe lands, where you will ask them to protect
+you from the Marauders, who are their ancient enemies. It is a bit of a gamble, since the Sidhe
+dislike all men, Marauder or Lavinian.
+
+You begin the scenario almost in Sidhe lands. You have reached the border between where the
+Lavinians cleared away the forest and where the boundary with the Sidhe is. There are two rundown
+Lavinian plantations here; it is night, so you make camp in one of them. The lord of the plantation
+tells you about bandits living in the forest, who are just barely not across the Sidhe border. You
+agree to help kill them, since you will have to pass though the forest to reach the Sidhe. On the
+sixth turn of the battle, Marauders appear and begin attacking your rear flank. If any of your
+units or any of the bandits or any of the Marauders step across the Sidhe border, the Sidhe emerge
+from their forests and begin attacking. (If you do not step across, it happens scriptedly on turn
+10 or so). The Sidhe do, however, target the Marauders more than you. Your objective is to bring a
+unit next to the Sidhe leader. Once you do that, you are able to communicate with him, and he
+agrees to protect you. At that point, the Sidhe are allies with you, and you just have to bring
+Caius next to the Sidhe leader to win. 
+
+
+
+6t. Mount Stormkeep
+
+This Sidhe lord has accepted your plea for help, and brings  you to the Sidhe court at Mount
+Stormkeep. There, you convince the Wild Elven Council that you are running away from the marauders,
+their enemies, and you are not invading them. There is a council of Sidhe elders; most believe you,
+but a minority does not. The lord who first agreed to help you argues your case, and another lord
+is strongly against helping you. There are probably 4-5 members of the council total.
+
+This is a talking scenario.
+
+
+
+7. To Arendia
+
+The marauders are more foolish than you thought. They dare not invade Sidhe lands, but they are
+fine with entering Arendia. They reach the mountain pass that you must take just as the Sidhe have
+brought you there. The sidhe ally with you, but after the lord who wants to help you is killed by
+Marauders, the opposing Lord takes over, and you have to fight both sidhe and marauders. You cannot
+defeat them; you have to bring Caius south through the mountain pass to the safety of Arendia.
+
+The scenario plays out relatively normally. At some point in the scenario, a Marauder ambush
+appears next to the Sidhe leader. This should happen at the beginning of the Marauder turn - that
+way, you can't interfere, and save the Sidhe leader when that was not supposed to be able to
+happen. We need to create fake Marauder units that will hit every time and will not be killed by
+the Sidhe leader's retaliation. Then, replace them with normal Marauder units, and let them be
+killed by the remaining Sidhe units, one of which, the other Lord, becomes a leader unit.
+
+
+
+7t. The Emperor
+
+You come back to Lavinium, the capital city of the Empire, in disgrace. Unintentionally, you have
+sparked a war between the Lavinian Empire and the Marauders, and have turned the Sidhe completely
+against you. The stage is set for the final battle between the Marauders and the Lavinians. You are
+brought before the Emperor to account for your actions.
+
+
+
+BONUS SCENARIO: Two Years Later
+
+The Emperor was not pleased with your flight from Silvia. You are, for a time, removed from the
+Legion. However, the war with the Marauders proves long, and costly. The Empire has need of
+experienced commanders to take the place of those who have fallen. You are sent to the new front,
+the border between Arendia and the former province of Silvia. There you will repulse the Marauders
+ - or die.
+
+This scenario is unwinnable, any you don't need to play it to have been considered to "win the
+campaign". Basically, there is a Marauder leader, and you get to recall your advanced units from
+the campaign as well as recruit new ones; however, your gold should be a set amount, say, 1000,
+instead of being carried over from previous scenarios. The Marauder leader just keeps getting
+better and better (i.e., more gold and recruiting better units), until eventually you die. It
+sounds to me like a fun way to actually use all of the excess advanced units you accumulate over
+the course of the campaign. Theoretically, you could have a large enough army to beat the Marauder
+leader, but... I doubt that will happen. If it does, well, then the player REALLY beat the
+campaign. ;)
+
+#endif
