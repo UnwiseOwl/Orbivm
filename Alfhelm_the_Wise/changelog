@@ -1,0 +1,37 @@
+version ? (The FUTURE)
+    - Pretty much everything
+    ** resizing of maps (many are too big)
+    ** redoing dialogue
+    ** standardising difficulties
+    ** fixing outdated/overly complex wml
+    ** Move from the old gold format to the new one
+    ** S8 fires aren't firing correctly
+    ** S9 is fantastically unclear.
+    ** S10 needs map updated to match S4 FoS
+    ** S11 Bears are way too hard, scen. should have more units and no gold bonus
+    ** S12 Ranhilde should be leader, and not able to recall. Frisyr should be able to recall and recruit Issalfr. Fight prestarted ala FoS?
+    ** Sighted events seem weird all over...
+    ** S12t, make Alfhelm go to ranhilde instead. Make Harn and troops leave due to crusade v Vaniyera.
+    ** S13, just dueling Vaniyera sjould break sword, make this scen more epic.
+    ** Gali taking Alfhelm's gold should work on some kind of formula.
+    
+version 0.7 (UnwiseOwl - April 1st 2020)
+    * Ported to 1.14/1.15 (so...many...deprecations)
+    * Replaced some damaged story images
+    * Fixed broken ice bear movetype
+    * Added enough turns to actually complete S1.1 without having to get stupidly lucky.
+    * Added more turns and player gold to S1.5
+    * Added a new creek to S1.5 to allow use of boatsmen
+    * Added a new creek to S2.3 to allow use of boatsmen
+    * Added a new creek to S2.5 to allow use of boatsmen
+    * Gali now takes almost all of Alfhelms gold.
+    * New credits
+
+version 0.6 (UnwiseOwl - November 4 2012)
+    * Ported to 1.10
+    * Fixed many instances (all of them?) of Harn and Ranhilde being in the totally wrong place in the beginning of levels
+    * Fixed a bunch of strange/outdated wml
+    * Re-wrote wildfire macros (with much help from the WML forum, cheers)
+
+version 0.5 (Chefu)
+    * Ported to 1.8 [You call this a port?!]
