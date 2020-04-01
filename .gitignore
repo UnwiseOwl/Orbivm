@@ -1,6 +1,12 @@
-node_modules/
-bower_components/
-*.log
-
-build/
-dist/
+# Ignore everything in the add-ons folder except the Orbivm campaigns directory.
+# ie. don't show any other add-ons I install or my PBLS
+/*
+!.gitignore
+!Dreams_of_Urduk/
+!Fall_of_Silvium/
+!Feudal_Era/
+!Galis_Contract/
+!Imperial_Era/
+!Tale_of_Vaniyera/
+!Up_From_Slavery/
+!Wild_Era/
