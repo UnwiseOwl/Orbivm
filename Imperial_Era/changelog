@@ -12,6 +12,12 @@ version 0.25.0 (UO -
     ** tc on marauder raider death is wrong.
     ** tc on upgraded lav slinger is wrong
     ** tc on sihde herald is wrong
+    ** Add custom names for different factions
+    ** Create a unit test scenario
+    ** Update unit image names that haven't been updated since the changes
+    ** Fix Arendians
+    ** Fix Issalefr
+    ** Add 'Random IE' and 'Random Default' to the IE + Default era
 
 version 0.24.0 (UO - 10 March 2020)
     * Port for Wesnoth 1.15
