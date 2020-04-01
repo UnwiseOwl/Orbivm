@@ -1,0 +1,94 @@
+ - About the Imperial Era -
+ --------------------------
+version 0.23.0, released April 2017
+
+The Imperial Era deals with the nations and peoples of the Age of the Empire, the second age in the history of the World, Orbivm.
+
+The factions that come with this era are:
+	ELVES:
+	 The Sidhe
+	 The Issaelfr
+	DWARVES:
+	 The Cavernei
+	MEN:
+	 The Lavinian Legion
+	 The Marauders
+	 The Arendians
+	ORCS:
+	 The Orcei Gladiatores
+
+There are five eras included.
+ The first is called 'Imperial'. It contains the seven factions listed above.
+ The second is called 'Imperial Champions'. It is the Age of Heroes version of the Imperial era, with leaders level 3 and level 2s recruitable.
+ The third is an Imperial RPG era.
+And there are a couple of development versions too.
+
+Also of note are the campaigns based on the Imperial Era. At present there are five (in chronological order):
+ Tale of Vaniyera (1.14)
+ Up from Slavery (1.12)
+ Fall of Silvium (1.14 )
+ Alfhelm the Wise (1.10)
+ Gali's Contract (1.12)
+
+ - Credits -
+ -----------
+ Faction Design:
+ 
+ Lavinian Legion Faction:
+	Idea: Unsung
+	Art: Turin
+	
+ Marauders Faction:
+	Idea: Burnsaber, Turin
+	Art: Disto, Turin
+	
+ Sidhe Faction:
+	Idea: Thunderblade
+	Art: Neoriceisgood, Urs, Wayfarer/Shadow
+	
+ Arendian Faction:
+	Idea: Ranger M
+	Art: Ranger M
+	
+ Orcei Gladiatores Faction:
+ 	Idea: Temuchin Khan
+	Sprites: Amorphous (Pugnator, Bestiarius, Piscator), Turin (Everything else)
+	Portraits: Freeforestify
+	
+ Issaelfr Faction:
+ 	Idea: Xan
+	Art: Xan, Turin
+	
+ Cavernei Faction:
+ 	Faction Base: Mainline Knalgan Alliance faction
+	Redesign: UnwiseOwl
+	Watcher art: Urs
+
+ Current Maintainer: UnwiseOwl
+ 
+ Balance advice: IPS
+ 
+ Coding thanks in buckets of tremendous size goes to Ravana, Dixie and the WML Support forum.
+ 
+  - Further Development -
+ ---------------------------
+We've got to a stage that we're comfortable with the Lavinians, Sidhe and Marauders, at least thematically, and just need to balance and further refine their concepts.
+
+Lavinian play works around the Legion, with a superior defence and good resistance when grouped, and a range of special abilities, but weaknesses when units are isolated. In multiplayer, Lavinians have to sacrifice a lot of mobility and tactics to gain these bonuses, though this is somewhat compensated by the Auxilla and Nemidian units.
+ 
+Sidhe play focuses on mobility and reliance on mage units to deal significant damage. As many sidhe units are comparitively fragile, observance of TOD and effective use of terrain is key to effective play.
+ 
+Work if continuing on the other factions to make them interesting from a thematic as when as a gameplay perspective.
+ 
+Orcei are nearly there, thematically excellent, and good game-play except for an over-reliance on blade damage, having a number of similar units, and some balance issues. The current development version tries out having the faction split Chaotic/Neutral, I have high hopes that this differentiation will be enough to make it work.
+
+Cavernei are just the old mainline dwarves without the bandis and with the addition of the watcher. My current plan is to change them up a lot more, making them much more...runey. See the current dev version for testing version.
+Watcher acts as a scout and mage, uses runes to teleport, which is amazing, but in return the faction gets no true scout.
+Kill off eagle rider, it's been done.
+Runemaster line becomes recruitable and separate from watcher, with lesser movement. Might have two lines, one that functions like current one and one that plants hostile 'trap' runes.
+Guard line uses runes to ignore gravity. Makes him a floater who ignores water etc.
+Thundergunner stays like in mainline, uses runes to gun stuff down.
+Fighter line stays as in mainline, generic trooper.
+Ultimately I'd like to work with Turin's original idea of having them become an economic faction, where some units or actions create gold and use of runes costs gold, though this would be difficult.
+
+Arendians have the best scout units and a sort of tribal thing going, but play-wise are really boring. The Issaelfr have the same problem. Both of these factions need a little something to bring them to life, if you have any idea please let me know. 

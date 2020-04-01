@@ -1,0 +1,860 @@
+For current dev version changes, please see our Github https://github.com/UnwiseOwl/Imperial_Era
+
+version 0.25.0 (UO -
+    * Removed deprecated/old/broken code
+        * Updated units using the old special notes formats
+        * Updated ellipses for orces minuti
+        * Fixed missing sound files for orci archers
+        * Updated ie_interrupt to 1.15 format. This breaks backporting, so 0.24.0 will be the last 1.14 version.
+        * Updated rage for 1.15 format.
+    ** Samnis movetype is all screwed up.
+    ** Add interrupt to all Samnis lines?
+    ** tc on marauder raider death is wrong.
+    ** tc on upgraded lav slinger is wrong
+    ** tc on sihde herald is wrong
+
+version 0.24.0 (UO - 10 March 2020)
+    * Port for Wesnoth 1.15
+        * Old LEADERSHIP macros updated for new format
+    * Committed some previous Dev changes to main
+        * Removed dev factions. All dev units now go straight into multiplayer but old versions may be kept for campaign stability
+        * Decrease Marauder scout HP from 31 to 29
+        * Samnic line are Orces Minuti now
+        * Orces Magni are chaotic now
+        * Orces can recruit the Essedarius
+    * Futher unit changes after IPS
+        * Lavinian archer line +1 movement (5 from 4, 4 from 3 for Ballista)
+        * Siege archer gains 4-1 melee shield bash
+        * Siege archer price to 28 from 26
+        * Saggitarius 6-1 melee shield bash
+        * Saggitarius bow damage to 8-4 from 7-4
+        * Saggitarius price to 42 from 34
+        * Saggitarius hp to 54 from 48
+    * Only different units in Dev are now the cavernei and the Lavinian legion
+        * Lavinians now more 40% defence but have working formation that boosts resistance
+        * Pilum attacks now 7-1 from 4-2
+
+version 0.23.0 (UO - 27 December 2017)
+    Cavernei-ei-o.
+        * Updated Thunderer line graphics with the ones from mainline
+        * Fixed malfunctioning Interrupt weapon special
+        * Fixed buggy movetypes for the Retarius and Boltrider lines
+        * Fixed off-centre unit base sprites
+        * Made marauders worse on frozen terrain (50% to 30%)
+        * Unit organisation housekeeping
+        * Implemented redesigned Cavernei faction in dev (please review and feedback)
+            * Guardsmann line gets +1 movement to 5, and the ability to fly, but loses steadfast. #needs auras
+            * Fighter line gets +1 movement to 6, but loses HP and resistance to the level of the mainline scouts. Also gets renamed Steelbearer->Steelclad->Steelheart #try lower upkeep
+            * Runesmaster line gets separated out from Watchers, given 5 MP. #needs runes to work
+            * Watcher line becomes scout (8 movement with quick), can't progress to Journeymann
+            * Eagle Rider line gets the cut.
+            * Thunderer line remains the same.
+            * Dwarvish movetypes get some sanity-checking.
+            * Economic ability removed (it was bad and buggy anyways)
+        * Committed some previous Dev changes to main
+            *Arendians
+                * Arendian chief/warlord can now be MP leaders (with slow)
+                * Improved Bowrider line water movetype (from Shallow 3 - Swamp 3 - Reef 3 - Deep 4 to 2-2-2-4)
+                * Added Boltrider to recruitable units for Arendian Heroes
+                * Moved Falcon line from recruitable Arendian to Issaelfr
+            *Marauders
+                * Gave Marauder Scout foresterfoot movetype
+                * Marauder scouts/raiders now always have quick
+            *Sidhe
+                * Reduced Sidhe spirit line defence to 50% across the board (was 60% on forest and caves)
+                * Changed Windlasher and Tempest melee attack icon and name to staff instead of sword
+                * Changed Windlasher and Tempest melee attack type to impact
+                * Changed Raindancer melee damage to 4-3 from 5-3
+                * Changed Windlasher melee damage to 4-3 from 6-3
+                * Changed Tempest melee damage to 5-3 from 7-3
+                * Changed Stormlord melee damage to 6-3 from 8-3
+            *Lavinian
+                * Decreased lavinianfoot physical resistances by 10 each
+        * Rebalancing to units in main era as there's nothing controversial (Almost entirely thanks to IPS)
+            * Sidhe
+                * Bladespinner xp 70 to 85
+                * Wardancer cost 52 to 55
+                * Warsinger price 52 to 56
+                * Forefather tree movement 6 to 5
+                * Forefather damage 6-4 to 5-4
+                * Ancestor melee damage 6-5 to 6-4
+                * Ancestor ranged damage 6-3 to 4-3
+                * Ancient melee damaged 6-5 to 6-5
+                * Ancient ranged damage 7-5 to 5-4
+                * Ancient hp 40 to 36
+                * Ancient price 74 to 66
+                * Wildblade xp 70 to 85
+                * Whirlwind price 67 to 62
+                * Windlasher hp 40 to 38
+                * Windlasher xp 76 to 85
+                * Tempest xp 100 to 115
+                * Stormlord melee is magical
+                * Stormlord cost 106 to 72
+                * Wanderer tree movetype 50% to 60% in trees
+                * Wanderer hp 26 to 30
+                * Tracker melee damage 6-3 to 5-3
+                * Tracker price 30 to 33
+                * Windrunner melee damage 9-3 to 7-3
+                * Windrunner price 46 to 48
+            * Issaelfr
+                * Flat defence movetype changed from 50% to 40% across the board
+                * Fire resistance moved from 0% to -10% across the board
+                * Bladesmann ranged from 9-1 to 5-1
+                * Glavier melee from 11-3 to 10-3 (and loses first strike)
+                * Glavier gets new melee attack 12-2 pierce (first strike)
+                * Glavier ranged damage from 7-2 to 5-2
+                * Glavier price from 40 to 34
+                * Glaive Master melee from 16-3 to 15-3 (and loses first strike)
+                * Glaive Master gets new melee attack 18-2 pierce (first strike)
+                * Glaive Master ranged damage from 14-2 to 8-2
+                * Glaive Master price from 75 to 56
+                * Ice Roamer/Dancer Movement 7-6 and flat defence 60%-50%
+                * Ice Dancer price from 50 to 54
+                * Frostbow melee damage 5-3 to 4-3
+                * Frostbow ranged damage 6-4 to 5-4
+                * Frostbow cost 18 to 17
+                * Borealis melee damage 7-2 to 8-2
+                * Borealis cost 65 to 55
+                * Mountaineer attacks from 9-2 to 8-2
+                * Mountaineer cost from 40 to 37
+                * Alpine ranger loses sword attack
+                * Alpine ranger ice pick attacks from 10-3 to 8-3
+                * Alpine ranger ranged damage 11-4 to 9-4
+                * Alpine ranger price from 80 to 58
+                * Swapped magus line impact and cold attacks (looks like error)
+                * Magus melee attack no longer magical
+                * Magus new ranged attack 5-3 magical
+                * Magus cost 21 to 22
+                * Rime Keeper melee attack no longer magical
+                * Rime Keeper new ranged attack 7-3 magical
+                * Rime Keeper price 46 to 36
+                * Rime Keeper hp 48 to 44
+                * Rime Castellan melee attack no longer magical
+                * Rime Castellan new ranged attack 9-3 magical
+                * Rime Castellan price 80 to 58
+                * Rime Castellan hp 60 to 55
+                * Glacialist hp 56 to 48
+                * Glacialist melee attack from 7-3 to 5-3
+                * Glacialist cost 45 to 40
+                * Cryomancer hp 76 to 60
+                * Cryomancer melee attack from 9-3 to 7-3
+                * Cryomancer cost 80 to 60
+                * Yak movetype impact resistance from 0% to 10%
+                * Yak Rider melee damage from 15-1 to 13-1
+                * Yak Rider range damage from 21-1 to 10-1
+                * Yak Knight melee damage from 16-1 to 17-1
+                * Yak Knight price from 44 to 42
+                * Yakmount Margrave price from 80 to 56
+                * Seal new melee attack 6-2 impact
+                * Seal from 18 xp to 22
+                * Fleet Seal new melee attack 9-2 impact
+                * Fleet Seal price from 28 to 22
+                * Elder Seal new melee attack 13-2 impact
+                * Elder Seal price from 45 to 42
+            * Lavinians
+                * Light Infantry cost 24 to 16
+                * Roarius hp 50 to 52
+                * Roarius cost 32 to 30
+                * Skirmisher melee damage 7-3 to 6-3
+                * Skirmisher ranged damage 8-2 to 7-2
+                * Skirmisher cost 24 to 17
+                * Velite melee damage 10-3 to 8-3
+                * Velite ranged damage 10-2 to 11-2
+                * Velite cost 24 to 28
+                * Slinger melee damage 6-3 to 5-3
+                * Slinger ranged damage 8-3 to 5-4
+                * Slinger hp 28 to 32
+                * Slinger cost 24 to 16
+                * Funditor ranged damage 9-4 to 7-5
+                * Funditor hp 48 to 46
+                * Funditor cost 30 to 28
+                * Cavalry cost 12 to 22
+                * Claimant cost 35 to 37
+                * Champion melee spear damage 10-3 to 11-3
+                * Champion sword damage 7-4 to 8-4
+                * Champion cost 50 to 52
+                * River Horse cost 38 to 36
+                * Hippopotamus melee 16-2 to 17-2
+                * Hippopotamus cost 46 - 52
+            * Marauders    
+                * Axeman xp 30 to 36
+                * Woodsman cost 42 to 27
+                * Ranger cost 70 to 50
+                * Scout hp 29 to 31
+                * Raider ranged damage 7-3 to 6-3
+                * Warrior xp 35 to 45
+                * Jarl hp 48 to 45
+                * Jarl xp 78 to 90
+                * Jarl melee damage 12-3 to 10-3
+                * Jarl cost 30 to 35
+                * Thain melee damage 16-3 to 15-3
+                * Thain hp 65 to 60
+                * Thain cost 75 to 55
+                * Pillager fire damage 12-2 to 13-2
+                * Pillager xp from 65 to 77
+                * Pillager cost 30 to 32
+                * Scorcher hp 62 to 65
+                * Scorcher fire damage 15-2 to 16-2
+                * Scorcher price from 90 to 50
+            Arendians
+                * Archer melee damage 6-2 to 5-2
+                * Archer price 16 to 15
+                * Archer xp 49 to 36
+                * Featherbow xp 76 to 70
+                * Featherbow cost 42 to 32
+                * Featherbow new ranged attack 9-4 (used on defense)
+                * Arrowwind hp 48 to 52
+                * Arrowwind cost 84 to 52
+                * Arrowwind new ranged attack 10-5 (used on defense)
+        
+version 0.22.6 (UO - 11 April 2017)
+    * Removed some leaders that were too fast (Marauder Raider and Sidhe Tracker)
+    * Version bump to clear up issues in ToV
+
+version 0.22.5 (UO - 3 April 2017)
+    * Fixed missing upgrades to the Arendian horseman and Orcei Piscator lines
+    * Added various missing dev units
+    * Removed energy attack type
+    * Dev version changes
+        */ Arendian chief/warlord can now be MP leaders (with slow)
+        */ Marauder scouts/raiders now always have quick
+        * Sidhe Raindancers now have 5 MP not 6 MP.
+        * Orcei Samnis line now considered Minuti (neutral not chaotic)
+
+version 0.22.4 (UO - 22 March 2017)
+    * Changed movement types that use the deprecated 100 for impassible terrain instead of 99
+    * Changed all units ids to meet current mainline standards (no spaces)
+    * Added a race for the Sidhe Fallen
+    * Got those cool little mainline portrait things
+    * Fixed bugs with Auctoritas and Formation abilities not working correctly
+    * Added missing Dev Boltrider cost
+    * Changed Name of Marauder Thain from Lord (whoops)
+        
+version 0.22.3 (UO - 19 January 2017)
+    * Making some long-overdue updates
+        * Played around with the Runelaying abilities
+    * Miscellaneous Bugfixes
+        * Fixed missing Magni Pugnator upgrades
+        * Fixed some macros that the preprocessor wanted to have #undef tags (don't really understand this, but okay?)
+        * Updated some units still using old races
+        * Fixed some dev/main factions calling each other's versions of units
+        * Fixed RPG faction calling old versions of units
+        * Fixed typos in unit descriptions and cfgs
+        * Fixed missing attack icons with nearest equivalents from mainline
+        
+version 0.22.2 (UO - 15 January 2017)
+    * Port to Wesnoth 1.13 line
+        * Removed deprecated teamcolor macro
+        * Updated deprecated multiplayer faction formatting
+    * Minor graphical fixes
+        * Reverted Auxilia and Nobleman ellipses to the mainline standards
+        * Changed reference to missing marauder axeman attack frame
+        
+version 0.22.1 (UO - 24 July 2015)
+    Gotta Catch 'Em All - Bug'e'mon
+        * Corrected id of Falcon line.
+        * Fixed misssing sprites for Falcon and Bestarius lines.
+
+version 0.22.0 (UO - August 2014)
+    * Isolate IE to make sure it actually works
+    * Arendia Birdwalk (1.11 Version Only)
+        * Removed last traces of old _cfg format
+        * Removed names from first lines of ability descriptions, as old format is deprecated
+        * Prefixed all units, races and movetypes with IE or IEDev to stop inter- and intra- era conflicts (years too late, I know, but you guys can download it safely again now) (MP, FoS, ToV, GC, UfS, AtW)
+        * Lavinian civilian gets its own movetype, with no movement on water (FoS)
+        * Lavinian Tribune and Imperator get a movetype based on civilian with shallow water movement (FoS and ToV)
+        * Settled the man/menn dilemma once and for all
+            * Renamed Cavernei Guardsman to Guardsmann (relevant to MP and GC)
+            * Renamed Issaelfr Bladesman to Bladesmann (MP, GC, AtW)
+        * Updated some other clumsy unit names
+            * Renamed Falcon Lord to Gyrfalcon
+            * Renamed Sidhe Warrior Spirit to Forefather (MP, ToV)
+            * Renamed Sidhe Forefather to Ancient (MP, ToV)
+        * Dealt with a pet peeve, unit types with duplicate names
+            * Renamed Nemidian Horseman to Cavalry 
+            * Renamed Sidhe Warrior to Fighter
+            * Renamed Marauder Lord to Thain
+            * Renamed Marauder Hunter to Woodsman
+            * Renamed Marauder Woodsman to Ranger
+            * Renamed Arendian Wanderer to Nomad
+            * Renamed Arendian Warrior to Soldier
+            * Renamed Issaelfr Archer to Frostbow
+        ** Graphical Changes (first new art since...2008! Thanks guys!):
+            * Bestiarius sprite (amorphous)
+            * Bestiarius portrait (freeforestify)
+            * Paeginarius portrait (freeforestify)
+            * Pugnator sprite (amorphous)
+            * Piscator sprite (amorphous)
+            * Updated credits
+        * Implemented previous dev changes in the trunk
+            * Samnis/Secutor sunglare no longer works at night
+                * Updated special notes
+            * Decreased marauderfoot/foresterfoot movement speed on hills/mountains 
+            * Made auxilia a separate 'auxilia' race
+            * Decreased speed of Arendian Chief line to 7
+        * Left some previous dev changes for further bug/balance testing
+            * Gave decurion/centurion auctoritas ability instead of leadership
+            * Made formation ability work
+            */ Decreased lavinianfoot physical resistances by 10 each
+        * Development version tweaks (will be put into trunk if they are popular/not unpopular, so please comment!)
+            * Organisation
+                * Rewrote dev era so that not everything is duplicated
+                * Removed devmain.cfg, as it didn't seem to do anything.
+            * Arendians
+                */ Improved Bowrider line water movement (from Shallow 3 - Swamp 3 - Reef 3 - Deep 4 to 2-2-2-4)
+                */ Added Boltrider to recruitable units for Arendian Heroes
+                */ Removed Falcon line from recruitable units
+            * Cavernei
+                * Implement AE Runelayer macros (Thanks Ravana)
+            * Issaelfr
+                */ Added Falcon line to recruitable units
+            * Lavinians
+                * Made Lavinian Tribune a possible leader for Lavinian Heroes
+            * Marauders
+                */ Gave Marauder Scout foresterfoot movetype
+            * Orcei Gladiatores
+                * Made trunk orcei faction available for alignment testing purposes
+                * Made all magni orcei chaotic
+            * Sidhe
+                */ Reduced Sidhe spirit line defence to 50% across the board (was 60% on forest and caves)
+                */ Changed Windlasher and Tempest melee attack icon and name to staff instead of sword
+                */ Changed Windlasher and Tempest melee attack type to impact
+                */ Changed Raindancer melee damage to 4-3 from 5-3
+                */ Changed Windlasher melee damage to 4-3 from 6-3
+                */ Changed Tempest melee damage to 5-3 from 7-3
+                */ Changed Stormlord melee damage to 6-3 from 8-3
+
+version 0.21.0 (UO - December 4 2012)
+    * We can rebuild it - we have the technology
+        * Renamed era from "Imperial Era Fixed" to "Imperial Era" for 1.11 version
+        * Changed references of "Wild Elves" to "Sidhe"
+        * Changed references of "Frost Elves" to "Issaelfr"
+        * Fixed Dark Thunderblade image issues
+        * Added missing Raindancer image
+        * Added some missing/placeholder attack images
+        * Created races for falcons and seals
+        * Added the orcei units to the textdomain
+        * Added a development version
+            */ Revised Samnis/Secutor interrupt special to only work during the dawn/day/dusk
+            * Gave decurion/centurion auctoritas ability instead of leadership
+            */ Made auxilia a separate 'auxilia' race
+            * Made formation ability work
+            */ Decreased lavinianfoot physical resistances by 10 each
+            * Updated special notes
+            */ Decreased marauderfoot/foresterfoot movement speed on hills/mountains
+            */ Decreased speed of Arendian Chief line to 7
+            
+version 0.20.5 (UO - November 27 2012)
+    * Further changes to the Orcei that I forgot last time...oops
+    * Fixed hopefully all remaining instances of "Journeyman"
+    * Removed references to non-existent mainline portraits
+
+version 0.20.4 (UO - November 5 2012)
+    * Dr. Sidhelove, or how I learned to stop worrying and love the fury
+        * Removed skirmisher from wanderer line
+        * Removed marksman from windrunner
+        * Added skirmisher to fury line
+        * Reduced experience requirements for fury line (50>40, 100>70, 150>100)
+
+version 0.20.3 (UO - July 13 2012)
+    * Samnis line changed to 0 attack weight for sun-glare (AI was spamming it for some reason)
+    * Legionary line changed to 0 defense weight for gladius
+
+version 0.20.2 (UO - July 12 2012)
+    * More Orcei changes by Temuchin, and credits updated.
+
+version 0.20.1 (UO - July 11 2012)
+    * Incorporated Temuchin Khan's changes to the Khampsa (land movement) and Samnis (sun glare) lines of the Orces Gladitores
+    * Fixed improved Lavinian Legion defense on forest hexes
+
+version 0.19.1 (UnwiseOwl)
+    * The port, it does nuzzink!
+        * Updated era to be functional with Wesnoth 1.9 incorporating 0.18.0 and 0.18.1 changes (the current version on the 1.9 server is an outdated copy, but no-one of old is available and the changes made were well-documented)
+        * Added multiplayer tags to to imperial_era.cfg so that random_side will not interfere with campaigns.
+
+version .18.1 (Chefu)
+    * Gameplay
+        * Added an RPG era
+    *Descriptions
+        * Added descriptions to all units that still needed them (some descriptions came from the folks who made the Ageless Era, thanks!)
+    * Bug fixes
+        * Fixed missing traits and names
+        * Fixed the race problem
+        * Fixed Lavinian Light Infantry incorrect movetype
+        * Fixed faction images in Multiplayer
+        * Fixed a few incorrect/deprecated macros
+        * Fixed the amla problem (some units were still using {AMLA_TOUGH 3} instead of {AMLA_DEFAULT} )
+
+version .18.0 (Chefu)
+    * Updated era to be functional with Wesnoth 1.8
+
+version 0.17.5 (rev 951):
+    * Now all units really do have the appropriate special notes
+    * Graphical changes;
+        * Lavinians:
+        * All units fully animated!
+    * Arendians:
+        * New unit graphics for all units
+    * Bug fixes:
+    * Cavernei now a playable faction again
+    * Era no longer conflicts with Era of Strife
+    * Balancing changes:
+        * Orcei Gladiatores:
+        * Increase Pugnator line hitpoints
+        * Give 6-2 fire arrow attack to Latronis
+    * Arendians:
+        * Add level 0 Falcon unit
+        * Bowrider melee decreased to 5-2 and advancements appropriately
+        * Differentiate Boltrider and Bowknight lines more
+        * Give Chief branch rally instead of leadership
+
+version 0.17.4 (rev 918):
+    * Graphical changes:
+        * Lavinians:
+            * Decurion, Propugnator, Signifer, Ballista,
+            Aquilifer, Archuballistarius fully animated
+        * Sidhe:
+            * Wardancer attack animation redone
+    * Balancing changes:
+        * Marauders:
+            * Axeman cost down to 16, ranged attack up to 6-3
+            * Boatsman cost down to 15, hitpoints up to 40
+            * Scout cost up to 15, hitpoints down to 29,
+            experience up to 40
+        * Lavinians:
+            * Redone Hippo resistances
+        * Arendians:
+            * Made Bowrider line use arendianlightmounted
+            movetype; they move on deep water but have worse
+            resists
+            * Bowrider cost up to 19
+            * Archer cost down to 16
+        * Orcei Gladiatores:
+            * Increase Latronis experience requirements so that an
+            intelligent one is not an almost guaranteed
+            advancement
+        * Sidhe:
+            * Wanderer experience up to 40, defenses reduced
+        * Issaelfr:
+            * Issaelfr units can now move on mushroom groves
+
+version 0.17.3 (rev 896):
+    * Almost all units have descriptions, and all units have the proper
+    special notes
+    * Graphical changes:
+        * Marauders:
+            * All units fully animated!
+        * Lavinians:
+            * Legionnaire, Bowman, Auxiliary fully animated
+        * Sidhe:
+            * Raindancer, Windlasher, Tempest partially animated
+    * Bug fixes:
+        * Issaelfr in Imperial Champions era no longer missing faction
+        image
+        * Field Ballista now recruitable by Lavinians in Imperial
+        Champions
+    * Balancing changes:
+        * Arendians:
+            * Arendian Bowrider tree rearranged - now branches
+            into two equal-sized branches, one archery-, one
+            melee- focused
+        * Issaelfr:
+            * Mistral Rime Castellan changed to resemble Rime
+            Keeper more - retains slow attack, does not get
+            massive damage
+            * Seal made level 0, attack to 5-3, advancements
+            attacks to 7-4 and 10-4
+            * Bladesman hitpoints reduced to 34, advancements
+            adjusted accordingly
+            * Changes to movetypes - now better on flat, forest,
+            swamp, worse on frozen, and different pierce and cold
+            resistances
+        * Lavinians:
+            * River Calf cost to 22, resistances buffed
+        * Orcei Gladiatores:
+            * River Lizard cost to 17, attack to 5-3, village
+            defense to 50
+        * Sidhe:
+            * Wanderer resistances to physical attacks decreased
+
+version 0.17.2 (rev 844):
+    * Graphical changes:
+        * Issaelfr:
+            * New Mistral Magus tree graphics
+        * Sidhe:
+            * New Wanderer, Tempest graphics
+    * Balancing changes:
+        * Issaelfr stats made sane (i.e. many changes)
+        * Orcei Gladiatores stats made sane (i.e. many changes)
+        * Lavinians:
+            * Removed Siege Archer from leader list
+
+version 0.17.1 (rev 739):
+    * Removed "balanced" and "unbalanced" eras - now only one Imperial Era
+    with all seven factions
+    * Balancing changes:
+        * Sidhe:
+            * Reduced Wanderer melee from 5-3 to 4-3
+        * Marauders:
+            * Removed Mauler from the available leader list, since
+            it has rage(3) making it easy to kill
+            * Gave Warrior an 8-2 torch attack so that Marauders
+            have a way to kill Sidhe Warrior Spirits
+
+version 0.17.0 (rev 710):
+    * Fixed the energy damage type problems
+    * Graphical changes:
+        * Wild Elves:
+            * All units tcolored and biggerized
+        * Marauders:
+            * All units tcolored and biggerized
+
+version 0.16.4 (rev 635):
+    * Added unit Marauder Longboat because it is contained in multiple
+    campaigns
+    * Renamed the Frost Elven faction to Issaelfr
+    * Balancing changes:
+        * Wild Elves:
+            * Gave Warrior Spirit line -50% resistance to arcane,
+            as opposed to 100%.
+
+version 0.16.3 (rev 554):
+    * Added unit Lavinian Imperator because it is contained in multiple
+    campaigns
+    * Graphical Changes:
+        * Wild Elves:
+            * Redone Herald, Raindancer, Veiledblade
+            * Attack animation for Warrior
+
+version 0.16.2 (rev 510):
+    * Orcei Gladiatores faction will now interact properly with Alfhelm
+    campaign
+    * Graphical Changes:
+        * Wild Elves:
+            * Tcolored Warrior Spirit (Urs)
+            * Redone Fury, Bladespinner, Warrior (Urs)
+
+version 0.16.1 (rev 408):
+    * Orces Gentorum will now play correctly
+    * New unit for Orces Gentorum, the River Lizard
+
+version 0.16 (rev 395):
+    * New faction, Gentes Orcorum
+    * Set up Imperial Era for translation into multiple languages
+    * Graphical Changes:
+        * Lavinians:
+            * New Lavinian-style helmet on all helmeted units
+            (turin)
+            * Tcolored Auxiliary line (turin)
+        * Marauders:
+            * New Fay line graphics, tcolored (turin)
+        * Wild Elves:
+            * Tcolored Herald, Shadowdancer, Veiledblade,
+            Warsinger (Urs)
+
+version 0.15 (rev 327):
+    * New faction, the Cavernei (=dwarves)
+    * Removed Aragwaithi and Kedari factions
+    * Graphics changes:
+        * Lavinians:
+            * New Legionnaire, Propugnator, Praetorian, Decurion,
+            Centurion, and Signifer    graphics (they're now up to
+            proper height and tcolored)
+            * New, tcolored Auxiliary graphics (Eleazar)
+        * Nemidians:
+            * New Hippopotamus line graphics (Eleazar)
+        * Wild Elves:
+            * Tcolored Raindancer, Wanderer and Fury lines, and
+            some of the Warrior line
+
+version 0.14 (rev 259):
+    * New faction, Frost Elves
+    * Updated the Arendian unit descriptions
+    * Balancing changes:
+        * Lavinians:
+            * Gave Skirmisher 2 moves in forest and Velite 1 (they
+            had 3)
+            *decreased Bowman ranged pierce attack by 1
+            *decreased Siege Archer ranged pierce attack by 1
+            *decreased Saggitarius ranged pierce attack by 1
+            *decreased bowman cost by 1
+        * Wild Elves:
+            * Warrior -3 exp
+            * Wildblade rage to 4
+            * Whirlwind rage to 5
+            * Wanderer exp -4
+            * Windrunner gains marksman
+            * changes to wildwoodland movement type
+                * mountains movement 2
+                * forest defense 40
+            * changes to sidheundead movement type
+                * deepwater movement 2
+                * shallow water movement 1
+            * new movement type wildelusive for Tracker line
+        * Arendians:
+            * Horseman: 7-3 melee, cost 18, movement 8, exp 42
+            * Mounted Warrior: 11-3 melee, cost 36, movement 8
+            * Chief: 9-3 melee, cost 36, movement 8 (lose Archery)
+            * Horse Master: Hp 56, 14-3 melee, movement 8
+            * Warlord: Hp 52, 10-4 melee, movement 8 (lose Archery)
+            * Bowrider: Hp 30, 4-3 melee, 6-3 ranged, movement 7, cost 19
+            * Boltrider: 7-3 melee, 9-3 ranged, movement 8
+            * Bowknight: 5-3 melee, 8-4 ranged, movement 7, cost 38
+            * Bowmaster: 8-3 melee, 9-4 ranged, movement 7
+            * Mounted Marksman: Hp 42, 6-3 melee, 10-4 ranged
+            * Archer: 5-2 melee, 6-3 ranged, cost 17
+            * Hunter: 6-4 melee, 8-3 ranged, fire 10-2 ranged
+            * Slayer: Hp 54, 9-4 melee, 12-3, fire 15-2 ranged
+            * Feather Bow: 5-3 melee, 7-4 ranged marksman
+            * Arrow Wind: Hp 48, 6-3 melee, 9-5 marksman, movement 8
+            * Druid: cures, 4-3 melee, 5-3 ranged magical, cost 20
+            * Shaman: cures, 6-3 melee, 6-4 ranged magical
+            * Warlock: cures, 9-3, 8-4 ranged magical
+            * Swordsman: cost 15
+            * Warrior: Hp 50, cost 32
+            * Wanderer: Hp 42, 4-3 ranged, cost 32
+            * Battlear: 16-3 melee
+            * Hero: Hp 48, 7-5 melee, 8-3 ranged
+    * Graphics changes:
+        * Attack icons updated by Jetryl
+        * Arendians
+            * Updated the swordsman, warrior and battlear sprites.
+            * Added Arendian sword attack icons.
+            * New bowrider graphics.
+            * New bowknight graphics.
+            * New bowmaster graphics.
+            * New mounted marksman graphics.
+            * New boltrider graphics.
+        * Aragwaithi
+            * sorceress portrait commited, but not added to the unit because it doesn't exist yet.
+        * Marauder
+            * Shieldmaiden graphics updated
+        * Nemidian
+            * Hippo line gains tcolor
+
+version 0.13 (rev 188):
+    * move dir utils/ to data/
+    * finished removing unused Aragwaithi units
+    * update animations to use 1.2 WML
+    * update sounds to use 1.2 sound files
+    * New units:
+        * Marauder Sailor, advancement of Boatsman
+        * Marauder Sea Dog, advancement of Sailor
+        * Marauder Fay line (female magi)
+    * Balancing changes:
+        * Wild Elves:
+            * Warrior - Cost to 14
+            * Herald - Cost to 32, +6 hitpoints
+            * Warsinger - Cost to 52, +2 hitpoints, +1 damage, -1 attack
+            * Bladespinner - Cost to 32, +2 hitpoints, +1 damage
+            * Wardancer - Cost to 52, +6 hitpoints, +1 damage
+            * Veiledblade - Cost to 32, +6 hitpoints
+            * Shadowdancer - Cost to 52, +2 hitpoints
+            * Fury - +2 hitpoints, changed special to berserk
+            * Wildblade - Cost to 35, +2 hitpoints, changed special to berserk
+            * Whirlwind - +4 hitpoints, changed special to berserk
+            * Raindancer - Cost to 22, exp to 48, +4 hitpoints
+            * Windlasher - Cost to 38, exp to 76, +10 hitpoints
+            * Tempest - +10 hitpoints, exp to 100
+            * Stormlord - +12 hitpoints
+            * War Mage - Cost to 38, exp to 76, +2 hitpoints, +1 ranged damage
+            * Thunderblade - +2 hitpoints
+            * Wanderer - +2 hitpoints, exp to 40, +1 ranged damage
+            * Tracker - Cost to 30, +2 hitpoints, exp to 60
+            * Windrunner - +4 hitpoints
+            * Warrior Spirit - +5 hitpoints, +1 attack
+            * Ancestor - +8 hitpoints, +2 ranged damage
+            * Forefather - +10 hitpoints, +1 ranged damage
+        * Lavinian Legion:
+            * Propugnator and Praetorian gain Formation on shield
+            attack
+        * Marauders:
+            * Marauder Boatsman - -7 hitpoints, changes to
+            movetype
+    * Graphics changes:
+        * Gave Wild Elf units proper shadows
+        * New attack icon sword-sidhe.png (can use improvements)
+        * New attack icon gladius.png (can use improvements)
+
+version 0.12 (rev 139):
+    * update all unit WML for 1.2
+    * New Units:
+        * Nemidian River Calf, River Horse, Hippopotamus
+    * New Graphics:
+        * better pilum attack image
+        * better gladius attack image
+        * removed unused aragwaithi images
+        * tcolored Lavinian Legionnaire and Lavinian Bowman lines
+        * tcolored Nemidian Horseman line
+        * New Arendian Archer graphics
+        * New Arendian Archer ranged animation
+        * New Arendian Feather Bow graphics
+        * New Arendian Arrow wind graphics
+        * New Arendian Hunter graphics
+        * New Arendian Slayer graphics
+        * New Arendian Swordsman graphics
+        * New Arendian Warrior graphics
+        * New Arendian Battlear graphics
+        * New Arendian Wanderer graphics
+        * New Arendian Hero graphics
+    * Balancing changes:
+        * decreased melee damage of Arendian Warlock to 8-3
+        * decreased health of Arendian Slayer to 58
+        * decreased movement of Arendian Slayer to 5
+        * decreased melee damage of Arendian Shaman to 6-3
+        * decreased ranged damage of Arendian Shaman to 6-4
+        * decreased melee damage of Arendian Warlock to 8-3
+        * decreased movement of Arendian Feather Bow to 5
+        * decreased health of Arendian Hunter to 46
+        * decreased movement of Arendian Hunter to 5
+        * decreased melee damage of Arendian Warlock to 8-3
+        * decreased movement of Arendian Swordsman to 5
+        * decreased melee damage of Arendian Warlock to 8-3
+        * decreased movement of Arendian Arrow Wind to 5
+        * decreased movement of Arendian Archer to 5
+        * decreased melee damage of Arendian Druid to 4-3
+        * decreased health of Arendian Druid to 28
+        * the arendian hunter is now an advancement of the arendian swordsman
+    * added description for all of the arendian archer and swordsman lines
+
+version 0.11:
+    * reorganization:
+        * new directory utils/
+        * abilities.cfg goes into utils/
+    * new units:
+        * Marauder Boatsman
+    * Balancing changes:
+        * Lavinian Auxiliary and upgrade neutral
+        * Wild ELf Wanderer + poison, -1 melee damage
+        * Wild Elf Fury line loses charge, gains rage(3,4,5)
+        * Marauder Pillager gets torch instead of axe attack
+        * Marauder Pillager line loses charge
+        * Marauder Crusher line loses charge, gains rage(3)
+        * increased melee damage of the Aragwaith Archer to 6-3
+        * increased ranged damage of the Aragwaith Archer to 5-4
+        * increased melee damage of the Aragwaith Strongbow to 9-3
+        * increased ranged damage of the Aragwaith Strongbow to 8-4
+        * increased melee damage of the Aragwaith Greatbow to 13-3
+        * increased ranged damage of the Aragwaith Greatbow to 12-4
+        * increased ranged damage of the Aragwaith Slayer to 9-4
+        * increased melee damage of the Aragwaith Warlock to 6-2
+        * increased ranged damage of the Aragwaith Warlock to 7-3
+        * increased melee damage of the Aragwaith Wizard to 10-2
+        * increased ranged damage of the Aragwaith Wizard to 11-3
+        * increased melee damage of the Aragwaith Sorceror to 13-2
+        * increased ranged damage of the Aragwaith Sorceror to 15-3
+        * decreased cost of the Aragwaith Swordsman to 13
+        * increased blade resistance of the Aragwaith Swordsman, Longswordsman, and Swordmaster to 20%
+        * increased blade resistance of the Aragwaith Guard to 30% and Shield Guard to 40%
+        * altered resistances of Aragwaith mounted units to match those of Loyalist mounted units
+        * fixed misspelled AMLA, missing AMLA, and misspelled alignment in various Aragwaithi units
+        * put some level 2 and 3 Aragwaithi unit costs within the realm of sensibility
+    * New Graphics:
+        * More Arendians t-coloured
+
+Version 0.10:
+    * Converted to the division of [multiplayer_era] in factions/
+    directory
+    * New units:
+        * Lavinian Archuballistarius
+    * Balancing changes:
+        * Lavinian Propugnator +1 damage melee
+        * Lavinian Praetorian Guard +2 damage melee
+        * Lavinian Decurion -1 damage melee, -2 damage range
+        * Lavinian Centurion -1 damage melee, -4 damage range
+        * Nemidian Horseman +1 gold
+        * Nemidian Claimant +12 experience
+        * Marauder Crusher - berserk, + charge, +1 gold
+        * Marauder Mauler - berserk, + charge
+        * Bladespinner -1 damage melee
+        * Herald 6-5 -> 7-4 melee
+        * Raindancer +1 damage ranged
+        * Stormlord +3 damage melee, type -> fire
+        * Tempest +1 damage melee
+        * Thunderblade +2 damage melee, +1 ranged
+        * Wanderer line stats standardized; skirmish all levels,
+        poison levels 2 and 3, attacks to match
+        * Wardancer -1 damage melee
+        * Warmage +1 damage melee
+        * Warrior -1 damage melee, +4 hitpoints (and suitable changes
+        for advancements)
+        * Windlasher +1 damage melee
+            
+
+Version 0.9:
+    * New faction added: Wild Elves
+    * New units added:
+        * Lavinian Ballista
+        * Various Arendians
+    * New graphics:
+        * Some Arendians t-colored
+    * New document: HISTORY
+
+Version 0.8:
+    * New faction added: Arendians
+    * New units added:
+        * Lavinian Bowman, Siege Archer, Saggitarius tree
+    * Balancing changes:
+        * Lavinian Auxiliary -2 gold, +1 damage
+        * Nemidian Horseman -2 gold, -1 strike, +3 damage
+        * Marauders all have same alignment
+        * Various other changes
+
+Version 0.7:
+    * New faction added: Kedari
+    * Graphical Changes:
+        * Many Aragwaithi get new animations
+    * Balancing Changes:
+        * All Aragwaithi are now race=aragwaith (earlier some were
+        human)
+
+Version 0.6:
+    * New era Imperial Champions (i.e. Imperial Age of Heroes)
+    * Balancing changes for Marauder faction:
+        * the Marauder Warrior (-1 gold)
+    * Balancing changes for Lavinian Legion faction:
+        * Legionnaire tree (+2 gold, -1 damage,    Signifer branch
+        loses ranged, 70%-60% defence on village and castle)
+        * Lavinian Light Infantry (-1 movement)
+    * Balancing changes for Aragwaithi faction:
+        * Aragwaith Spearman tree (+2 gold)
+        * Aragwaithi Pikeman (+damage)
+        * Aragwaithi Scout (40% defence on sand)
+    * Graphical Changes:
+        * Lavinian Slinger partially animated
+        * Aragwaithi Strongbow uses correct graphics
+    
+
+Version 0.5:
+    * Animation for several Marauder units:
+        * Marauder Axeman attack
+        * Marauder Scout attack
+        * Marauder Warrior attack
+    * Balancing changes for the Nemidian Horseman line
+        * +1 gold for Horseman
+        * Decreased attack for Claimant and Champion
+    * Aragwaith balancing changes for:
+        * Aragwaith Archer line
+        * Aragwaith Swordsman line
+        * Aragwaith Spearman line
+        * Aragwaith Warlock line
+
+Version 0.4:
+    * Animation for many Lavinian units:
+        * Nemidian Horseman (except javelin)
+        * Nemidian Claimant (except javelin)
+        * Nemidian Champion (except javelin)
+        * Lavinian Legionnaire (except pilum)
+        * Lavinian Propugnator (except pilum)
+        * Lavinian Praetorian Guard (except pilum)
+        * Lavinian Decurion (except pilum)
+        * Lavinian Centurion (except pilum)
+        * Lavinian Militia
+        * Lavinian Light Infantryman
+        * Lavinian Rorarius
+        * Lavinian Skirmisher
+    * Balancing changes for the Lavinian Light Infantry and Rorarius
+
+Version 0.3:
+    * Added Aragwaith faction
+    * Changed Roman Legion to Lavinian Legion
