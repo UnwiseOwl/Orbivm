@@ -1,0 +1,183 @@
+Towards version 1.0 (Far future)
+
+	*** Fix end level events for non-standard ends (like killing all enemy leaders in scen_2)
+	*** Non-default music 
+	*** MAKE A WML REFERENCE FILE
+	*** USE <I> and </B> TO MAKE WHISPER AND SHOUTY HAPPEN
+	*** Rewrite and add back 5_Iceswept_Bay
+	*** art assets for heroes
+	*** custom musiclists
+    *** scen 2: some old [i] format iterations that still seem to work, consider replacing with similar format to the civilian store
+	*** scen 2: add something to stop second marauder thain ganking
+	*** scen 2: have second marauder move in instead of just appearing
+	*** scen 3: consider adding a scout ahead event to ensure the road ahead is clear?
+	*** scen 3: add some kind of interesting flavour interactions between loyal units
+
+version 0.7.2 and above (UO - Future)
+	** Implemented major rewrite of all dialogue
+	** Recommented campaign
+	** Moved to current gold carryover format
+	** Updated maps to include previous journeys
+	*** Add a .mo file
+	*** Change signposts in scens 1,2,3,6 to cairns?
+			
+	** Changes to 6_THE_SIDHE
+		** Changed bandits to independent Auxilla
+		** Dialogue changes many and varied
+		** Changed marauder to be chaser_lord (from scen_4)
+		** Removed civilians from villages
+		** Updated gold carryover format
+		** Moved labels to start event
+		** Added previous travels to map
+                               
+    ** Changes to 7_MORE_SIDHE
+		** Some dialogue changes
+		** Updated gold carryover format
+		** Moved labels to start event
+		** Added previous travels to map
+                               
+	** Changes to 8t_The_Emperor
+        ** Changed map to use the one from scenario 0
+        ** Complete rewrite of dialogue
+		** Added previous travels to map
+ 
+    ** Changes to 8_Pass_of_Arendia
+        ** Dialogue changes many and varied
+        ** Now one ongoing scenario rather than multiple ongoing ones
+        ** Added Marauder ally if you've played the whole campaign like a vicious murderer.
+        ** Implemented the roll of honour
+		** Moved labels to start event
+		** Added previous travels to map
+		** Cleared deceased variable.
+		** scen 2 gives way too much gold, revise turn limit
+
+version 0.7.1 (UO - February 2020)
+
+		* Housekeeping
+			* Standardised the formatting of the wml as much as possible
+			* Replaced deprecated [difficulty] tags
+			* Added running out of time to the list of ways to lose in the objectives
+		    * Created special death quotes for all major characters
+			
+		* Minor changes to 0_The_Emperor
+			* Fixed error causing the story not to fire.
+			
+		* Minor changes to 2_Siege_of_Silvium
+			* Fixed white raider so that he doesn't teleport around
+			* Some small dialogue changes
+			* Make spawn nobleman macro
+		
+		* Minor changes to 3_Down_the_Silvia_River
+			* Gave the Alfling leader slightly more gold and better units on the arrival of the Wylfs.
+			* Dialogue changes for lore consistency
+			* Changes to map to stop spawnganking of the Wylf leader.
+			
+        ** Changes to 4_The_Port_City
+			* Gameplay changes
+				** Added chaser_lord (from Scen_3)
+				* Added temporarily impassable section to map to prevent newly spawned team2 leader ganking
+				* Made marauders present from the beginning
+				* Made Lavinian enemy not attack civilians
+				* Added custom invisble bridge terrain overlay to allow noblemen to get onto ships (hey, it works)
+				* Changed ship mechanics so that they have maximum capacities
+				* You now lose if the marauders capture a homestead before you've emptied it
+				* You lose if the maruaders capture a ship too
+				* Scen 4 is the new last scenario for now
+			* Map Changes
+				* Moved villages to allow healing on the fort island
+				* Made fort island smaller and less defensible from the west
+			* Updates
+				* Replaced deprecated foreach wml
+				* Moved labels to prestart event
+				* Gold carryover format?
+			* Fixes
+				* Added previous travels to map
+				* Got rid of a whole heap of duplicate code thanks to the wonders of macros
+		 	** Dialogue changes many and varied
+			
+version 0.7.0 (UO - December 27 2017)
+    * Port for 1.13 series
+		* Housekeeping
+        	* Discontinued support for 1.10 series
+			* Update for Imperial Era 0.22+
+			* Update to outdated/incorrect data in main.cfg
+			* Added translations folder (one day, Alice)
+		* Gameplay changes
+        	* Introduced wordy and non-wordy versions of the campaign
+        	* Added new non-playable scenario 0 (wordy only)
+       		* Jugarthus no longer needs to be kept alive (but if he dies you lose the cavalry)
+			               
+        * Changes to 1_Return_from_Lavinium
+			* Gameplay changes
+				* Made Aldwylf and friends a persistent enemy throughout the campaign
+       			* Septimus is now waiting as the garrison commander at the fort
+			* Map Changes
+				* Slight map balance changes to make all difficulties easier
+				* Added the missing signpost
+				* Marauder keep removed until they arrive
+				* Prettified the map a little
+			* Updates
+            	* Fixed gold defaulting to 100 for all difficulty levels
+           		* Updated gold carryover format
+				* Updated formats of end_level tags for losses
+				* Moved labels to prestart event
+			*Fixes
+				* Added event for losing on time
+			    * Rewrote a good proportion of the dialogue.
+                   
+        * Changes to 2_The_Raid
+            * Renamed to 2_Siege_of_Silvium
+			* Gameplay changes
+				* Created secondary aggressive Marauder Jarl who spawns when first is defeated
+				* Added Aldwylf (from Scen_1) as a third Marauder leader
+				* Changed victory conditions to escaping with civilians (or killing all enemies)
+				* Added new loss conditions of death of civilians or loss of villages in the city
+			* Map Changes
+				* EASY map mask removed, as the HARD start is just better
+				* Added impassable section to map to prevent newly spawned Aldwlyf ganking
+				* Created a few more starting allied and enemy units
+				* Flagged a few more starting villages for each side
+				* Changed elvish village types to hill type
+				* Made allied legion side 3 instead of side 2
+				* Recoloured teams for standarisation throughout campaign
+			* Updates
+				* Updated gold carryover format
+				* Moved labels to prestart event
+			* Fixes
+				* In the final phase, Senturus can die now and that's okay
+				* Sent civilians to a [store_unit] instead of the recall list
+				* Changed proximity mine event to trigger on AI turn instead of immediately
+				* Gave ally more gold for the final stand
+				* Added previous travels to map
+				* Fixed bug that caused loyal units to take damage and gain experience on recall
+			* Changed 100% of dialogue.
+ 
+        * Changes to 3_Down_the_Silvia_River
+			* Gameplay changes
+				* Added chaser_lord (from Scen_2)
+				* Marauders now fight each other
+				* Made the first day actually take 6 turns instead of 9(!)
+				* Player now has to hold at the signpost after the civilians escape
+				* Changed scenario TOD to make first meeting with enemy be at night
+				* Increased difficulty to make up for better veterans from Scen_2
+				* Changed nobleman spawn to avoid impassable water hexes
+			* Map Changes
+				* Moved Eastern village so that a careful player can defend it even if she has no cavalry
+				* Added a second village by the signpost to help a defending player
+				* Widened river near Lavinian camp to stop strange AI behaviour there.
+				* Various aesthetic changes
+			* Updates
+				* Updated gold carryover format
+				* Moved labels to prestart event
+			* Fixes
+				* Made player lose if the Marauders take a farm before it's evacuated
+				* Added previous travels to map
+				* Changed [story] so that it made sense with the changes to Scen 2
+            * Large scale dialogue changes
+			* Stopped campaign here for now while I make further changes.
+     
+	
+version 0.6.2 (UO - December 4 2012)
+    *Updated to work with "Imperial Era"
+    *Changed references of "frost elves" to "issaelfr"
+    *Changed references of "wild elves" to "sidhe"
