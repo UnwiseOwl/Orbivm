@@ -7,17 +7,11 @@ version 0.25.0 (UO -
         * Fixed missing sound files for orci archers
         * Updated ie_interrupt to 1.15 format. This breaks backporting, so 0.24.0 will be the last 1.14 version.
         * Updated rage for 1.15 format.
-    ** Samnis movetype is all screwed up.
-    ** Add interrupt to all Samnis lines?
-    ** tc on marauder raider death is wrong.
-    ** tc on upgraded lav slinger is wrong
-    ** tc on sihde herald is wrong
     ** Add custom names for different factions
-    ** Create a unit test scenario
-    ** Update unit image names that haven't been updated since the changes
+    ** Update unit image names that haven't been updated since the unit name changes
     ** Fix Arendians
     ** Fix Issalefr
-    ** Add 'Random IE' and 'Random Default' to the IE + Default era
+    * Added 'Random IE' and 'Random Default' to the IE + Default era
 
 version 0.24.0 (UO - 10 March 2020)
     * Port for Wesnoth 1.15
