@@ -1,12 +1,17 @@
 For current dev version changes, please see our Github https://github.com/UnwiseOwl/Imperial_Era
 
 version 0.25.0 (UO -
+Thanks to Atreides for their feedback and contributions to this version.
     * Removed deprecated/old/broken code
         * Updated units using the old special notes formats
         * Updated ellipses for orces minuti
         * Fixed missing sound files for orci archers
         * Updated ie_interrupt to 1.15 format. This breaks backporting, so 0.24.0 will be the last 1.14 version.
         * Updated rage for 1.15 format.
+	* Unit updates
+		* Added animations and sound for River Lizard line knife throws
+		* Added sound and animation for Arendian Nomad
+		* Added sound for maruader scout
     ** Add custom names for different factions
     ** Update unit image names that haven't been updated since the unit name changes
     ** Fix Arendians
