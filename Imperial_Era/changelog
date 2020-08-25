@@ -1,6 +1,12 @@
 For current dev version changes, please see our Github https://github.com/UnwiseOwl/Imperial_Era
 
-version 0.25.0 (UO -
+FUTURE:
+    ** Add custom names for different factions
+    ** Update unit image names that haven't been updated since the unit name changes
+    ** Fix Arendians
+    ** Fix Issalefr
+
+version 0.25.0 (UO - 23 August 2020)
 Thanks to Atreides for their feedback and contributions to this version.
     * Removed deprecated/old/broken code
         * Updated units using the old special notes formats
@@ -10,12 +16,10 @@ Thanks to Atreides for their feedback and contributions to this version.
         * Updated rage for 1.15 format.
 	* Unit updates
 		* Added animations and sound for River Lizard line knife throws
+		* Added sound for Arendian Swordsman
+		* Added sword sounds for Nemidian Cavalry
 		* Added sound and animation for Arendian Nomad
 		* Added sound for maruader scout
-    ** Add custom names for different factions
-    ** Update unit image names that haven't been updated since the unit name changes
-    ** Fix Arendians
-    ** Fix Issalefr
     * Added 'Random IE' and 'Random Default' to the IE + Default era
 
 version 0.24.0 (UO - 10 March 2020)

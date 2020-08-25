@@ -13,7 +13,13 @@ Towards version 1.0 (Far future)
 	*** scen 3: consider adding a scout ahead event to ensure the road ahead is clear?
 	*** scen 3: add some kind of interesting flavour interactions between loyal units
 
-version 0.7.2 and above (UO - Future)
+version 0.7.2 (UO - Future)
+
+	* Changes to 1_Return_from_Lavinium
+		* Increased marauder aggression (they kept running away!)
+		* Decreased marauder gold to 200 250 300
+
+
 	** Implemented major rewrite of all dialogue
 	** Recommented campaign
 	** Moved to current gold carryover format
