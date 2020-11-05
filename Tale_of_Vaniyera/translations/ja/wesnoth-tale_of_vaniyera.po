@@ -1,0 +1,1322 @@
+# 
+# Translators:
+# RatArmy <broadbarredfirefish@gmail.com>, 2020
+# IIIO_METAL <kawaguchi_hideo@mac.com>, 2020
+# k konami, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2020-08-16 13:04+0900\n"
+"PO-Revision-Date: 2020-08-19 12:40+0000\n"
+"Last-Translator: k konami, 2020\n"
+"Language-Team: Japanese (https://www.transifex.com/wesnoth-jp/teams/112641/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: ./_main.cfg:10
+msgid "<span color='#909090'><small>Version 0.11.6</small></span>"
+msgstr "<span color='#909090'><small>Version 0.11.6</small></span>"
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: ./_main.cfg:15
+msgid "The Tale of Vaniyera"
+msgstr "Vaniyera 物語"
+
+#. [difficulty]: description=IE Beginner
+#: ./_main.cfg:26
+msgid "Warrior"
+msgstr "戦士"
+
+#. [difficulty]: description=Challenging
+#: ./_main.cfg:33
+msgid "Veiledblade"
+msgstr "Veiledblade"
+
+#. [difficulty]: description=Difficult
+#: ./_main.cfg:39
+msgid "Shadowdancer"
+msgstr "Shadowdancer"
+
+#. [campaign]: id=Epic_of_Vaniyera
+#: ./_main.cfg:43
+msgid ""
+"115-116 SI\n"
+"\n"
+"The expansionist Lavinian Legion, led by the Imperator himself, has invaded the northern forests of the Sidhe. It is up to the young Vaniyera to push its armies back from the border...\n"
+"<span color='#909090'>\n"
+"<small>Warrior level is appropriate for Imperial Era beginners; Shadowdancer is a challenge for many veterans. \n"
+"\n"
+"5 scenarios.\n"
+"\n"
+"</small></span>"
+msgstr ""
+"115-116 SI\n"
+"皇帝自らが率いる拡張主義 Lavinian 軍が Sidhe の北の森に侵入してきました。国境から軍を押し戻せるか否かは、若き Vaniyera の肩に掛かっていました...\n"
+"<span color='#909090'>\n"
+"<small>戦士 は帝国時代( Imperial Era ) の初級者向きです；Shadowdancer は上級者向けの挑戦レベルです。\n"
+"\n"
+"5 シナリオ。\n"
+"</small></span>"
+
+#. [about]
+#: ./_main.cfg:55
+msgid "Originator"
+msgstr "作成者"
+
+#. [about]
+#: ./_main.cfg:62
+msgid "Design"
+msgstr "デザイン"
+
+#. [about]
+#: ./_main.cfg:69
+msgid "Maintenance"
+msgstr "メンテナンス"
+
+#. [about]
+#: ./_main.cfg:76
+msgid "Art"
+msgstr "アート"
+
+#. [about]
+#: ./_main.cfg:87
+msgid ""
+"For the next chapter in the life of Vaniyera, see the campaign 'Fall of "
+"Silvium'"
+msgstr "Vaniyera の生涯の次章は、キャンペーン Fall of Silvium で."
+
+#. [scenario]: id=0_Camp_of_Lavinium
+#: ./scenarios/0_Camp_of_Lavinium.cfg:5
+msgid "Camp of Lavinium"
+msgstr "Lavinium の陣営"
+
+#. [part]
+#: ./scenarios/0_Camp_of_Lavinium.cfg:106
+msgid ""
+"I am Vaniyera, one-time disciple of Faolan, a Thunderblade on our great "
+"Council. I do not purpose to tell the tale of the Thunderblades, though it "
+"is a great and long one and surely none know it better than I. Instead, let "
+"me speak of the first time that I met with the cursed men from the south, "
+"the Lavinians, and their invasion of our lands."
+msgstr ""
+"私は Vaniyera 、偉大な評議会の Thunderblade 「Faolan」 のかつての門弟です。ですがここで Thunderblade の話をするつもりはありません、それが長大な物語であり、私以上に知る者がいないことは承知していますが。代わりに、南方から来た呪われた男たち Lavinian と初めて遭遇したときの話をしましょう。\n"
+"そして彼らがいかにして我らの土地へ侵攻したかについての話を。"
+
+#. [part]
+#: ./scenarios/0_Camp_of_Lavinium.cfg:109
+msgid ""
+"It had been over a hundred years since we arrived on this continent of "
+"promise. From the moment of our arrival chaos reigned, for from that time up"
+" until to this very day the Marauders, a savage and violent people, have "
+"battled with us to the death."
+msgstr ""
+"この約束の大陸にたどり着いて100年以上が経ちました。到着したその瞬間から混乱が支配し、その時からまさに今日まで、私たちは野蛮で暴力的な略奪者達と死を賭けた戦いを繰り返してきました。"
+
+#. [part]
+#: ./scenarios/0_Camp_of_Lavinium.cfg:113
+msgid ""
+"You have heard, of course, of how our king Vanimaro, Lord of the Thunder, "
+"died securing the new home of the Sidhe. He led us from the lost lands where"
+" we once lived to this great forest and the splendor of Mount Stormkeep."
+msgstr ""
+"もちろん、雷の王 Vanimaro が死を賭けて Sidhe "
+"の新たな住処を確保した話は聞いたことがあるでしょう。彼は、今は失われてしまった我々の土地から、この素晴らしい森と雄大な Mount Stormkeep "
+"まで導いてくれました。"
+
+#. [part]
+#: ./scenarios/0_Camp_of_Lavinium.cfg:116
+msgid ""
+"After his death, our brethren, who we now call the Issaelfr, abandoned us "
+"and allied with the Marauder rabble. We were left, war-weary and alone in "
+"our struggle to survive on this continent. And the Marauders were not the "
+"only threat to our race."
+msgstr ""
+"彼の死後、今は Issaelfr "
+"と呼ばれている私たちの同胞は私たちを捨て、略奪者の集団と同盟を結びました。私たちは、この大陸で生き残るための闘いの中で、疲れ果て孤立していきました。そして、私たちの種族を脅かしていたのは略奪者達だけではなかったのです。"
+
+#. [part]
+#: ./scenarios/0_Camp_of_Lavinium.cfg:120
+msgid ""
+"We had heard rumors of a host of men approaching, and Faolan and I went to "
+"investigate. We travelled quickly to the southern edges of our Western March"
+" to see if these rumors were true and indeed, we saw them, the Lavinians, "
+"encamped just beyond the tree-line."
+msgstr ""
+"私たちは多くの男共が接近しているという知らせを耳にし、 Faolan と共に調査に向かいました。 Western March "
+"の南端に急行し、これらの噂が本当か確認したのです。そして実際に、 Lavinian が並木の向こうに野営しているのを発見しました。"
+
+#. [part]
+#: ./scenarios/0_Camp_of_Lavinium.cfg:123
+msgid ""
+"We decided to move closer in the hopes of hearing their plans. The Lavinian "
+"campfire was bright in the distance, but we were then, as we are now, the "
+"masters of this forest, and we were cautious and careful to not be seen..."
+msgstr ""
+"私たちは彼らの計画を聞けることを期待して、もっと近づくことに決めました。 Lavinian "
+"の陣営の火は遠くまで明るく照らし出していましたが、当時も今も私たちはこの森の達人であり、見つからないよう細心の注意を払っていました..."
+
+#. [message]: id=Primus M
+#: ./scenarios/0_Camp_of_Lavinium.cfg:140
+msgid ""
+"Now, men, we stand here, but a stone's throw from the land of the elves, a "
+"land that we must seize, for the glory and security of our Empire. Any "
+"further, and we will be in their territory, why, they may be listening, even"
+" now."
+msgstr ""
+"今、我々が立っている目の前にエルフの地、帝国の栄光と安全のために奪取すべき土地がある。この先へ進めば、我々は彼らの領域に入ることになる。気をつけろ、もうすでに彼らは耳をそばだてているかも知れないぞ。"
+
+#. [message]: id=Venius R
+#: ./scenarios/0_Camp_of_Lavinium.cfg:144
+msgid ""
+"What matter? They cannot challenge the might of Lavinia! We crushed the "
+"Airiya, and we shall crush them!"
+msgstr ""
+"だからどうした？ 奴らが Lavinia の軍勢に挑むなど出来るものか！我々は Airiya を打ち砕いた。奴らも同じように打ち砕くだけだ!"
+
+#. [message]: id=Primus M
+#: ./scenarios/0_Camp_of_Lavinium.cfg:148
+msgid ""
+"Silence! These elves are not to be underestimated. We have never before "
+"faced their kind - they are newcomers to the land - but if the rumors are "
+"true, they are centuries old and carry with them the experience of many "
+"battles."
+msgstr ""
+"静かに！このエルフ達を見くびるのは危険だ。我々はこれまでにそのような種族に遭ったことがない  ー 彼らはこの土地では新参者ではある ー  "
+"だが、噂が真実ならば、彼らはすでに何世紀も前から存在し、多くの戦いを生き抜いてきた、ということだ。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/0_Camp_of_Lavinium.cfg:152
+msgid "Nevertheless, they shall fall before our blades!"
+msgstr "いずれにしても、奴らは我らの剣にひれ伏すことになる！"
+
+#. [message]: id=Primus M
+#: ./scenarios/0_Camp_of_Lavinium.cfg:156
+msgid ""
+"Do not be arrogant, Centurion! You know what befell the prideful Dardan "
+"heroes of old. Now listen. Our plan is simple. Since we must fight in "
+"forest, we cannot afford a draw-out battle. We must march swiftly, pushing "
+"forwards until we reach the foothills of the fey mountain itself, where our "
+"armies will be in the open and able to defeat the elves."
+msgstr ""
+"傲慢になるのはよせ、 Centurion ！古の誇り高き Dardan "
+"の英雄たちに何が起こったのか忘れてはいまい。聞くのだ。我々の計画は簡単だ。森での戦いを強いられたら、我々に戦いを長引かせる余裕は無い。素早く進軍し、奇妙な山の麓の丘に到達するまで歩を進めるのだ。その開けた場所なら我が軍隊はエルフを倒せるだろう。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/0_Camp_of_Lavinium.cfg:160
+msgid "And we surely shall... soon the forests of the elves will be ours!"
+msgstr "そうして我々は確実に... 程なくエルフの森は我々の手に落ちることになる！"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/0_Camp_of_Lavinium.cfg:164
+msgid "Not before your life is mine!"
+msgstr "そうなる前に、あんたの命を頂くことになるけどな！"
+
+#. [message]: id=Primus M
+#: ./scenarios/0_Camp_of_Lavinium.cfg:168
+msgid "Now, men, rest yourselves and your troops in preparation for battle."
+msgstr "さて、諸君、解散だ部下の兵士にも充分な休息を取らせて、戦いに備えよ。"
+
+#. [message]: id=Silvius L
+#: ./scenarios/0_Camp_of_Lavinium.cfg:172
+msgid "Aye!"
+msgstr "了解!"
+
+#. [message]: id=Primus M
+#: ./scenarios/0_Camp_of_Lavinium.cfg:176
+msgid "Good! Rest tonight. Tomorrow we shall strike."
+msgstr "良し！今夜はぐっすりと休むのだ。明日は攻撃に出る。"
+
+#. [message]: id=Faolan
+#: ./scenarios/0_Camp_of_Lavinium.cfg:181
+msgid ""
+"Tomorrow? We have barely any time left, Vaniyera! These men are here to "
+"destroy us, and we must act quickly if we are to stop them. I will head back"
+" and prepare the citadel as a first line of defense. You remain here until "
+"they move out, watch them, and then meet me there. Once you return we must "
+"attempt to reach Mount Stormkeep and warn the council..."
+msgstr ""
+"明日？もう時間がありません、 Vaniyera "
+"！この男達は私達を滅亡させようとしているのです、辞めさせるためには、私達は迅速な行動を取る必要があります。私はすぐに引き返して、第一防衛線としての城塞を準備しましょう。"
+" Vaniyera 、あなたは彼らが退去するまでここに留まり監視してから、そうして城塞で再開しましょう。あなたが戻ったらすぐに Mountain "
+"Stormkeep を目指し、警戒するよう評議会に伝えねばなりません..。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/0_Camp_of_Lavinium.cfg:185
+msgid "Yes, Master. A safe journey to you."
+msgstr "ええそうですね、師匠。道中のご無事を願っています。"
+
+#. [scenario]: id=1_Ambush
+#: ./scenarios/1_Ambush.cfg:6
+msgid "Ambush"
+msgstr "待ち伏せ"
+
+#. [part]
+#: ./scenarios/1_Ambush.cfg:51
+msgid ""
+"Once Faolan left, I took the chance to observe these men before us, men so "
+"different from the Marauders. Whereas the Marauders are almost as at home as"
+" any elf amongst the trees, these Lavinians were out of place here in "
+"forests of the north, so different to the plains of their homelands in the "
+"far south."
+msgstr ""
+"Faolan が去った後、私はこの男達を目の前で観察する機会を得ました。略奪者集団はエルフのように木に囲まれた家にいるのに対し、 Lavinian "
+"にとって北部の森は場違いで、はるか南方の故郷の平原とは全く異なっていたのです。"
+
+#. [part]
+#: ./scenarios/1_Ambush.cfg:54
+msgid ""
+"The humans, though strange to me, proved to be quite interesting. At first, "
+"I admired their courage, spending a part of their brief lives travelling so "
+"far from their homeland seeking fame and glory. But they were here seeking "
+"the destruction of the Sidhe, so I knew that I must use my new knowledge to "
+"fight and destroy them in turn."
+msgstr ""
+"人間とは、私にとっては奇妙ですが、なんと興味深い者たちであるかがわかりました。最初、私は彼らの勇気に感心しました。彼らはその短い人生の一部を費やして、故郷から遠く離れた場所で名声と栄光を求めて旅を続けているのですから。しかし、彼らは今ここで"
+" Sidhe の壊滅を欲しており、結局は彼らと戦って討伐するには新たな知識を用いねばならないと知りました。"
+
+#. [part]
+#: ./scenarios/1_Ambush.cfg:57
+msgid ""
+"When the sun rose, the Lavinian camp filled with life, and the Emperor and "
+"his legions headed off with great efficiency to their fated meeting with "
+"Faolan. They marched fast, but I knew we could move faster through the "
+"forest. Then a Marauder raiding party blocked my path..."
+msgstr ""
+"日が昇ると、 Lavinian 陣営は生命に満ち溢れ、皇帝とその軍団は Faolan "
+"との運命の出会いに向けて、非常に効率よく出発しました。彼らは素早く進軍しましたが、森の中は私達の方がより速く移動できることを私は知っていました。そうして、略奪者の襲撃隊が私達の道に立ちはだかったのです..."
+
+#. [objective]: condition=win
+#: ./scenarios/1_Ambush.cfg:87
+msgid "Bring Vaniyera to the end of the road"
+msgstr "Vaniyera を道の終端の標識に移動させる"
+
+#. [objective]: condition=win
+#: ./scenarios/1_Ambush.cfg:91
+msgid "Defeat the Marauder leader (bonus)"
+msgstr "Lavinian Centurion を倒す（ボーナス有り）"
+
+#. [objective]: condition=lose
+#: ./scenarios/1_Ambush.cfg:95 ./scenarios/2_Too_Late.cfg:113
+msgid "Death of Vaniyera"
+msgstr "Vaniyera の死"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/1_Ambush.cfg:106
+msgid "Fools! Out of my way!"
+msgstr "馬鹿者め！そこをどくのだ!"
+
+#. [message]: id=Sovjurn
+#: ./scenarios/1_Ambush.cfg:110
+msgid "Never! You Sidhe will pay for your theft of our ancient lands!"
+msgstr "誰がどくものか！お前たち Sidhe は、我らが古来の土地を奪わんとしたことで代償を支払うことになる!"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/1_Ambush.cfg:114
+msgid ""
+"Imbeciles! Perhaps I can skirt around these men and not waste time engaging "
+"them in combat..."
+msgstr "愚かな！　まあおそらく、この男達を避けて、戦闘に時間をかけずに済ませられるだろう..."
+
+#. [message]: id=Sovjurn
+#: ./scenarios/1_Ambush.cfg:118
+msgid "To battle!"
+msgstr "さあ戦闘だ！"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/1_Ambush.cfg:122
+msgid ""
+"Sigh... Well, menn, you've all fought the marauders before. Keep to the "
+"forests, stick together, and we should be able to fight out way through."
+msgstr "あぁ...兵士たちよ, 略奪者どもと戦った経験があるだろう。森の中に留まって離れずにいれば、戦い抜くことができるはずだ。"
+
+#. [message]: id=Braman
+#: ./scenarios/1_Ambush.cfg:126
+msgid ""
+"This will be an excellent opportunity to blood our raindancers, Vaniyera. "
+"Their command of the lightning will be invaluable against the armor of the "
+"marauder warriors."
+msgstr ""
+"これは、私らの raindancer 達が初めて実地経験を得る絶好の機会ですよ、 Vaniyera 。 lightning "
+"コマンドは略奪兵士たちの鎧に非常に効果的です。"
+
+#. [message]: id=Sovjurn
+#: ./scenarios/1_Ambush.cfg:138
+msgid "Aaargh! You Sidhe think that... ugh."
+msgstr "おいおい！ Sidhe さん達はそう考えるのか...うー。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/1_Ambush.cfg:149
+msgid "It is done. On through the forests to Faolan."
+msgstr "終わった。 Faolan へと向かう森で。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/1_Ambush.cfg:170
+msgid ""
+"That's enough, these men will wait, we have other concerns. On through the "
+"forests to Faolan"
+msgstr "それで十分だ、この男達はここで待機するだろう。それより私たちは、 Faolan までの森に懸念を持っているのだ。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/1_Ambush.cfg:187 ./scenarios/2_Too_Late.cfg:252
+msgid ""
+"Damn! The Lavinians have surely outnumbered and defeated Faolan already. I "
+"have failed."
+msgstr "なんてことだ！ Lavinian の数は確かに圧倒的で、既に Faolan の敗北は決した。私は失敗したのだ。"
+
+#. [scenario]: id=2_Too_Late
+#: ./scenarios/2_Too_Late.cfg:5
+msgid "Too Late"
+msgstr "時、すでに遅し"
+
+#. [part]
+#: ./scenarios/2_Too_Late.cfg:62
+msgid ""
+"After dispersing the marauders, we continued on to our lands, hoping we had "
+"not lost too much time. As we approached the nearest outpost, a place that I"
+" had made my home in this new land, we were greeted only by the stench of "
+"smoke and blood."
+msgstr ""
+"私達は略奪者たちを蹴散らした後、自分たちの土地へと進み続け、あまり時間を無駄にしていないことを期待しました。最も近い前哨基地に到着すると、私が新しい地に自分の家を作ったこの土地で私達を迎え入れたのは、煙と血の悪臭だけだったのです。"
+
+#. [objective]: condition=win
+#: ./scenarios/2_Too_Late.cfg:109 ./scenarios/3_Just_in_Time.cfg:252
+msgid "Defeat the Lavinian Centurion"
+msgstr "Lavinian Centurion を倒す"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:123
+msgid ""
+"My outpost... destroyed! I fear that the Lavinians have already reached "
+"Faolan's fortress... I hope he can withstand them."
+msgstr ""
+"前哨基地が...破壊された！ Labinian が既に Faolan の要塞まで達している恐れがある... 師が持ちこたえていることを願う。"
+
+#. [message]: id=Braman
+#: ./scenarios/2_Too_Late.cfg:127
+msgid "Faolan will not be beaten easily, lord."
+msgstr "Faolan が安々と負かされることはないでしょう,閣下。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:131
+msgid ""
+"He has never backed down against any odds. Still, this will be his greatest "
+"challenge, and I would be at his side for it."
+msgstr "彼は、勝算の有無に関わらず、決して引き下がることはしない。それでも、彼の最大の挑戦であるし、私は彼の味方でいたいと思うのだ。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:135
+msgid "Who goes there, friend or foe?"
+msgstr "そこを行くのは誰だ、味方か？敵か？"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:139
+msgid "Foe!"
+msgstr "敵さ!"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:143
+msgid "Ah, a challenge!"
+msgstr "ああ、 挑戦か!"
+
+#. [message]: id=Marcellus
+#: ./scenarios/2_Too_Late.cfg:147
+msgid "Venius - let me take him. I can defeat him alone."
+msgstr "Venius 様 ー あいつは私にまかせてください。私一人で倒せます。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:151
+msgid ""
+"Oh, really? Very well, let it be so. Show us all what your people are "
+"capable of! (Perhaps I can finally be rid of you.)"
+msgstr "ほう、本当か？ 結構な話だ、そうしよう。お前たちのできることすべてを見せて貰おうか！（おそらく最後には、お前たちも追い出すだろうがな。）"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:155
+msgid ""
+"You insult me, sending such a weakling as this. No matter, he will perish "
+"with you."
+msgstr "なんという侮辱、このようなひ弱な者を送るなんて。まあどうせ、そいつはお前と一緒に死ぬことになる。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:159
+msgid ""
+"Feisty, are we? You elves cannot stand against the might of Lavinia. You "
+"will die like the rest."
+msgstr "生意気な。我らが死ぬ？お前達エルフは Lavinian の勢力に抗うことはできない。眠るように死ぬことになる。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:163
+msgid "We shall see."
+msgstr "いずれ分かるだろうさ。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:167
+msgid ""
+"We cannot match the Lavinians when they are full of courage in the full "
+"light of day. We should keep to the forests and wait until the night to "
+"strike with our full force. Still, do not hesitate for too long, we must "
+"move quickly to reach Faolan before the Lavinians."
+msgstr ""
+"日差しの強い日中には Lavinian "
+"は勇気満々で、私達は彼らに対抗できない。先ずは森で息を殺し、夜を待って全力で攻撃を仕掛けねばならない。それでも、ためらっている暇はないぞ。 "
+"Labinian より先に Faolan の所へ行くには、すばやく移動する必要がある。"
+
+#. [message]: id=Braman
+#: ./scenarios/2_Too_Late.cfg:171
+msgid ""
+"If we can remove these support troops quickly we should be able to take the "
+"fight to the Lavinians. Speed will be the key here."
+msgstr "この支援部隊を迅速に排除できれば、 Lavinian との戦いに間に合うでしょう。ここではスピードが鍵になります。"
+
+#. [message]: id=Marcellus
+#: ./scenarios/2_Too_Late.cfg:182
+msgid "No... Avenge me!... urgh."
+msgstr "何てこと...私の仇を討ってください！...あぁ...。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:186
+msgid ""
+"Avenge you? Ha! You are not even a Lavinian. Why would I care for the likes "
+"of you?"
+msgstr "お前の仇を討てと？ はっ！ お前は Lavinian ではない。なぜお前のような者を気遣わなければならぬのだ？"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:197
+msgid "Now that the weakling is gone the true battle can begin."
+msgstr "ひ弱な者が去った今、真の戦いが始まるぞ。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:201
+msgid "Indeed."
+msgstr "その通りだ。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:212
+msgid "What? How could an elf like you... I am a Lavinian!"
+msgstr "何？ どうすればお前のようなエルフが... 私は Lavinian だ!"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:216
+msgid ""
+"You were unwise to challenge the Sidhe, and have payed the price. As will "
+"your emperor."
+msgstr "あなたは Sidhe に挑むという愚かさ故に、代償を払ったのだ。いずれ、皇帝もそうなる。"
+
+#. [message]: id=Venius R
+#: ./scenarios/2_Too_Late.cfg:220
+msgid "Urgh..."
+msgstr "あぁ..."
+
+#. [message]: id=Marcellus
+#: ./scenarios/2_Too_Late.cfg:231
+msgid "This is turning sour. Let us pull back..."
+msgstr "思うように行きません。撤退しましょう..."
+
+#. [message]: id=Vaniyera
+#: ./scenarios/2_Too_Late.cfg:235
+msgid ""
+"I hope that Faolan is still alive. I can see the borders of his fortress in "
+"the forests ahead."
+msgstr "Faolan がまだ生きていることを願っている。前方の森の中に Faolan の要塞の防壁が見えるぞ。"
+
+#. [scenario]: id=3_Just_in_Time
+#: ./scenarios/3_Just_in_Time.cfg:5
+msgid "Just in Time"
+msgstr "今まさにこの時"
+
+#. [part]
+#: ./scenarios/3_Just_in_Time.cfg:115
+msgid ""
+"There was no time to waste. That the outpost had been destroyed was proof - "
+"if proof was needed - that the danger was real, and that the Lavinians were "
+"advancing."
+msgstr ""
+"無駄にする時間はありませんでした。前哨基地が破壊されたことがその証しでした -- 証拠が必要であれば -- まさに危機が現実であることと、 "
+"Lavinian に先を越されたことの。"
+
+#. [part]
+#: ./scenarios/3_Just_in_Time.cfg:118
+msgid ""
+"As we approached Faolan's stronghold, we saw smoke once again rising from "
+"the forest. We feared that we would find this fortress destroyed, as the "
+"outpost had been, but the battle had barely begun."
+msgstr ""
+"Faolan "
+"の要塞に近づくと、森から煙が再び立ち上るのが見えました。前哨基地と同様、この要塞が破壊されるのを恐れましたが、戦いは辛うじて始まっていませんでした。"
+
+#. [objective]: condition=lose
+#: ./scenarios/3_Just_in_Time.cfg:256
+#: ./scenarios/4_Remnants_of_the_Past.cfg:89 ./scenarios/5_Retribution.cfg:115
+msgid "Death of Vaniyera or Faolan"
+msgstr "Vaniyera または Faolan の死"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/3_Just_in_Time.cfg:266
+msgid "Master Faolan! I have brought help."
+msgstr "師、 Faolan ！援軍を連れてまいりました。"
+
+#. [message]: id=Faolan
+#: ./scenarios/3_Just_in_Time.cfg:270
+msgid ""
+"I knew you would not fail me, Vaniyera. Into the fray, quickly, there is no "
+"time to lose!"
+msgstr "あなたは私を見捨てないとわかっていました、 Vaniyera 。激戦ですよ、急いで、グズグズしていられません！"
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:274
+msgid ""
+"The elves have received reinforcements. We'll need to defend our backs, men."
+" Quantis, give us some cavalry support. Athus, hold the forests."
+msgstr "エルフどもに援軍が来た。背後を守らねば。 Quantis 、騎兵隊での支援を頼む。 Athus 、森を堅持してくれ。"
+
+#. [message]: id=Quantis
+#: ./scenarios/3_Just_in_Time.cfg:278
+msgid "Yes, sir!"
+msgstr "承知しました!"
+
+#. [message]: id=Athus
+#: ./scenarios/3_Just_in_Time.cfg:282
+msgid "If you insist."
+msgstr "そうおっしゃるならば。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:286
+msgid "What was that, Athus?"
+msgstr "Athus 、何と言った？"
+
+#. [message]: id=Athus
+#: ./scenarios/3_Just_in_Time.cfg:290
+msgid "I mean...Yes, sir!"
+msgstr "つまりその... 承知しました、イエッサー!"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/3_Just_in_Time.cfg:294
+msgid ""
+"Remember the outposts! If they could, they would turn the entire forest to "
+"ash. They have no pity for us, have none for them."
+msgstr "前哨基地のことを思い出せ！彼らにすれば、森全体を灰に変えることすら可能なのだ。彼らは我々に哀れみを抱くことはしない、我々も容赦するな。"
+
+#. [message]: id=Athus
+#: ./scenarios/3_Just_in_Time.cfg:306
+msgid "Mercy!"
+msgstr "どうか、お慈悲を！"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/3_Just_in_Time.cfg:310
+msgid "Remember those to whom you gave no mercy, Lavinian dog!"
+msgstr "お前が慈悲を与えなかった人々を思い出せ、 Lavinian の飼い犬め！"
+
+#. [message]: id=Athus
+#: ./scenarios/3_Just_in_Time.cfg:314
+msgid "Aaagh!..."
+msgstr "あぁぁぁ！..."
+
+#. [message]: id=Vaniyera
+#: ./scenarios/3_Just_in_Time.cfg:326
+msgid "There, the chieftain is slain. But... why do they not retreat?"
+msgstr "そこで指揮官は殺されました。しかし...なぜ彼らは撤退しないのでしょうか？"
+
+#. [message]: id=Faolan
+#: ./scenarios/3_Just_in_Time.cfg:330
+msgid ""
+"That man was merely an underling of their leader, not even a Lavinian. The "
+"real enemy still stands."
+msgstr "その男は単に指導者の部下であり、 Lavinian でさえありませんでした。本当の敵はまだ立ちはだかっているのです。"
+
+#. [message]: id=Quantis
+#: ./scenarios/3_Just_in_Time.cfg:341
+msgid "Aaiyy..."
+msgstr "あぁいぃ..."
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:352
+msgid ""
+"It is a shame Quantis is dead. Avenge him, men, and we shall mourn him when "
+"this day is done!"
+msgstr "Quantis が死んだことは残念だ。彼の仇をとるのだ、そしてこの戦いを終えた時、弔ってやるぞ！"
+
+#. [message]: id=Athus
+#: ./scenarios/3_Just_in_Time.cfg:356
+msgid ""
+"You wouldn't be found mourning me, Marsis. You Lavinians are all the same, "
+"you care only for your own kind."
+msgstr ""
+"あなたが私を悼む姿は見られないでしょうね、 Marsis 。あなた方 Lavinian は皆同じです、あなたは同族の Lavinian "
+"しか気に掛けていない。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:366
+msgid "Be silent and do your job, Athus."
+msgstr "黙って仕事をしろ、 Altus 。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:385
+msgid "You traitor, Athus. You and your people will pay for this."
+msgstr "この裏切り者め、 Athus . お前と一族は高いつけを払うことになるぞ。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:397
+msgid "I am... Aaargh!..."
+msgstr "私は... あぁぁぁ！..."
+
+#. [message]: id=Quantis
+#: ./scenarios/3_Just_in_Time.cfg:408
+msgid "Pull back, men! I shan't die here."
+msgstr "引き返すぞ、男ども！決してここでは死なぬ。"
+
+#. [message]: id=Faolan
+#: ./scenarios/3_Just_in_Time.cfg:419
+msgid ""
+"The stronghold is safe for a while. Hold it until I return - I head for "
+"Mount Stormkeep."
+msgstr "要塞はしばらくの間は安全です。私が戻るまで頑張ってください ー 私は Mount Stormkeep へ向かいます。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/3_Just_in_Time.cfg:423
+msgid ""
+"Wait! I do not think that is good strategy. We will lose too much time. We "
+"must take this fight back to their camp before it is too late and they are "
+"reinforced."
+msgstr ""
+"お待ち下さい！それが良い戦略とは思えません。あまりにも時間が掛かります。敵が戦力を増強して手遅れとなる前に、私達は陣営へ戦力を戻すべきです。"
+
+#. [message]: id=Faolan
+#: ./scenarios/3_Just_in_Time.cfg:427
+msgid ""
+"There is some wisdom in what you say, Mt. Stormkeep is too far... I fear the"
+" consequences, but we shall strike back at these Lavinians and bring our "
+"case before with the council later. Come, follow me - if we are to do this, "
+"a small detour is required."
+msgstr ""
+"あなたの言うことにも賢明なものがあります、 Mt.Stormkeep はあまりに遠い...\n"
+"影響が心配です。しかし、 Lavinian に反撃し、この事例を後ほど評議会へ持ち込みましょう。付いてきなさい。実行するにはちょっとした廻り道が必要です。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/3_Just_in_Time.cfg:447
+msgid "I hear the drums of Lavinia from afar."
+msgstr "遠くから Lavinia の太鼓の音が聞こえてきます。"
+
+#. [message]: id=Marsis V
+#: ./scenarios/3_Just_in_Time.cfg:451
+msgid "Reinforcements! At last."
+msgstr "援軍だ！ついに来たぞ。"
+
+#. [scenario]: id=4_Remnants_of_the_Past
+#: ./scenarios/4_Remnants_of_the_Past.cfg:5
+msgid "Remnants of the Past"
+msgstr "過去に残されし者"
+
+#. [part]
+#: ./scenarios/4_Remnants_of_the_Past.cfg:51
+msgid ""
+"Faolan led us into a marshy wood to the west. He refused to tell me why. He "
+"pressed onward, ever faster, saying we had to reach a certain place before "
+"the night began."
+msgstr ""
+"Faolan "
+"は西の湿地の森へと私達を導きました。その理由は教えてくれませんでした。彼はさらに歩を速めました。ある場所に、夜になる前に到着しなければならないと。"
+
+#. [part]
+#: ./scenarios/4_Remnants_of_the_Past.cfg:54
+msgid ""
+"When we reached our destination, Faolan pulled me aside. 'This,' he said, "
+"'is the field upon which one of the greatest battles against the Marauders "
+"was fought.'"
+msgstr ""
+"目的地に着くと、 Faolan "
+"は私を脇に引き寄せて、「ここは、」と話し始めました。「ここは、この地は、略奪者達との最大の戦いの一つが行われた場所なのです。」"
+
+#. [part]
+#: ./scenarios/4_Remnants_of_the_Past.cfg:57
+msgid ""
+"'At night, it is said that the spirits of the fallen men return to this "
+"place and do battle once again with the shades of elven warriors.'"
+msgstr "「夜になると、討ち死にした者たちの魂がこの地へ戻り、再びエルフの亡霊たちと戦うと、そう言われています。」"
+
+#. [part]
+#: ./scenarios/4_Remnants_of_the_Past.cfg:60
+msgid ""
+"'It is also the burial-place of one of Vanimaro's greatest disciples. If "
+"this hero of old will fight at our side against the Lavinians, we may stand "
+"a chance of defeating them.'"
+msgstr ""
+"「また、 Vanimaro の偉大な弟子の1人の埋葬地でもあります。もしもこの古き英雄が私達と共に Lavinian "
+"と戦ってくれるなら、彼らを倒すチャンスとなるでしょう。」"
+
+#. [objective]: condition=win
+#: ./scenarios/4_Remnants_of_the_Past.cfg:85
+msgid "Move Faolan to the Tomb"
+msgstr "Faolan を墓所まで移動させる"
+
+#. [message]: id=Faolan
+#: ./scenarios/4_Remnants_of_the_Past.cfg:103
+msgid ""
+"Now, the body of the great hero who fell in battle here lies nearby, and we "
+"must seek his aid. I do not know exactly where his tomb is, for it is "
+"unmarked and unhonored, but I believe it to be somewhere south of here."
+msgstr ""
+"さあ、討ち死にしたその偉大な英雄の遺体が近くに眠っていて、彼の助けを得るためにその墓所を探さねばなりませんが、その詳細な場所が分からないのです。墓碑銘もなく、敬意さえ払われていないからです。しかし、この南側のどこかにあると、私はそう信じています。"
+
+#. [message]: id=Faolan
+#: ./scenarios/4_Remnants_of_the_Past.cfg:107
+msgid ""
+"Hold off any hostile spirits until I discover the tomb. Then I must approach"
+" it alone and converse with him."
+msgstr "私がその墓所を見つけるまでは、敵対する霊を近づけないように。私一人でそこに進み出て、その英雄と話を交わさねばなりません。"
+
+#. [unit]: type=IE_Tortured_Soul
+#: ./scenarios/4_Remnants_of_the_Past.cfg:128
+#: ./scenarios/4_Remnants_of_the_Past.cfg:134
+#: ./scenarios/4_Remnants_of_the_Past.cfg:140
+#: ./scenarios/4_Remnants_of_the_Past.cfg:147
+#: ./scenarios/4_Remnants_of_the_Past.cfg:176
+#: ./scenarios/4_Remnants_of_the_Past.cfg:190
+#: ./scenarios/4_Remnants_of_the_Past.cfg:204
+msgid "Fallen Shade"
+msgstr "Fallen Shade"
+
+#. [message]: id=Faolan
+#: ./scenarios/4_Remnants_of_the_Past.cfg:220
+msgid "This is where the old hero perished... he awakens."
+msgstr "ここが、古き英雄が亡くなった場所です... 彼が目覚めます。"
+
+#. [unit]: id=Hero_of_Old, type=IE_Sidhe_Ancient
+#: ./scenarios/4_Remnants_of_the_Past.cfg:225
+msgid "Hero of Old"
+msgstr "Hero of Old"
+
+#. [message]: id=Hero_of_Old
+#: ./scenarios/4_Remnants_of_the_Past.cfg:236
+msgid "Faolan. Why do you call me from my sleep?"
+msgstr "Faolan よ。なぜ私を眠りから呼び覚ますのだ？"
+
+#. [message]: id=Faolan
+#: ./scenarios/4_Remnants_of_the_Past.cfg:240
+msgid ""
+"To ask for your aid and wisdom. Men from the south pour into our forests, "
+"torching them and destroying our people."
+msgstr "あなたの助けと知恵を戴きたいのです。 南部から来た男達が私達の森に押し寄せ、火を放ち、民衆を滅亡させようとしています。"
+
+#. [message]: id=Hero_of_Old
+#: ./scenarios/4_Remnants_of_the_Past.cfg:244
+msgid ""
+"This is beyond words. If the land our father Vanimaro found for us is in "
+"peril, then I must arise and fight to defend it. So say all us warriors who "
+"have perished in ages past."
+msgstr ""
+"なんとも、言葉にできない。もしも、我らが父 Vanimaro "
+"の築いた大地が困難の時を迎えているならば、私は立ち上がり、戦い、守らねばならぬ。これまでに命を落としてきた同胞戦士すべてに言えることだ。"
+
+#. [message]: id=Faolan
+#: ./scenarios/4_Remnants_of_the_Past.cfg:248
+msgid ""
+"I know that you will serve the people of Vanimaro faithfully in death as you"
+" did in life, old friend."
+msgstr "あなたが生前もそうであったように、死してなお Vanimaro の民に忠実に仕えることでしょう、古き友よ。"
+
+#. [message]: id=Faolan
+#: ./scenarios/4_Remnants_of_the_Past.cfg:277
+msgid ""
+"The sun rises already... alas, the dead will not linger under its light, and"
+" we do not have another day to spend here. We must return to the battle, and"
+" do without the aid of the spirits."
+msgstr ""
+"既に日は昇っています... 悲しいかな、死者は日差しの下には留まれず、私達がここで共に過ごす日はもう来ないでしょう。 "
+"戦いに戻らなければなりません、そう、死者の霊の助けはもう無いのです。"
+
+#. [scenario]: id=5_Retribution
+#: ./scenarios/5_Retribution.cfg:5
+msgid "Retribution"
+msgstr "かたき討ち"
+
+#. [part]
+#: ./scenarios/5_Retribution.cfg:92
+msgid ""
+"We soon left the woods of the dead, and sped south to the Lavinian camp to "
+"strike a blow against the heart of the Lavinian forces. Faolan urged us to "
+"send messengers to Mount Stormkeep, but he would not leave us himself, and "
+"no others were willing to leave the rest of us behind and flee from the "
+"coming battle to seek aid that would come too late."
+msgstr ""
+"私達はすぐに死者の森を去り、 Lavinian 軍の心臓部に一撃を加えるため Lavinian 陣営へ向けて南へと急ぎました。 Faolan は "
+"Mount Stormkeep "
+"に伝令を送るように私達に促しましたが、彼自身が私達を見捨てることはありませんでした。また、残った兵を置き去りにしたり、来たるべき戦いから逃げ出して遅すぎる援軍を求めるような者など、一人としていませんでした。"
+
+#. [part]
+#: ./scenarios/5_Retribution.cfg:95
+msgid ""
+"The Lavinian Legion may be lauded as the greatest fighting force in the "
+"world, but it proved to be a giant with feet of clay. As we approached, we "
+"saw their camp was nearly empty, and open to attack. The battle had taken "
+"its toll on the Lavinians."
+msgstr ""
+"Lavinian 軍は世界で最大の戦闘力と賞賛されているようですが、弱点を持った巨人であることが、はっきりと分かりました。 "
+"私達が近づくと彼らの陣営はほとんどが空で、攻撃するには打って付けでした。この戦いで Lavinian に打撃を与えたのでした。"
+
+#. [objective]: condition=win
+#: ./scenarios/5_Retribution.cfg:111
+msgid "Defeat Primus Maximus"
+msgstr "Primus Maximus を倒す"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/5_Retribution.cfg:128
+msgid ""
+"Lavinian scum! You will pay for your defiling of our home and your arrogance"
+" in challenging the Sidhe! Surrender or perish!"
+msgstr ""
+"Lavinian のクズども！お前たちは、我らの家々を穢したことや、我々 Sidhe に挑んだ傲慢さに対し代償を払うことになるだろう。\n"
+"降伏せよ！さもなくば滅びよ！"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:132
+msgid ""
+"You have insulted us for the last time. You elves may have defeated some of "
+"my lesser soldiers, but I am the Imperator. These are my personal legions, "
+"the elite of the elite, warriors among warriors. We shall never surrender to"
+" one such as you."
+msgstr ""
+"最後の最後にお前は我らを侮辱した。 お前達エルフは我が兵士を少々は倒したかもしれぬ。が、私は大皇帝だ。 "
+"ここにいるのは私の私的な軍隊、精鋭中の精鋭、戦士の中の戦士だ。我々は決してお前達のような者に屈することはないのだ。"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:136
+msgid ""
+"Our forces have been spread thin, this I know, but Claudius, Silvius, we "
+"will destroy these troublesome elves and then continue our assault on their "
+"capital when the fourth legion arrives."
+msgstr ""
+"我が軍勢は四方に広がり過ぎて手薄の状態だ、分かってはいるが、 Claudius と Silvius "
+"よ、この厄介なエルフを撃破したら、第４の軍隊の到着を待って、彼らの都市を連続攻撃するのだ。"
+
+#. [message]: id=Claudius S
+#: ./scenarios/5_Retribution.cfg:140
+msgid "Yes Lord!"
+msgstr "承知しました、閣下！"
+
+#. [message]: id=Silvius L
+#: ./scenarios/5_Retribution.cfg:144
+msgid "It shall be done! But our forces will not hold for long."
+msgstr "仰せの通りとなるでしょう！ しかし、我が軍もそう長くは持ちません。"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:148
+msgid ""
+"Worry not, our reinforcements will soon arrive. Hold out until then, once "
+"they arrive we will surely crush this ragged band of elves and misfits by "
+"sheer weight of numbers."
+msgstr ""
+"心配無用だ、援軍がすぐに到着する。 それまで持ちこたえよ。彼らが到着すれば明らかに数量で圧倒できる。エルフと "
+"はみ出し者の見すぼらしい一味など確実に握り潰せるだろう。"
+
+#. [message]: id=Faolan
+#: ./scenarios/5_Retribution.cfg:152
+msgid ""
+"Vaniyera, take care! These reinforcements could arrive at any moment. We "
+"ought to refrain from battle until we know the extent of the enemy's army."
+msgstr ""
+"Vaniyera よ、気をつけなさい！ 彼らの援軍はすぐにも到着するかも知れません。 敵軍隊の規模がわかるまで、戦闘は控えた方が良いでしょう。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/5_Retribution.cfg:156
+msgid ""
+"We could wait, yes - or we could defeat these men quickly so that the "
+"reinforcements have nothing to reinforce. I choose the latter."
+msgstr "ええ、待つこともできるでしょうし ー 或いは、目の前の部隊をさっさと倒せば、もはや援軍とは言えないでしょう。私は後者を選びます。"
+
+#. [message]: id=Hero_of_Old
+#: ./scenarios/5_Retribution.cfg:160
+msgid ""
+"In ages long past I believed that watching and waiting and talking were the "
+"way to better our people, but in death the simplest path seems best. Let us "
+"teach them the fear of the children of Vanimaro."
+msgstr ""
+"遥か昔に私は、見たり待ったり話したりすることが、人々をより良くする方法であると信じていたのだが、いざ死んでみると、最も単純な方法が最善のようだ。 "
+"Vanimaro の子孫たちの怖さを奴らに教えてやろうではないか。"
+
+#. [message]: id=Faolan
+#: ./scenarios/5_Retribution.cfg:164
+msgid ""
+"Very well, my friend. Though I doubt the wisdom, I shall follow this path to"
+" its end. This is the duty of a Thunderblade."
+msgstr ""
+"ええそうしましょう、我が友よ。その聡明さに疑問は残りますが、最後までその方針で行きましょう。これは Thunderblade としての責務です。"
+
+#. [message]: id=Faolan
+#: ./scenarios/5_Retribution.cfg:168
+msgid ""
+"Heed my words, Lavinian! It grieves me, but my apprentice and I shall bring "
+"this folly to an end here and now. Your people will know the grief of losing"
+" their beloved Imperator. Then perhaps Lavinia will understand the Sidhe a "
+"little better."
+msgstr ""
+"私の言葉をよく聴きなさい、 Lavinian よ！ 悲しいけれど、私は弟子たちと共にその愚行を今ここで終わらせます。 "
+"あなた方の人民は最愛の皇帝を失う悲しみを知るでしょう。 そしておそらく Lavinian は Sidhe をもう少しよく理解することでしょう。"
+
+#. [message]: id=Claudius S
+#. [message]: id=Silvius L
+#: ./scenarios/5_Retribution.cfg:179 ./scenarios/5_Retribution.cfg:219
+msgid "Aargh!"
+msgstr "あぁぁぁ！"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:183
+msgid "Silvius has fallen! Who will hold the line now?"
+msgstr "Silvius が倒された！誰が彼の隊列を指揮するのだ？"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:196
+msgid "This is looking dire. Hold fast, legionnaires."
+msgstr "悲惨な状況のようだ。耐え抜くのだ、 兵士たちよ。"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:202 ./scenarios/5_Retribution.cfg:242
+msgid "The defenses are breached. Reserves, forward!"
+msgstr "守りが突破される。充当兵士よ、前へ！"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/5_Retribution.cfg:206 ./scenarios/5_Retribution.cfg:246
+msgid "There cannot be many of them left. Kill them!"
+msgstr "彼らはほぼ壊滅状態だ。 皆殺しにするぞ！"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:223
+msgid "Claudius, you fought well and bravely. Farewell!"
+msgstr "Claudius よ、お前はよく戦ってくれた、そして勇敢だった。 さらばだ！"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:236
+msgid "This is looking dire. Hold the line, legionnaires."
+msgstr "悲惨な状況のようだ。隊列を保つのだ、 兵士たちよ 。"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:261
+msgid "These elves have almost reached me? Guard! Help!"
+msgstr "こいつらエルフ共が私のすぐ目の前まで迫っていると？ 警護せよ！誰か！"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/5_Retribution.cfg:290
+msgid "Now you die, Lavinian!"
+msgstr "今、お前は死ぬのだ、 Lavinian ！"
+
+#. [message]: id=Ayarus I
+#: ./scenarios/5_Retribution.cfg:363
+msgid "Lord Imperator, we have arrived!"
+msgstr "大皇帝陛下、到着いたしました！"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:367
+msgid "Excellent timing! Hold the river!"
+msgstr "なんと素晴らしいタイミングだ！川を守れ！"
+
+#. [message]: id=Primus M
+#: ./scenarios/5_Retribution.cfg:378
+msgid "I cannot die...I must..."
+msgstr "死ぬわけにはいかぬ... まだなすべきことが..."
+
+#. [message]: id=Vaniyera
+#: ./scenarios/5_Retribution.cfg:382
+msgid "Finally, we have slain this cursed man!"
+msgstr "遂に、我々はこの忌々しい男を討ち取ったのだ！"
+
+#. [message]: id=Faolan
+#: ./scenarios/5_Retribution.cfg:386
+msgid ""
+"That man was the Imperator of the Lavinian Empire. Do not rejoice overmuch "
+"for what we have done this day."
+msgstr "その者は Lavinian 帝国の皇帝だったのです。 私達が今日したことを、あまり喜ぶべきではありません。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/5_Retribution.cfg:401
+msgid "I hear battle drums from afar."
+msgstr "遠くから戦闘の太鼓の音が聞こえます。"
+
+#. [message]: id=Faolan
+#: ./scenarios/5_Retribution.cfg:405
+msgid "Their reinforcements have arrived. Sound the retreat."
+msgstr "彼らの援軍が到着しました。 撤退の合図を出してください。"
+
+#. [scenario]: id=Epilogue
+#: ./scenarios/Epilogue.cfg:21
+msgid "Epilogue"
+msgstr "エピローグ"
+
+#. [part]
+#: ./scenarios/Epilogue.cfg:183
+msgid ""
+"We returned victorious to the forests of the Western March, and from there "
+"travelled to Mount Stormkeep. A session of the Council had been summoned, "
+"belatedly, given our recent exploits, to respond to the Lavinian threat."
+msgstr ""
+"私達は勝利して Western March の森へ戻り、そこから Mount Stormkeep へと旅立ちました。 "
+"評議会の会合が、今更ながら召集されていました。私達の最近の功績や、 Lavinian の脅威への対応を議題として。"
+
+#. [message]: id=Saoir
+#: ./scenarios/Epilogue.cfg:222
+msgid "Welcome, Faolan. Let the council of war commence."
+msgstr "ようこそ、 Faolan 。戦争評議会を開始いたします。"
+
+#. [message]: id=Faolan
+#: ./scenarios/Epilogue.cfg:226
+msgid "Council of war, my lord?"
+msgstr "閣下、戦争評議会...ですか？"
+
+#. [message]: id=Samhna
+#: ./scenarios/Epilogue.cfg:230
+msgid "We have heard that the Lavinians have invaded the Western  March."
+msgstr "Lavinian が Western March に侵攻したそうですね。"
+
+#. [message]: id=Onnachadh
+#: ./scenarios/Epilogue.cfg:234
+msgid ""
+"Indeed, for that reason we have summoned the Thunderblades to this meeting. "
+"Did the messenger we sent not reach you? Yet you came none the less - "
+"perhaps to bring us news yourself of the invasion."
+msgstr ""
+"まさに、それこそが、私たちがこの会議に Thunderblade を召喚した理由です。 私たちが送った伝令から聞いていないのですね？\n"
+"なのに、あなたは来た  ー  おそらくあなた自身が侵攻の知らせを伝えるために。"
+
+#. [message]: id=Faolan
+#: ./scenarios/Epilogue.cfg:238
+msgid ""
+"Yes, lords, I come with news from the battlefield. This council is called "
+"too late; the Lavinians have already fled."
+msgstr ""
+"ええ、閣下、私は戦場からの知らせを持参しています。 この評議会は、あまりに遅すぎると言えるでしょう。 Lavinian はすでに退却しました。"
+
+#. [message]: id=Suileabin
+#: ./scenarios/Epilogue.cfg:242
+msgid "Impossible!"
+msgstr "あり得ない！"
+
+#. [message]: id=Dayire
+#: ./scenarios/Epilogue.cfg:246
+msgid ""
+"Hold your peace, Thunderblade! Faolan, you say the Lavinians have fled - how"
+" do you know they will not return?"
+msgstr ""
+"静粛に、 Thunderblade ！ Faolan、あなたは Lavinian が退却したと言いましたが、彼らが戻ってこないとどうして分かるのです？"
+
+#. [message]: id=Faolan
+#: ./scenarios/Epilogue.cfg:250
+msgid ""
+"They are in disarray and shall be for some time. The Imperator has fallen, "
+"Lord Dayire."
+msgstr "彼らは混乱しており、しばらくの間はその状態が続くでしょう。皇帝を倒しました、 Dayire 卿。"
+
+#. [message]: id=Longsygh
+#: ./scenarios/Epilogue.cfg:254
+msgid "What? You slew the Imperator? That seems... unwise."
+msgstr "なんと言いました？ 皇帝を殺したのですか？ それは...賢明とは思えません。"
+
+#. [message]: id=Faolan
+#: ./scenarios/Epilogue.cfg:258
+msgid "Perhaps it was. Nevertheless, it is done, and the war is over."
+msgstr "ええ、おそらく。 ともかく、皇帝は死に、そして戦争は終わったのです。"
+
+#. [message]: id=Onnachadh
+#: ./scenarios/Epilogue.cfg:262
+msgid ""
+"Well. It seems the forests are threatened no longer. Council, you are "
+"dismissed, return to your marches and your duties as protectors of the "
+"Sidhe."
+msgstr ""
+"さて、もはやこの森から、脅威は去ったようです。評議会は解散いたします。自分の領土へ帰り、 Sidhe の守護者としての職務に戻ってください。"
+
+#. [message]: id=Onnachadh
+#: ./scenarios/Epilogue.cfg:274
+msgid ""
+"But, Faolan... you still must answer for your deeds. It was reckless to "
+"assault the might of the Lavinians with only one twelfth of the power of the"
+" Sidhe, and even more reckless to slay their lord, inviting retaliation. Why"
+" did you do it?"
+msgstr ""
+"しかし、 Faolan ...あなたはまだ自分の行動について答えなければなりません。 Sidhe の、たった12分の1の力で Lavinian "
+"勢力を攻撃することは無謀であり、また、報復の恐れがあるにも関わらず皇帝を殺害するなど、さらに無謀です。 なぜそうした行動をとったのですか？"
+
+#. [message]: id=Faolan
+#: ./scenarios/Epilogue.cfg:278
+msgid ""
+"It was not my doing, but that of my disciple Vaniyera. He can speak for his "
+"own reasons."
+msgstr "私ではなく、私の弟子 Vaniyera のとった行動です。 彼自身がその理由を語ってくれます。"
+
+#. [message]: id=Maol
+#: ./scenarios/Epilogue.cfg:282
+msgid "So, Vaniyera, what say you to this charge of recklessness?"
+msgstr "では、 Vaniyera 、あなたのとった無謀な攻撃に対する釈明を求めますが、どうですか？"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/Epilogue.cfg:286
+msgid ""
+"I saw the opportunity and I struck. If I had not decisively defeated the "
+"Lavinians, they may well have returned in even greater number and "
+"slaughtered our people. The only way to truly kill the beast it was cut off "
+"the head."
+msgstr ""
+"私は、その機会に遭遇し、そして攻撃しました。もしも私が Lavinian "
+"を決定的に打ちのめさなかったなら、彼らはさらに大多数で逆襲を仕掛け、民衆は殺戮の目に遭っていたことでしょう。野獣を真に抹殺する唯一の方法とは、その首を切り落とすことです。"
+
+#. [message]: id=Saoir
+#: ./scenarios/Epilogue.cfg:290
+msgid ""
+"But however wounded it might be, the Lavinian beast is not dead. You ought "
+"to have waited for the Council to assemble. We would have shown our might to"
+" those men and made them fear the name of Sidhe. Instead, you have slain "
+"their lord, incurring a blood-vengeance and earning our people a powerful "
+"enemy."
+msgstr ""
+"しかし、どんなに傷ついたとしても、 Lavinian の獣は死んではいません。あなたは評議会の集結を待つべきだったのです。私達は敵軍に対し力を示し、 "
+"Sidhe "
+"の名前を恐れさせはしたでしょう。しかし、それと引き換えにあなたは、かの皇帝を殺害し、血の復讐を遂げることで、私達の民衆に強力な敵をもたらしたのです。"
+
+#. [message]: id=Onnachadh
+#: ./scenarios/Epilogue.cfg:294
+msgid ""
+"We can but hope that they will take this defeat as a warning and not as a "
+"challenge to come at us with still greater strength."
+msgstr ""
+"私たちはそれでも、 Lavinian "
+"がこの敗北を私達からの警告と解釈し、さらに強大な戦力で私たちに攻め込むための挑戦とは解釈しない、と期待することもできます。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/Epilogue.cfg:298
+msgid ""
+"They would have slaughtered our people and burned our forests before this "
+"Council acted!"
+msgstr "Lanvinian は私たち人民を虐殺し、森を焼き尽くしていたことでしょう、この評議会が行動を起こす以前に！"
+
+#. [message]: id=Dayire
+#: ./scenarios/Epilogue.cfg:302
+msgid ""
+"But now it is likely that the Lavinians will retaliate for the death of this"
+" Primus Maximus and return to burn more forest and kill many more of our "
+"people than would have otherwise died. You still have much to learn, young "
+"Vaniyera."
+msgstr ""
+"しかし今、 Lavinian は Primus Maximus "
+"の死に対する報復として、これまで以上に多くの森を焼き、多くの人々を殺害しようとするでしょう。 あなたにはまだ多くの学ぶべきことがあるのです、若き "
+"Vaniyera よ。"
+
+#. [message]: id=Longsygh
+#: ./scenarios/Epilogue.cfg:306
+msgid ""
+"Indeed he does. But I wonder - perhaps Faolan is not the teacher he needs."
+msgstr "ええ確かに。 しかし、一つ思うのですが ー  もしかすると、彼に必要な師は Faolan ではないのでは。"
+
+#. [message]: id=Maol
+#: ./scenarios/Epilogue.cfg:310
+msgid ""
+"And even if he is, ought he to remain where he is? If there are no "
+"consequences for acting reckless, he will not teach himself to act "
+"otherwise."
+msgstr ""
+"また、たとえ Faolan が必要だとしても、彼は師として留まるべきでしょうか？ 無謀な行動に影響がなければ、彼自身が別の手段を学ばないでしょう。"
+
+#. [message]: id=Saoir
+#: ./scenarios/Epilogue.cfg:314
+msgid ""
+"I concur. Well then, Vaniyera - we must pass sentence upon you. You are no "
+"longer the disciple of Faolan. I am sorry."
+msgstr ""
+"同意します。 それでは、 Vaniyera ー 私たち戦争評議会は、あなたに判決を下さなければなりません。あなたはもはや Faolan "
+"の弟子ではありません。残念ですが。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/Epilogue.cfg:318
+msgid "But, Faolan's house is the only home that I have ever known..."
+msgstr "でも私は、 Faolan の家以外に知っているところがありません..."
+
+#. [message]: id=Onnachadh
+#: ./scenarios/Epilogue.cfg:322
+msgid ""
+"Do not think us cruel...I see great things in your future. We will move you "
+"to the household of another Thunderblade. Leithan will teach you restraint, "
+"I hope..."
+msgstr ""
+"薄情だと思わないでほしいのですが...私はあなたの未来が素晴らしいものであると思っています。あなたを別の Thuderblade の家庭に移します。 "
+"Leithan はあなたに謙虚さを教えてくれるでしょう、そう願っています..."
+
+#. [message]: id=Vaniyera
+#: ./scenarios/Epilogue.cfg:326
+msgid "Leithan? That old stick in the mud? This is all Lavinia's fault!"
+msgstr "Leithan ？ 泥の中の、あの古い棒の？ これは全部、 Lavinian が悪いのだ！"
+
+#. [message]: id=Athus
+#. [message]: id=Faolan
+#. [message]: id=Vaniyera
+#: ./scenarios/utils/utils.cfg:105 ./scenarios/utils/utils.cfg:118
+#: ./scenarios/utils/utils.cfg:154
+msgid "Aaagh!"
+msgstr "あぁぁぁ！"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/utils/utils.cfg:122
+msgid "Master! Without your guidance, we shall never win this war..."
+msgstr "師よ！あなたの導きなしでは、私達は決してこの戦いに勝利することはできないでしょう..."
+
+#. [message]: id=Hero_of_Old
+#: ./scenarios/utils/utils.cfg:135
+msgid "The grave, it beckons again..."
+msgstr "墓が、再び手招きしている..."
+
+#. [message]: id=Faolan
+#: ./scenarios/utils/utils.cfg:139
+msgid ""
+"With the old hero back into his slumber, who will call the spirits to fight "
+"for us?"
+msgstr "古き英雄が再び眠りに就いてしまったら、誰が我々のために戦う霊を呼び出すのだ？"
+
+#. [message]: id=Faolan
+#: ./scenarios/utils/utils.cfg:158
+msgid "The tribesmen will not join us without Athus to rally them."
+msgstr "Athus に召集されなければ、この種族の男達は我々に付くことはないでしょう。"
+
+#. [message]: id=Athus
+#: ./scenarios/utils/utils.cfg:171
+msgid ""
+"Mercy! We are mere tribesmen held hostage by the Lavinians and forced to "
+"fight for them. We hold you no grudge!"
+msgstr "お慈悲を！ 私たちは Lavinian に人質にされ、強制的に戦いに駆り出された種族に過ぎません。 あなた方へは、なんの恨みも無いのです！"
+
+#. [message]: id=Cardrew
+#: ./scenarios/utils/utils.cfg:175
+msgid ""
+"Then you have nothing to fear from death! I shall make it quick and "
+"painless."
+msgstr "そうすれば、死を恐れることは何もありません。私はそれを一瞬のうちに痛みもなく起こせるのです。"
+
+#. [message]: id=Faolan
+#: ./scenarios/utils/utils.cfg:179
+msgid "Calm yourself! You, man, what offer you us in exchange for your life?"
+msgstr "落ち着きなさい！あなたはその命と引き換えに何を差し出そうと言うのですか？"
+
+#. [message]: id=Athus
+#: ./scenarios/utils/utils.cfg:183
+msgid "My men and I will fight by your side against the Lavinians."
+msgstr "私と部下たちは、あなたのおそばで Labinian と戦います。"
+
+#. [message]: id=Vaniyera
+#: ./scenarios/utils/utils.cfg:187
+msgid "Can we trust him?"
+msgstr "彼は信用できるでしょうか？"
+
+#. [message]: id=Faolan
+#: ./scenarios/utils/utils.cfg:191
+msgid ""
+"Maybe, maybe not. Let us be careful... Athus, we have one condition - you "
+"will not fight by our side, you will fight for us, not as a commander, as a "
+"common fighter. Do you accept?"
+msgstr ""
+"さあ、どうでしょう。注意しなければ... Athus よ、1つ条件があります... "
+"あなたは私たちのそばで戦うわけではありません。指揮官としてでなく一兵士として戦ってもらいます。どうです、受け入れますか？"
+
+#. [message]: id=Athus
+#: ./scenarios/utils/utils.cfg:195
+msgid "The choice is between this and death! Yes, I accept!"
+msgstr "生き残る道は他にありません！ええ、受け入れます！"
