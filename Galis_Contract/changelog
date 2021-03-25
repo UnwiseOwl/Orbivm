@@ -2,6 +2,7 @@ Gali's Contract - Changelog
 
 Version 0.4.4 (?)
     * Removed link to old dead forums
+	* Updated {IS_HERO} macro
 
 Version 0.4.3 (10 March 2020 - UO)
     * Port to 1.15+
