@@ -14,6 +14,12 @@ version ? (The FUTURE)
     ** S12t, make Alfhelm go to ranhilde instead. Make Harn and troops leave due to crusade v Vaniyera.
     ** S13, just dueling Vaniyera sjould break sword, make this scen more epic.
     ** Gali taking Alfhelm's gold should work on some kind of formula.
+	
+version 0.8 (UO - ?
+	*S1 updates:
+		* Updated {IS_HERO} macros to {TRAIT_LOYAL_HERO}
+		* Fixed a couple of typos
+		* Added missing obectives
     
 version 0.7 (UnwiseOwl - April 1st 2020)
     * Ported to 1.14/1.15 (so...many...deprecations)
