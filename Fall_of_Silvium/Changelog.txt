@@ -19,6 +19,10 @@ version 0.7.2 (UO - Future)
 		* Increased marauder aggression (they kept running away!)
 		* Decreased marauder gold to 200 250 300
                 * Aldwylf still stored for scen-2 still works if Caius makes it to the signpost
+				
+        ** Changes to 4_The_Port_City
+			** Added chaser_lord (from Scen_3)
+		 	** Dialogue changes many and varied
 
 	** Implemented major rewrite of all dialogue
 	** Recommented campaign
