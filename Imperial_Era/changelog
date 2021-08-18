@@ -8,10 +8,14 @@ FUTURE:
 	
 	** Remove get_hit_sound=.The Falcon has it as does the warmage. The latter also has a DEFENSE_ANIM so it is ok but the falcon is soundless.
 	
-version. 0.25.2 (UO - 17 August 2021)
+version 0.25.3 (UO -
+	* Fixed bug causing Samnis not be be recruitable in RPG era
+	
+	
+version 0.25.2 (UO - 17 August 2021)
 	* Removed deprecated SPECIAL_NOTES in unit descriptions
 	
-version. 0.25.1 (UO - 9 September 2020)
+version 0.25.1 (UO - 9 September 2020)
 	* Added Dunefolk to IE + Default Era
     * Updated unit image names that haven't been updated since the unit name changes
 
