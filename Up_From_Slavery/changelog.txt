@@ -10,6 +10,10 @@ Version 0.4+ (You? - Future plans)
     ** Think about removing the dragon from S6, we already have an Orcs/Dragon fight in the Wild Era
     ** Make the guard interaction in S4 more interesting
 
+Version 0.7.1 (UO -
+    * Sparxus can now recruit again (whoops!)
+    
+
 Version 0.7.0 (UO - 15 March 2020)
     * Port to 1.14/1.15
     * S1: Unlucky Draw
