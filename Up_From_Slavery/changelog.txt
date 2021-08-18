@@ -12,6 +12,8 @@ Version 0.4+ (You? - Future plans)
 
 Version 0.7.1 (UO -
     * Sparxus can now recruit again (whoops!)
+	* Added some extra turns to Scen. 4 (12 -> 18)
+	
     
 
 Version 0.7.0 (UO - 15 March 2020)
