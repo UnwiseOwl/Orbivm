@@ -16,6 +16,7 @@ version ? (The FUTURE)
     ** Gali taking Alfhelm's gold should work on some kind of formula.
 	
 version 0.8 (UO - ?
+	*Removed deprecated special description macro
 	*S1 updates:
 		* Updated {IS_HERO} macros to {TRAIT_LOYAL_HERO}
 		* Fixed a couple of typos
