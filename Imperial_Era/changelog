@@ -8,11 +8,14 @@ FUTURE:
 	
 	** Remove get_hit_sound=.The Falcon has it as does the warmage. The latter also has a DEFENSE_ANIM so it is ok but the falcon is soundless.
 	
-version 0.25.3 (UO -
+version 0.25.3 (UO - 6 March 2022)
 	* A number of bugs identified and fixed by Atreides
 		* Fixed bug causing Samnis not be be recruitable in RPG era 
 		* Changed interrupt to display a more natural message "Blinded!"
 		* Added some sounds and animations
+	* Some other bugs also found by Atreides
+		* Changed some remnant 'energy' type attacks still used by the Raindancer line back to 'arcane'
+		* Fixed 'figther' typo
 	
 version 0.25.2 (UO - 17 August 2021)
 	* Removed deprecated SPECIAL_NOTES in unit descriptions
