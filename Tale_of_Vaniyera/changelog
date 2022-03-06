@@ -7,6 +7,9 @@
 	** Source/create extra terrain art
 		**Lavinian/Roman castle/camp hexes
 	** Customise music playlist
+Version 0.11.9 (UnwiseOwl - 6 March 2021)	
+	* Fixed missing fighter difficulty setting unit image
+	* Typos in scens 0, 1 and 2
 	
 Version 0.11.8 (UnwiseOwl - 17 Aug 2021)
 	* Removed deprecated SPECIAL_NOTES in unit descriptions
