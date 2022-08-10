@@ -7,6 +7,10 @@
 	** Source/create extra terrain art
 		**Lavinian/Roman castle/camp hexes
 	** Customise music playlist
+
+Version 0.12.0 (UnwiseOwl - 9 March 2021)	
+	* Revision to Tortured Souls to make them less cruel. They now move slightly slower and take more damage from energy attacks.
+	
 Version 0.11.9 (UnwiseOwl - 6 March 2021)	
 	* Fixed missing fighter difficulty setting unit image
 	* Typos in scens 0, 1 and 2
